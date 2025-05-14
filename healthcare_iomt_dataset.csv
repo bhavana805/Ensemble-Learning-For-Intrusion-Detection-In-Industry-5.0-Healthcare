@@ -1,0 +1,2001 @@
+Device_ID,IoMT_Type,Location,Data_Transferred_MB,Access_Time(ms),Auth_Method,Requests_Per_Minute,Data_Format,OS_Type,Alert_Level,Attack_Type
+D0082,Implant,ICU,187.58,4157,Two-Factor,96,HL7,Android,Medium,Phishing
+D0015,Monitor,Home,475.38,1391,Password,92,HL7,RTOS,Low,Phishing
+D0004,Wearable,Clinic,366.13,3713,Biometric,81,JSON,Android,Low,None
+D0095,Infusion Pump,Home,299.53,265,Biometric,95,FHIR,Windows,Low,None
+D0036,Implant,Ward,78.43,388,Two-Factor,8,JSON,Windows,Medium,Phishing
+D0032,Monitor,ER,78.42,4112,Biometric,25,HL7,RTOS,Critical,DoS Attack
+D0029,Wearable,ER,29.51,2758,Biometric,73,HL7,Android,Critical,Malware Injection
+D0018,Wearable,Ward,433.15,3202,Token,66,HL7,Android,Medium,Phishing
+D0095,Infusion Pump,Ward,300.76,1800,Token,79,HL7,Linux,Low,None
+D0014,Monitor,ICU,354.18,2471,Token,50,HL7,Linux,Medium,Malware Injection
+D0087,Implant,ER,10.78,759,Two-Factor,67,HL7,Windows,Critical,DoS Attack
+D0095,Sensor,ICU,484.97,3776,Biometric,49,XML,RTOS,Critical,Phishing
+D0070,Wearable,Home,416.31,3692,Password,36,XML,Windows,Critical,None
+D0012,Wearable,Ward,106.56,4043,Biometric,68,XML,RTOS,Medium,Phishing
+D0076,Infusion Pump,ICU,91.32,538,Two-Factor,78,JSON,RTOS,Critical,DoS Attack
+D0055,Monitor,Ward,92.11,96,Token,41,FHIR,RTOS,Critical,None
+D0005,Sensor,ICU,152.47,3409,Two-Factor,89,HL7,RTOS,Critical,Malware Injection
+D0004,Sensor,Home,262.62,4923,Token,62,XML,Android,Critical,Phishing
+D0012,Sensor,Home,216.26,4856,Two-Factor,10,JSON,RTOS,High,Malware Injection
+D0028,Monitor,Clinic,145.97,450,Password,21,FHIR,Android,Medium,Data Breach
+D0030,Implant,ER,306.12,4040,Token,36,HL7,RTOS,Medium,DoS Attack
+D0065,Wearable,Clinic,70.18,3207,Token,12,HL7,Android,Critical,Phishing
+D0078,Monitor,ER,146.43,4395,Biometric,91,FHIR,Android,Low,None
+D0004,Sensor,Home,183.5,440,Two-Factor,2,FHIR,Windows,Critical,DoS Attack
+D0072,Wearable,ICU,228.31,3903,Biometric,13,FHIR,Windows,Medium,Data Breach
+D0026,Wearable,Ward,392.7,4480,Two-Factor,53,JSON,Linux,High,None
+D0092,Sensor,Home,100.24,678,Password,32,XML,Windows,Critical,DoS Attack
+D0084,Sensor,Home,257.36,4282,Biometric,95,HL7,Windows,High,DoS Attack
+D0090,Wearable,ICU,296.41,2980,Token,16,XML,RTOS,Low,Phishing
+D0070,Infusion Pump,Home,23.7,1571,Password,32,FHIR,Linux,Low,Data Breach
+D0054,Wearable,Home,303.97,876,Two-Factor,32,HL7,Windows,Critical,Phishing
+D0029,Implant,ICU,85.68,4872,Token,98,HL7,Windows,High,Malware Injection
+D0058,Implant,Home,32.99,1550,Two-Factor,11,XML,Android,Low,None
+D0076,Infusion Pump,ER,474.47,3344,Token,10,XML,Linux,Critical,Data Breach
+D0036,Monitor,ER,482.83,2469,Two-Factor,15,HL7,Linux,Low,DoS Attack
+D0001,Wearable,ER,404.29,984,Token,17,JSON,Linux,Medium,DoS Attack
+D0098,Implant,ER,152.65,3092,Two-Factor,40,FHIR,Android,High,Malware Injection
+D0021,Wearable,Home,49.29,4547,Biometric,18,XML,Linux,Critical,DoS Attack
+D0090,Infusion Pump,Ward,342.27,1516,Token,55,HL7,Linux,Low,None
+D0055,Sensor,ER,220.36,3611,Token,73,XML,Android,Low,Phishing
+D0044,Infusion Pump,ER,61.46,664,Biometric,25,HL7,Linux,Medium,Data Breach
+D0036,Infusion Pump,Home,247.84,1232,Two-Factor,59,JSON,Linux,Critical,None
+D0020,Infusion Pump,Clinic,17.68,3273,Token,78,XML,RTOS,Low,Malware Injection
+D0028,Implant,Home,454.71,2717,Biometric,89,HL7,Windows,High,None
+D0098,Infusion Pump,ICU,129.76,180,Two-Factor,22,XML,Linux,Low,Malware Injection
+D0044,Sensor,ER,331.43,3033,Token,30,HL7,Android,High,None
+D0014,Sensor,ICU,156.2,4328,Token,84,FHIR,RTOS,Low,DoS Attack
+D0012,Sensor,ER,260.27,4509,Two-Factor,85,HL7,Windows,Critical,DoS Attack
+D0049,Monitor,Clinic,273.58,88,Biometric,44,HL7,Windows,Critical,Malware Injection
+D0013,Infusion Pump,Ward,92.83,4009,Token,32,HL7,RTOS,Critical,None
+D0046,Sensor,Clinic,484.81,3637,Two-Factor,51,HL7,Android,High,None
+D0045,Monitor,Home,387.68,970,Token,46,FHIR,Windows,Critical,Phishing
+D0078,Infusion Pump,Home,469.78,2819,Two-Factor,21,JSON,Windows,High,Phishing
+D0034,Infusion Pump,ICU,447.47,4161,Token,99,FHIR,Windows,High,Data Breach
+D0006,Wearable,ICU,299.15,542,Password,32,JSON,Linux,High,DoS Attack
+D0094,Infusion Pump,Home,460.98,1181,Biometric,94,JSON,Linux,Medium,Malware Injection
+D0059,Wearable,Home,44.7,3571,Biometric,39,FHIR,RTOS,Low,DoS Attack
+D0069,Implant,Home,98.39,360,Password,12,XML,RTOS,High,None
+D0016,Implant,ER,23.09,788,Two-Factor,47,JSON,Android,High,DoS Attack
+D0049,Monitor,Clinic,163,3291,Biometric,18,FHIR,Android,Low,Phishing
+D0011,Wearable,ER,194.64,595,Two-Factor,21,HL7,RTOS,Critical,None
+D0071,Implant,Ward,136.04,2511,Token,13,FHIR,Android,Medium,DoS Attack
+D0038,Implant,ER,414.45,4396,Password,21,JSON,Windows,Low,Data Breach
+D0081,Implant,Home,178.7,4904,Two-Factor,8,XML,Windows,High,Phishing
+D0080,Infusion Pump,ER,140.83,1854,Two-Factor,46,XML,Android,Low,Phishing
+D0047,Wearable,ICU,271.58,3262,Biometric,7,XML,Android,High,DoS Attack
+D0074,Implant,Home,70.89,3860,Token,23,HL7,RTOS,Critical,None
+D0025,Wearable,Clinic,401.2,863,Biometric,96,FHIR,RTOS,Low,None
+D0091,Sensor,ER,37.74,4174,Token,75,FHIR,Android,Medium,Phishing
+D0009,Sensor,Home,493.45,2082,Biometric,86,XML,Windows,Low,None
+D0006,Infusion Pump,ICU,386.24,4622,Two-Factor,22,HL7,Linux,High,Data Breach
+D0085,Sensor,ICU,99.76,4463,Two-Factor,89,XML,Android,High,Malware Injection
+D0030,Monitor,ER,3.26,294,Password,22,JSON,RTOS,Medium,None
+D0099,Wearable,Home,407.82,4893,Two-Factor,92,FHIR,RTOS,High,Data Breach
+D0038,Implant,Clinic,353.58,4842,Two-Factor,29,HL7,Android,High,None
+D0011,Monitor,Ward,364.64,321,Two-Factor,13,XML,RTOS,High,Phishing
+D0030,Monitor,ICU,385.75,3561,Two-Factor,82,HL7,Windows,Low,Data Breach
+D0013,Sensor,Ward,37.49,1821,Password,2,JSON,RTOS,Low,Phishing
+D0049,Wearable,Clinic,179.55,1312,Token,29,JSON,Linux,Medium,DoS Attack
+D0036,Implant,ER,58.38,2474,Password,85,FHIR,Linux,Medium,None
+D0059,Monitor,ICU,431.62,4411,Password,79,HL7,Windows,Critical,None
+D0082,Infusion Pump,Ward,311.84,970,Biometric,52,XML,RTOS,High,Phishing
+D0047,Implant,ICU,165.78,3480,Token,27,XML,RTOS,Medium,None
+D0021,Sensor,Ward,32.25,4485,Biometric,50,XML,Android,High,Malware Injection
+D0048,Wearable,Home,155.84,4534,Password,95,FHIR,Linux,Medium,None
+D0046,Infusion Pump,Home,162.93,2674,Two-Factor,79,JSON,Android,Critical,Data Breach
+D0027,Implant,ER,364.94,3810,Token,23,XML,Android,Medium,DoS Attack
+D0086,Implant,Clinic,318.96,2100,Two-Factor,88,FHIR,RTOS,Low,Phishing
+D0035,Monitor,ICU,443.66,3550,Password,44,FHIR,Linux,High,Data Breach
+D0090,Implant,Clinic,236.37,1215,Password,77,FHIR,Android,Low,Data Breach
+D0088,Wearable,Ward,60.24,425,Password,22,FHIR,RTOS,Medium,Data Breach
+D0083,Wearable,ER,356.77,2083,Token,43,FHIR,Windows,Medium,DoS Attack
+D0010,Implant,Home,380.51,195,Biometric,37,FHIR,Linux,Critical,Phishing
+D0078,Monitor,Home,280.86,4438,Biometric,61,JSON,RTOS,Critical,Phishing
+D0082,Infusion Pump,ER,385.6,481,Two-Factor,97,JSON,Windows,Critical,DoS Attack
+D0022,Infusion Pump,ICU,247.15,754,Token,56,XML,Android,Medium,Malware Injection
+D0069,Monitor,Clinic,261.61,2682,Two-Factor,3,HL7,Android,Critical,Data Breach
+D0094,Sensor,Ward,214.06,4544,Two-Factor,63,JSON,Android,Medium,Phishing
+D0032,Wearable,Clinic,13.2,1013,Biometric,19,HL7,Windows,Medium,DoS Attack
+D0021,Sensor,Home,54.39,2284,Token,23,XML,Windows,High,DoS Attack
+D0060,Monitor,ER,16.2,2091,Password,29,JSON,Android,Low,Data Breach
+D0049,Sensor,Home,318.39,1878,Two-Factor,30,JSON,Android,High,DoS Attack
+D0035,Monitor,Home,157.52,2158,Password,39,XML,Windows,Low,None
+D0082,Infusion Pump,Ward,254.53,4118,Token,25,XML,RTOS,Low,Data Breach
+D0089,Infusion Pump,ICU,453.83,988,Two-Factor,8,HL7,Linux,Medium,Phishing
+D0072,Sensor,ICU,125.02,4855,Password,58,HL7,Android,Critical,Data Breach
+D0029,Sensor,Ward,205.49,856,Password,16,XML,Windows,Critical,Malware Injection
+D0088,Wearable,ER,377.9,1513,Biometric,72,JSON,RTOS,Critical,Data Breach
+D0042,Infusion Pump,Clinic,114.78,3465,Token,1,FHIR,RTOS,High,Data Breach
+D0099,Wearable,ER,38.95,60,Token,5,HL7,RTOS,Critical,Malware Injection
+D0100,Sensor,Clinic,145.23,1918,Token,3,XML,Android,Medium,Data Breach
+D0008,Monitor,ICU,81.03,4917,Two-Factor,65,JSON,Windows,Critical,DoS Attack
+D0030,Infusion Pump,Home,464.88,934,Biometric,4,JSON,Linux,Critical,Phishing
+D0005,Monitor,Home,404.16,3614,Two-Factor,99,HL7,Windows,Critical,Phishing
+D0041,Wearable,ER,316.89,1439,Token,96,HL7,Windows,High,None
+D0052,Wearable,Ward,435.79,3451,Two-Factor,64,FHIR,RTOS,Medium,Phishing
+D0035,Implant,Clinic,401.93,4371,Password,98,HL7,Linux,Critical,Phishing
+D0009,Infusion Pump,Home,93.69,874,Two-Factor,89,FHIR,Android,Low,Malware Injection
+D0028,Infusion Pump,ER,446.33,2315,Two-Factor,10,XML,Android,High,Data Breach
+D0073,Wearable,Ward,269.9,986,Token,21,HL7,RTOS,Critical,Data Breach
+D0092,Monitor,ICU,403.82,2850,Password,46,FHIR,Android,Critical,DoS Attack
+D0041,Infusion Pump,Ward,448.1,2603,Token,91,HL7,Windows,High,Data Breach
+D0028,Wearable,ICU,159.34,3895,Password,27,XML,RTOS,Low,Malware Injection
+D0084,Implant,ER,55.47,1846,Password,66,XML,Linux,Low,DoS Attack
+D0064,Sensor,Ward,114.35,103,Password,41,FHIR,Windows,High,DoS Attack
+D0051,Infusion Pump,ER,213.84,776,Token,13,JSON,Linux,Critical,None
+D0083,Sensor,ICU,409.1,2786,Password,9,XML,Linux,High,Data Breach
+D0059,Monitor,Home,430.43,3220,Biometric,36,XML,Windows,High,Malware Injection
+D0019,Implant,Home,3.97,1963,Biometric,86,XML,Linux,High,Phishing
+D0034,Infusion Pump,ICU,255.62,1646,Biometric,90,XML,RTOS,High,Malware Injection
+D0018,Sensor,Clinic,209,1964,Biometric,58,JSON,RTOS,Low,Malware Injection
+D0032,Sensor,Clinic,111.44,2516,Token,54,XML,Windows,High,Malware Injection
+D0096,Wearable,Home,60.37,2787,Two-Factor,12,JSON,Android,Critical,DoS Attack
+D0072,Sensor,Home,169.14,899,Two-Factor,81,HL7,Linux,Critical,None
+D0069,Monitor,Ward,471.48,2159,Biometric,78,JSON,Windows,Medium,DoS Attack
+D0034,Sensor,Ward,161.94,52,Two-Factor,14,FHIR,Linux,Medium,Malware Injection
+D0096,Monitor,Home,259.64,4305,Biometric,34,HL7,Windows,High,Phishing
+D0075,Monitor,Clinic,351.66,4119,Biometric,53,JSON,Linux,Medium,DoS Attack
+D0055,Wearable,Ward,182.13,4926,Two-Factor,20,JSON,Android,High,Malware Injection
+D0075,Implant,ICU,485.91,942,Two-Factor,75,JSON,Windows,Low,Phishing
+D0052,Monitor,Ward,481.24,2080,Password,16,JSON,RTOS,Low,Data Breach
+D0047,Sensor,Ward,126.27,3210,Biometric,95,JSON,Android,Low,Data Breach
+D0029,Sensor,Ward,248.88,2426,Two-Factor,70,JSON,RTOS,Low,Malware Injection
+D0018,Monitor,ER,150.79,4725,Two-Factor,56,FHIR,Android,Critical,None
+D0066,Sensor,ICU,142.78,1983,Two-Factor,83,FHIR,RTOS,Low,None
+D0064,Infusion Pump,Home,18.93,1430,Password,58,FHIR,Android,Low,Malware Injection
+D0012,Wearable,Clinic,304.98,3731,Biometric,4,JSON,Linux,Critical,None
+D0097,Sensor,Clinic,251.59,1340,Biometric,4,HL7,RTOS,High,None
+D0007,Wearable,Home,26.21,1690,Token,20,FHIR,Linux,Medium,None
+D0015,Monitor,ER,139.68,2732,Password,10,XML,Windows,High,DoS Attack
+D0020,Monitor,Clinic,454.18,1037,Password,24,XML,Linux,High,Phishing
+D0081,Monitor,Ward,120.16,1268,Biometric,99,JSON,RTOS,Medium,Malware Injection
+D0021,Wearable,Clinic,72.87,1405,Token,26,HL7,Android,Low,Data Breach
+D0088,Sensor,ICU,244.98,4315,Token,37,FHIR,Linux,Low,None
+D0055,Infusion Pump,ICU,492.83,4666,Biometric,85,JSON,Android,Low,Malware Injection
+D0077,Wearable,Home,121.41,4185,Two-Factor,54,HL7,Windows,Low,DoS Attack
+D0009,Infusion Pump,ER,336.23,1610,Password,21,XML,Windows,Medium,DoS Attack
+D0050,Sensor,ER,380.93,1468,Token,74,FHIR,RTOS,Low,None
+D0049,Sensor,Clinic,119.2,1004,Two-Factor,38,JSON,Android,Low,Phishing
+D0077,Wearable,ER,364.24,1033,Token,46,JSON,Linux,Low,Data Breach
+D0060,Implant,ER,184.21,1024,Two-Factor,4,HL7,Linux,Medium,Phishing
+D0068,Infusion Pump,Clinic,316.34,4183,Two-Factor,60,JSON,Windows,Critical,Data Breach
+D0033,Monitor,ICU,316.95,4022,Password,57,JSON,Android,Medium,Data Breach
+D0071,Infusion Pump,Ward,268.12,963,Token,45,FHIR,Android,Low,Malware Injection
+D0002,Sensor,Home,45.6,4599,Token,20,XML,Windows,Medium,Data Breach
+D0088,Sensor,ICU,417.73,86,Two-Factor,17,XML,Linux,High,Data Breach
+D0093,Wearable,ER,160.73,3437,Biometric,71,HL7,Windows,High,DoS Attack
+D0015,Implant,ER,93.67,1761,Token,4,XML,Android,Critical,Phishing
+D0088,Monitor,Clinic,20.87,3070,Password,93,HL7,Linux,Low,Phishing
+D0069,Infusion Pump,Home,295.65,845,Biometric,14,FHIR,Windows,Critical,DoS Attack
+D0097,Implant,Ward,338.94,4086,Token,3,HL7,Android,High,None
+D0035,Monitor,Clinic,8.79,4738,Password,88,XML,Android,Critical,Malware Injection
+D0099,Sensor,Clinic,256.29,3161,Biometric,80,JSON,RTOS,High,Phishing
+D0083,Sensor,Ward,113.63,1374,Token,58,FHIR,RTOS,High,None
+D0044,Wearable,Ward,322.76,367,Password,55,XML,Windows,Medium,DoS Attack
+D0015,Wearable,ER,87.6,2446,Biometric,4,FHIR,Linux,Low,Malware Injection
+D0038,Infusion Pump,Clinic,345.62,2212,Token,24,HL7,Linux,High,DoS Attack
+D0056,Implant,ICU,193.67,2795,Biometric,34,XML,RTOS,Low,None
+D0021,Implant,ICU,468.4,1641,Two-Factor,30,JSON,Android,Critical,Phishing
+D0059,Monitor,Clinic,69.19,3161,Two-Factor,82,JSON,RTOS,Critical,Phishing
+D0001,Infusion Pump,Ward,170.86,3980,Biometric,19,JSON,Windows,High,Data Breach
+D0093,Wearable,Home,57.18,2046,Two-Factor,31,JSON,RTOS,Low,DoS Attack
+D0093,Infusion Pump,Ward,462.38,1362,Two-Factor,60,FHIR,Linux,High,Data Breach
+D0034,Sensor,Ward,438.73,1335,Biometric,60,XML,Windows,High,DoS Attack
+D0065,Wearable,Home,129.34,4361,Two-Factor,19,JSON,Linux,Medium,Phishing
+D0098,Implant,Ward,330.16,2433,Biometric,49,JSON,Windows,Critical,DoS Attack
+D0023,Wearable,Home,408.7,3289,Biometric,63,JSON,Android,Low,DoS Attack
+D0065,Sensor,Clinic,277.82,2189,Two-Factor,83,HL7,RTOS,Critical,Malware Injection
+D0014,Wearable,Home,265.06,1754,Token,22,XML,Linux,Medium,None
+D0081,Implant,ICU,121.31,412,Biometric,24,FHIR,Windows,Critical,Malware Injection
+D0039,Sensor,Home,47,2654,Biometric,76,HL7,RTOS,Medium,Malware Injection
+D0082,Monitor,Ward,448.66,1766,Token,30,HL7,Linux,Critical,Data Breach
+D0065,Infusion Pump,Clinic,450.26,4501,Two-Factor,58,FHIR,Android,Low,DoS Attack
+D0078,Monitor,Home,316.73,4336,Password,31,JSON,Windows,Medium,None
+D0026,Sensor,Ward,169.85,3788,Token,64,JSON,Linux,Critical,Phishing
+D0020,Sensor,Home,174.93,2519,Password,19,XML,Linux,Medium,DoS Attack
+D0048,Sensor,Clinic,363.11,4845,Two-Factor,48,JSON,Android,Low,DoS Attack
+D0098,Implant,Clinic,448.61,606,Biometric,45,HL7,Windows,Critical,Malware Injection
+D0021,Sensor,ICU,443.6,875,Biometric,94,HL7,RTOS,High,None
+D0070,Infusion Pump,Clinic,390.05,2858,Two-Factor,55,HL7,Linux,Low,Data Breach
+D0100,Implant,Ward,321.19,4571,Two-Factor,55,FHIR,Windows,Low,Phishing
+D0068,Sensor,Clinic,42.53,2769,Two-Factor,97,JSON,Windows,Low,Phishing
+D0001,Implant,Clinic,81.23,3558,Two-Factor,18,JSON,Android,Low,Malware Injection
+D0077,Infusion Pump,Ward,449.33,3791,Two-Factor,63,JSON,Linux,High,Phishing
+D0042,Infusion Pump,Ward,303.41,1624,Two-Factor,92,JSON,RTOS,Critical,DoS Attack
+D0063,Implant,Clinic,5.09,4048,Two-Factor,47,XML,Linux,Low,DoS Attack
+D0003,Wearable,Clinic,51.19,2179,Biometric,75,XML,Linux,Critical,Malware Injection
+D0015,Monitor,Home,331.92,2453,Password,57,HL7,RTOS,Medium,Data Breach
+D0047,Sensor,Clinic,3.03,3379,Password,45,HL7,Windows,Low,DoS Attack
+D0040,Monitor,ICU,80.82,638,Biometric,33,FHIR,Linux,Low,Data Breach
+D0031,Infusion Pump,ICU,274.59,2062,Token,17,HL7,Windows,Critical,Data Breach
+D0008,Monitor,ICU,346.1,1597,Password,70,JSON,Android,High,Phishing
+D0031,Wearable,ICU,326.15,344,Token,4,HL7,Windows,Medium,DoS Attack
+D0073,Monitor,Clinic,112.52,2035,Biometric,20,HL7,RTOS,High,Phishing
+D0011,Monitor,Home,356.23,3167,Token,47,XML,RTOS,Critical,Malware Injection
+D0011,Infusion Pump,Ward,119.01,1740,Biometric,91,JSON,Android,Low,DoS Attack
+D0094,Infusion Pump,Clinic,163.04,1186,Two-Factor,15,FHIR,Windows,Critical,Malware Injection
+D0063,Sensor,ER,373.37,2114,Two-Factor,70,FHIR,Linux,Critical,Phishing
+D0009,Implant,Clinic,324.99,4505,Password,47,FHIR,Android,Critical,Phishing
+D0098,Sensor,ICU,424.69,4845,Password,78,HL7,RTOS,Critical,Phishing
+D0069,Infusion Pump,ER,328.98,4593,Token,75,FHIR,Windows,Low,DoS Attack
+D0099,Sensor,Clinic,284.37,4820,Token,9,FHIR,RTOS,Medium,Phishing
+D0017,Monitor,Home,47.29,1057,Password,90,FHIR,Linux,Low,Malware Injection
+D0017,Monitor,Home,184.17,2564,Two-Factor,16,XML,Android,Critical,Data Breach
+D0085,Infusion Pump,ER,132.97,3576,Biometric,69,JSON,Android,Critical,DoS Attack
+D0061,Infusion Pump,Ward,122.37,4731,Two-Factor,61,XML,RTOS,Low,None
+D0071,Sensor,ER,486.52,1297,Password,10,JSON,Android,High,Malware Injection
+D0022,Sensor,Home,196.85,3952,Biometric,50,XML,Windows,High,DoS Attack
+D0034,Monitor,ER,446.08,1485,Token,3,JSON,Windows,High,Phishing
+D0068,Implant,ICU,315.75,621,Password,77,FHIR,RTOS,Critical,None
+D0078,Implant,ICU,397.51,2432,Two-Factor,94,FHIR,RTOS,Low,None
+D0055,Infusion Pump,Ward,251.57,1295,Token,70,FHIR,Android,Low,DoS Attack
+D0028,Sensor,ER,288.66,2134,Token,81,XML,RTOS,High,Phishing
+D0070,Implant,ER,246.51,327,Password,51,FHIR,Windows,High,Malware Injection
+D0097,Sensor,ER,98.02,1937,Two-Factor,19,HL7,Linux,Low,Malware Injection
+D0094,Wearable,ER,361.36,4629,Password,42,JSON,Windows,Critical,Data Breach
+D0089,Monitor,Ward,140.75,1315,Biometric,35,XML,Android,High,Phishing
+D0026,Sensor,Home,12.65,4876,Biometric,46,FHIR,RTOS,Medium,Data Breach
+D0092,Sensor,Clinic,322.91,1090,Token,26,FHIR,RTOS,Medium,Malware Injection
+D0040,Sensor,Ward,88.97,967,Two-Factor,69,JSON,RTOS,Low,Phishing
+D0052,Implant,Home,470.26,935,Biometric,93,FHIR,Android,Critical,Data Breach
+D0086,Sensor,Home,476.99,2802,Biometric,64,FHIR,Linux,Medium,DoS Attack
+D0084,Wearable,Home,457.47,71,Biometric,37,JSON,Android,High,DoS Attack
+D0048,Implant,ER,185.39,4619,Biometric,84,JSON,Windows,Critical,None
+D0057,Infusion Pump,Ward,8.22,3241,Password,49,HL7,Linux,Low,Malware Injection
+D0067,Infusion Pump,Home,464.2,2403,Token,21,HL7,RTOS,High,Malware Injection
+D0058,Monitor,Clinic,214.38,4849,Token,74,JSON,Windows,Critical,Data Breach
+D0016,Wearable,Clinic,483.34,736,Biometric,64,XML,RTOS,Low,Data Breach
+D0032,Sensor,ICU,481.83,334,Token,5,HL7,Linux,Critical,None
+D0029,Wearable,Home,426.58,4861,Token,70,JSON,Android,Medium,Data Breach
+D0009,Infusion Pump,Ward,147.58,3797,Token,90,FHIR,Windows,Medium,None
+D0044,Sensor,ER,192.86,812,Token,4,XML,Android,Low,Phishing
+D0003,Wearable,ICU,425.64,2478,Password,39,FHIR,Windows,Medium,DoS Attack
+D0076,Implant,Home,158.8,2557,Biometric,35,HL7,RTOS,Low,Phishing
+D0071,Sensor,ER,85.16,78,Two-Factor,1,FHIR,RTOS,Medium,Phishing
+D0030,Implant,Ward,278.62,956,Password,24,XML,Android,Critical,Data Breach
+D0076,Wearable,Ward,468.11,3154,Token,57,JSON,RTOS,Critical,DoS Attack
+D0029,Sensor,ICU,348.17,4049,Biometric,70,JSON,Linux,Low,Data Breach
+D0001,Monitor,ICU,285.25,3044,Biometric,41,XML,Linux,High,None
+D0010,Monitor,Home,49.04,2556,Biometric,54,FHIR,Linux,Critical,DoS Attack
+D0091,Infusion Pump,ER,307.7,4715,Biometric,46,FHIR,Linux,Critical,DoS Attack
+D0081,Sensor,Clinic,495.03,3659,Token,60,XML,Windows,Low,Data Breach
+D0008,Wearable,ER,70.47,3603,Biometric,60,JSON,Windows,Low,Malware Injection
+D0030,Monitor,Ward,259.41,1503,Two-Factor,57,FHIR,Linux,High,Phishing
+D0009,Infusion Pump,Ward,438.75,4883,Two-Factor,31,HL7,Windows,Low,DoS Attack
+D0005,Sensor,Home,370.51,3406,Biometric,84,XML,Linux,High,Data Breach
+D0043,Monitor,Clinic,348.66,565,Token,24,HL7,Android,Low,Phishing
+D0010,Sensor,Home,351.39,88,Two-Factor,89,HL7,Windows,Critical,Phishing
+D0066,Infusion Pump,Ward,180.07,3392,Two-Factor,36,JSON,Linux,Low,None
+D0031,Wearable,Ward,147.15,936,Two-Factor,85,XML,Linux,Medium,Data Breach
+D0036,Infusion Pump,ER,404.78,2894,Password,30,FHIR,Android,Critical,Malware Injection
+D0086,Wearable,Clinic,405.15,2254,Password,24,FHIR,Android,Medium,Malware Injection
+D0063,Implant,ER,433.6,1148,Two-Factor,30,XML,RTOS,Medium,None
+D0028,Monitor,ER,456.66,1873,Token,86,JSON,Linux,Low,None
+D0070,Implant,Home,255.92,3251,Token,92,FHIR,RTOS,Low,Data Breach
+D0017,Wearable,ER,251.01,3205,Two-Factor,7,FHIR,Windows,Medium,Malware Injection
+D0093,Sensor,ICU,399.25,3143,Two-Factor,35,FHIR,Linux,Critical,Phishing
+D0074,Wearable,ICU,325.16,3580,Token,55,JSON,Linux,Low,Data Breach
+D0074,Wearable,ER,351.13,3828,Password,92,FHIR,Windows,Critical,DoS Attack
+D0061,Sensor,Clinic,398,2946,Password,14,FHIR,Android,Low,Data Breach
+D0032,Implant,ER,445.06,3503,Two-Factor,10,HL7,Linux,Medium,Malware Injection
+D0061,Monitor,Ward,169.33,3561,Token,80,JSON,Android,Medium,Phishing
+D0053,Wearable,Ward,188.1,1038,Password,16,FHIR,Linux,Low,None
+D0025,Wearable,Clinic,47.44,4166,Two-Factor,54,JSON,RTOS,Medium,Phishing
+D0013,Monitor,Home,289.35,4076,Biometric,95,JSON,Android,Low,None
+D0013,Wearable,ICU,18.45,4229,Two-Factor,89,FHIR,RTOS,High,DoS Attack
+D0085,Monitor,ICU,233.07,1732,Biometric,77,FHIR,Linux,Low,Data Breach
+D0056,Monitor,Home,271.55,4715,Two-Factor,70,JSON,RTOS,Critical,Malware Injection
+D0046,Monitor,ER,143.63,4013,Token,44,JSON,Linux,Medium,DoS Attack
+D0055,Sensor,Clinic,295.62,983,Token,73,JSON,Linux,Low,Data Breach
+D0053,Implant,ER,15.73,3648,Token,45,HL7,RTOS,Low,None
+D0060,Implant,Home,19.16,3283,Token,56,XML,Linux,Low,Malware Injection
+D0094,Infusion Pump,Clinic,411.39,2030,Biometric,84,FHIR,Windows,Critical,Malware Injection
+D0007,Sensor,ICU,180.42,1905,Two-Factor,82,HL7,Linux,Medium,None
+D0087,Infusion Pump,ICU,63.97,3106,Token,57,HL7,Linux,Low,Phishing
+D0084,Implant,ER,261.36,842,Password,21,JSON,Windows,Medium,Phishing
+D0083,Implant,Ward,385.11,841,Password,68,XML,Android,Critical,Phishing
+D0013,Implant,Home,108.3,1859,Password,50,FHIR,Windows,High,Malware Injection
+D0008,Wearable,Home,311.63,2305,Two-Factor,33,HL7,Windows,Critical,Data Breach
+D0052,Infusion Pump,ER,43.13,3660,Password,91,FHIR,Windows,High,Data Breach
+D0094,Sensor,Home,26.32,1657,Password,7,HL7,Windows,Low,Data Breach
+D0044,Infusion Pump,ICU,265.91,1034,Biometric,70,FHIR,Android,Medium,DoS Attack
+D0014,Implant,ER,270.55,3726,Two-Factor,15,JSON,Linux,High,DoS Attack
+D0032,Sensor,ICU,318.9,3430,Two-Factor,82,JSON,RTOS,Medium,Phishing
+D0025,Infusion Pump,Clinic,363.18,569,Password,32,XML,Android,Low,Phishing
+D0025,Implant,Clinic,487.94,640,Two-Factor,75,JSON,Android,Medium,Data Breach
+D0069,Implant,Ward,258.39,1100,Biometric,20,HL7,Linux,High,Phishing
+D0058,Sensor,Home,161.82,3683,Biometric,88,HL7,Windows,Low,Data Breach
+D0018,Monitor,Clinic,397.7,4494,Token,15,HL7,Windows,Low,None
+D0055,Sensor,Home,135.78,1009,Biometric,48,HL7,Android,High,Data Breach
+D0024,Monitor,ICU,219.77,742,Token,71,JSON,RTOS,Medium,DoS Attack
+D0036,Wearable,ER,39.69,3949,Password,21,JSON,Windows,Critical,Data Breach
+D0060,Sensor,Clinic,13.16,4523,Token,42,XML,Android,Medium,Phishing
+D0032,Monitor,ER,481.34,2996,Token,26,FHIR,RTOS,High,Data Breach
+D0010,Infusion Pump,Clinic,418.07,576,Password,14,XML,RTOS,Medium,Phishing
+D0057,Implant,Home,348.14,3274,Token,57,FHIR,RTOS,Critical,Data Breach
+D0071,Wearable,Clinic,204.77,2303,Biometric,37,JSON,RTOS,Medium,Malware Injection
+D0013,Sensor,Clinic,87.06,3394,Password,58,HL7,Android,Low,DoS Attack
+D0007,Monitor,ICU,78.64,4015,Two-Factor,21,XML,Android,Medium,DoS Attack
+D0084,Infusion Pump,Ward,125.5,1925,Token,82,XML,RTOS,Low,Data Breach
+D0070,Monitor,ICU,274.84,1813,Biometric,69,JSON,Windows,Critical,None
+D0002,Sensor,ER,357.44,570,Two-Factor,3,FHIR,Windows,Medium,Phishing
+D0012,Monitor,Home,330.27,1066,Password,87,XML,Android,Low,Data Breach
+D0097,Sensor,Home,140.33,166,Password,90,FHIR,RTOS,Critical,DoS Attack
+D0031,Monitor,Clinic,477.46,2483,Password,37,XML,RTOS,Low,None
+D0022,Implant,Home,369.08,633,Biometric,88,HL7,Android,Low,Phishing
+D0053,Sensor,Ward,277.4,444,Two-Factor,49,JSON,Android,Low,Malware Injection
+D0063,Sensor,Ward,306.05,3838,Password,19,FHIR,Android,Medium,Malware Injection
+D0062,Wearable,Clinic,210.09,2818,Biometric,89,JSON,Linux,Low,Phishing
+D0028,Implant,Clinic,124.24,4217,Biometric,85,JSON,Linux,High,Data Breach
+D0052,Sensor,ER,178.31,3910,Two-Factor,12,FHIR,RTOS,Critical,DoS Attack
+D0008,Infusion Pump,Clinic,379.04,323,Password,61,FHIR,Linux,Critical,Phishing
+D0022,Monitor,ICU,7.69,2063,Password,41,XML,Windows,Medium,Data Breach
+D0049,Infusion Pump,ICU,58.48,4483,Token,33,FHIR,RTOS,Medium,Phishing
+D0001,Monitor,ICU,23.48,1439,Password,50,JSON,Linux,Medium,Phishing
+D0050,Monitor,Ward,20.84,3616,Two-Factor,68,JSON,RTOS,High,None
+D0034,Wearable,Home,427.8,4752,Biometric,71,FHIR,Windows,Critical,DoS Attack
+D0059,Sensor,ER,351.98,215,Two-Factor,86,FHIR,Windows,Critical,Malware Injection
+D0037,Monitor,Clinic,237.35,1617,Password,33,XML,RTOS,Medium,Malware Injection
+D0055,Wearable,ER,49.37,778,Biometric,81,XML,Linux,Medium,None
+D0090,Infusion Pump,Ward,246.06,2093,Two-Factor,24,XML,RTOS,Low,Malware Injection
+D0094,Wearable,Clinic,237,4247,Password,61,JSON,Windows,Medium,Malware Injection
+D0072,Infusion Pump,Clinic,87.01,3546,Password,61,FHIR,Linux,Critical,DoS Attack
+D0085,Sensor,Ward,217.21,828,Password,98,HL7,Linux,Low,Data Breach
+D0092,Monitor,Home,199.55,263,Token,28,FHIR,Android,High,Phishing
+D0063,Implant,Clinic,308.12,3812,Token,58,FHIR,RTOS,High,DoS Attack
+D0020,Infusion Pump,Home,317.73,1626,Token,43,XML,Windows,Critical,None
+D0025,Monitor,Ward,23.13,2498,Biometric,41,HL7,Windows,Low,None
+D0038,Implant,ER,187.62,2986,Two-Factor,39,FHIR,RTOS,Medium,Malware Injection
+D0028,Implant,Clinic,313.12,3167,Biometric,86,HL7,RTOS,Medium,Malware Injection
+D0008,Infusion Pump,Home,251.82,641,Biometric,49,HL7,Windows,Low,DoS Attack
+D0075,Monitor,Clinic,428.32,2770,Password,17,FHIR,Windows,Low,None
+D0095,Implant,Home,329.52,763,Password,98,XML,RTOS,High,None
+D0070,Wearable,Clinic,81.89,985,Biometric,70,XML,RTOS,Medium,Phishing
+D0008,Wearable,Clinic,35.75,4387,Two-Factor,70,FHIR,Linux,Critical,DoS Attack
+D0096,Monitor,Clinic,321.39,51,Token,98,HL7,Android,Medium,Phishing
+D0041,Sensor,ER,13.74,2898,Biometric,65,HL7,Windows,High,DoS Attack
+D0008,Wearable,Clinic,293.09,4094,Biometric,74,XML,Linux,Low,Data Breach
+D0007,Infusion Pump,Home,470.15,1999,Two-Factor,85,XML,RTOS,Medium,None
+D0075,Monitor,ER,287.95,967,Two-Factor,5,XML,Android,Low,Malware Injection
+D0062,Implant,ICU,194.39,3224,Biometric,2,HL7,Windows,Medium,None
+D0065,Wearable,Home,321.82,2291,Password,22,HL7,Android,Critical,Data Breach
+D0068,Monitor,Home,229.4,139,Password,57,XML,Linux,Critical,DoS Attack
+D0021,Monitor,ICU,273.04,1759,Biometric,66,XML,RTOS,Medium,Data Breach
+D0008,Sensor,ER,470.76,2219,Password,74,HL7,Linux,Medium,None
+D0066,Implant,Clinic,193.36,4288,Two-Factor,98,JSON,Android,Low,Phishing
+D0011,Implant,Home,480.61,3091,Token,16,HL7,Linux,Low,DoS Attack
+D0024,Implant,ICU,452.72,155,Two-Factor,51,FHIR,Linux,High,Phishing
+D0009,Infusion Pump,Clinic,98.3,936,Token,39,FHIR,RTOS,High,Data Breach
+D0077,Monitor,ER,35.15,477,Biometric,86,HL7,RTOS,Medium,Malware Injection
+D0009,Infusion Pump,Home,50.84,1945,Biometric,76,FHIR,Android,Critical,DoS Attack
+D0087,Infusion Pump,Clinic,9.6,366,Token,88,JSON,Android,High,None
+D0031,Monitor,Clinic,47.67,684,Password,40,JSON,Linux,High,Phishing
+D0052,Implant,Ward,341.66,1975,Biometric,38,JSON,Windows,Critical,Data Breach
+D0016,Monitor,ICU,36.06,2106,Token,60,FHIR,Linux,Low,DoS Attack
+D0073,Sensor,Clinic,159.83,3194,Password,59,XML,Android,Low,Malware Injection
+D0032,Monitor,ER,422.52,2320,Token,10,JSON,Linux,Low,DoS Attack
+D0075,Monitor,Ward,12.12,1489,Biometric,99,JSON,RTOS,Medium,Malware Injection
+D0077,Wearable,Clinic,407.33,602,Biometric,64,XML,Linux,Medium,Data Breach
+D0006,Sensor,Clinic,141.29,765,Two-Factor,63,HL7,RTOS,Low,Phishing
+D0080,Wearable,ER,59.52,3961,Token,49,XML,Windows,Critical,DoS Attack
+D0011,Implant,Ward,348.52,1763,Password,64,HL7,RTOS,Low,DoS Attack
+D0054,Implant,Ward,314.66,3439,Biometric,32,HL7,Windows,Low,Phishing
+D0085,Sensor,ICU,438.8,1157,Two-Factor,7,XML,Windows,Medium,DoS Attack
+D0075,Infusion Pump,Clinic,367.67,4256,Two-Factor,21,JSON,Linux,Critical,DoS Attack
+D0073,Monitor,ICU,401.84,300,Password,20,HL7,Android,High,None
+D0067,Wearable,Ward,141.38,2480,Biometric,26,XML,Android,Critical,DoS Attack
+D0041,Sensor,ICU,89.13,2104,Two-Factor,68,JSON,Linux,Medium,None
+D0034,Wearable,ER,375.43,508,Password,86,HL7,Windows,High,DoS Attack
+D0027,Monitor,Home,403.51,257,Password,15,FHIR,Android,Medium,Phishing
+D0086,Infusion Pump,ER,495.26,949,Token,85,JSON,RTOS,Low,Data Breach
+D0092,Wearable,Ward,206.6,3511,Token,79,XML,Android,High,DoS Attack
+D0041,Sensor,ER,186.32,3435,Biometric,86,FHIR,Windows,Medium,Phishing
+D0031,Monitor,Ward,388.32,71,Two-Factor,92,XML,Windows,Low,Data Breach
+D0034,Monitor,ER,170.73,459,Two-Factor,14,HL7,RTOS,Medium,None
+D0051,Infusion Pump,Clinic,465.41,944,Token,27,JSON,Linux,Critical,Phishing
+D0017,Sensor,Clinic,429.28,564,Biometric,40,FHIR,Android,Medium,Malware Injection
+D0086,Monitor,ER,214.78,4954,Two-Factor,58,FHIR,Linux,Critical,Data Breach
+D0083,Wearable,ICU,375.56,4159,Password,28,FHIR,Android,Medium,Data Breach
+D0039,Implant,Ward,377.39,2184,Password,26,HL7,RTOS,Low,Malware Injection
+D0059,Sensor,Clinic,52.01,3645,Password,63,JSON,Linux,Critical,Data Breach
+D0041,Wearable,Ward,451.33,3006,Password,66,JSON,Android,Critical,Data Breach
+D0097,Infusion Pump,Clinic,252.87,1610,Token,25,HL7,Android,Low,Malware Injection
+D0010,Infusion Pump,Home,413.32,1316,Biometric,3,XML,Windows,Critical,Phishing
+D0002,Monitor,ER,160.36,2219,Password,72,FHIR,Windows,Medium,DoS Attack
+D0059,Infusion Pump,Clinic,447.81,3688,Password,44,XML,Android,Medium,Data Breach
+D0080,Implant,ER,194.91,799,Two-Factor,97,HL7,Windows,Critical,Phishing
+D0073,Wearable,Home,5.91,3477,Token,42,XML,Android,Medium,Phishing
+D0013,Sensor,Ward,452.74,4830,Two-Factor,99,XML,Android,Critical,Malware Injection
+D0010,Monitor,ER,46.1,1977,Two-Factor,6,HL7,Windows,High,Phishing
+D0069,Sensor,Clinic,160,3854,Two-Factor,39,FHIR,Windows,Medium,Malware Injection
+D0028,Wearable,Home,475.06,3752,Password,52,XML,Windows,Critical,Phishing
+D0065,Implant,Clinic,475.33,2406,Biometric,23,JSON,Linux,Medium,DoS Attack
+D0034,Wearable,Home,286.93,4840,Token,89,XML,RTOS,High,None
+D0017,Wearable,Home,316.1,2385,Password,50,XML,Android,High,Phishing
+D0045,Monitor,Clinic,224.5,356,Token,43,JSON,RTOS,Medium,Phishing
+D0009,Sensor,ER,146.96,3715,Password,19,FHIR,Linux,High,Phishing
+D0032,Wearable,Ward,164.67,2039,Biometric,69,JSON,Linux,Medium,Malware Injection
+D0048,Wearable,Ward,336.42,711,Biometric,51,FHIR,Android,Low,Data Breach
+D0037,Implant,Home,376.31,4694,Token,11,HL7,Android,Low,Malware Injection
+D0021,Infusion Pump,Clinic,395.89,361,Two-Factor,12,HL7,RTOS,High,DoS Attack
+D0057,Implant,Home,394.91,2970,Password,74,XML,RTOS,Medium,Malware Injection
+D0070,Sensor,Ward,46.06,1132,Token,8,XML,Windows,Low,Data Breach
+D0091,Sensor,Home,247.46,3021,Two-Factor,24,HL7,RTOS,Critical,DoS Attack
+D0039,Monitor,Home,29.25,804,Biometric,92,JSON,RTOS,Critical,Data Breach
+D0079,Infusion Pump,Ward,274.99,4180,Password,41,HL7,Linux,Critical,Data Breach
+D0084,Sensor,ER,221.04,4590,Biometric,36,FHIR,RTOS,Medium,None
+D0068,Infusion Pump,Home,443.91,402,Password,85,XML,Windows,High,DoS Attack
+D0002,Implant,ER,175.78,952,Two-Factor,72,JSON,RTOS,Medium,None
+D0086,Sensor,Home,58.97,3938,Password,55,XML,Android,High,None
+D0071,Wearable,Clinic,71.92,208,Two-Factor,9,HL7,Windows,Medium,Data Breach
+D0039,Sensor,Home,380.87,2027,Password,47,JSON,Android,Medium,None
+D0085,Infusion Pump,Home,309.3,1006,Token,15,HL7,Linux,Medium,Malware Injection
+D0014,Sensor,ICU,51.01,2121,Biometric,48,FHIR,Windows,Low,None
+D0018,Monitor,Clinic,42.51,453,Password,82,HL7,Windows,Critical,None
+D0034,Wearable,Clinic,350.63,4661,Password,42,JSON,RTOS,Critical,Data Breach
+D0015,Monitor,ER,36.85,2829,Biometric,60,HL7,Windows,Medium,Phishing
+D0014,Implant,ER,411.02,1437,Password,84,XML,Linux,Critical,Malware Injection
+D0096,Sensor,Home,353.27,3503,Biometric,70,XML,Linux,Critical,Data Breach
+D0071,Sensor,Ward,41.13,1005,Two-Factor,12,JSON,Linux,High,Phishing
+D0020,Implant,Home,42.88,1762,Token,2,XML,Windows,Low,Malware Injection
+D0035,Monitor,ICU,493.33,4753,Token,7,FHIR,Windows,Critical,DoS Attack
+D0037,Wearable,Home,187.45,1323,Biometric,80,FHIR,RTOS,Medium,Malware Injection
+D0078,Monitor,ICU,185.64,3861,Token,3,JSON,Linux,Medium,DoS Attack
+D0027,Infusion Pump,Home,406.49,2675,Biometric,3,HL7,RTOS,High,Malware Injection
+D0092,Monitor,ER,473.65,2432,Token,27,XML,Linux,Critical,Phishing
+D0044,Wearable,Home,493.01,1491,Password,40,XML,RTOS,Medium,DoS Attack
+D0027,Sensor,ER,376.81,3029,Password,33,HL7,Android,Medium,None
+D0088,Monitor,Ward,188.44,1847,Token,92,HL7,Android,Low,Malware Injection
+D0082,Implant,Ward,42.21,4440,Two-Factor,1,HL7,Linux,Critical,DoS Attack
+D0034,Wearable,Clinic,388.68,4059,Token,8,HL7,RTOS,Low,Data Breach
+D0065,Sensor,Home,279.42,4900,Password,32,XML,Windows,Low,Malware Injection
+D0063,Wearable,Clinic,212.4,1444,Token,48,FHIR,Windows,Critical,Malware Injection
+D0033,Implant,Home,453.22,4331,Password,4,JSON,Windows,Low,Phishing
+D0007,Infusion Pump,Ward,56.04,1319,Two-Factor,94,JSON,RTOS,Critical,Phishing
+D0012,Wearable,ICU,246.57,4782,Two-Factor,70,HL7,Android,Critical,Phishing
+D0082,Wearable,Clinic,6.17,3764,Token,19,FHIR,Windows,Critical,DoS Attack
+D0055,Monitor,Clinic,234.6,579,Password,32,XML,Linux,Low,None
+D0036,Implant,Ward,28.62,3673,Two-Factor,9,XML,Android,Critical,Malware Injection
+D0006,Implant,Ward,59.85,3008,Biometric,12,JSON,Linux,Critical,DoS Attack
+D0001,Infusion Pump,ICU,59.2,2964,Token,11,HL7,RTOS,Medium,Malware Injection
+D0043,Implant,Clinic,324.78,4939,Biometric,46,FHIR,Windows,Low,None
+D0099,Wearable,Ward,373.15,3641,Token,16,JSON,Linux,Low,Phishing
+D0017,Infusion Pump,Ward,291.89,2197,Password,1,FHIR,RTOS,Critical,DoS Attack
+D0082,Implant,ICU,481.11,4623,Password,63,HL7,Windows,Medium,None
+D0034,Infusion Pump,ICU,187.75,3419,Biometric,21,HL7,RTOS,Medium,Data Breach
+D0021,Implant,ER,143.21,989,Password,30,JSON,Linux,High,Data Breach
+D0095,Implant,Home,434.37,575,Password,13,HL7,Android,High,Malware Injection
+D0057,Monitor,ER,112.19,51,Password,34,FHIR,Linux,Medium,DoS Attack
+D0071,Implant,ICU,481.63,424,Biometric,4,FHIR,Linux,Low,DoS Attack
+D0091,Infusion Pump,Ward,6.57,2390,Password,28,JSON,Android,Low,Malware Injection
+D0055,Wearable,ICU,484.95,4055,Two-Factor,95,HL7,RTOS,Critical,Malware Injection
+D0072,Monitor,Clinic,22.06,3102,Token,59,XML,RTOS,High,None
+D0002,Implant,Ward,445.63,4698,Two-Factor,27,HL7,Linux,Medium,None
+D0015,Implant,ER,264.09,2415,Biometric,69,JSON,Linux,Critical,Phishing
+D0010,Infusion Pump,ER,496.49,1575,Biometric,25,JSON,RTOS,Low,Malware Injection
+D0089,Monitor,ER,37.36,4526,Password,3,XML,Android,Critical,Phishing
+D0020,Implant,Ward,277.15,1696,Two-Factor,97,JSON,Windows,Critical,DoS Attack
+D0070,Wearable,Home,484.67,63,Biometric,68,JSON,Android,Medium,Data Breach
+D0005,Wearable,Home,261.79,4649,Token,25,XML,Linux,Critical,Data Breach
+D0048,Implant,Home,314.88,2328,Biometric,20,XML,RTOS,Medium,Phishing
+D0075,Wearable,ICU,348.03,3205,Two-Factor,34,FHIR,Android,High,Malware Injection
+D0071,Monitor,ICU,227.54,179,Token,26,JSON,Linux,Critical,Malware Injection
+D0019,Implant,Clinic,313.97,3864,Token,5,XML,Windows,Low,Data Breach
+D0056,Infusion Pump,Ward,292.36,4983,Password,99,FHIR,Windows,Low,Data Breach
+D0017,Monitor,Clinic,450.63,3266,Token,61,JSON,Android,Critical,Phishing
+D0006,Wearable,ICU,23.2,2988,Password,92,XML,Linux,High,Phishing
+D0040,Implant,Ward,140.84,3978,Password,93,JSON,Linux,Low,DoS Attack
+D0047,Monitor,ER,475.23,2090,Biometric,9,FHIR,Windows,High,Data Breach
+D0006,Wearable,Ward,445.19,77,Biometric,50,HL7,RTOS,Critical,Malware Injection
+D0046,Implant,ICU,228.1,2163,Password,6,JSON,RTOS,High,DoS Attack
+D0027,Sensor,ER,310.26,1302,Two-Factor,83,JSON,Android,Medium,Phishing
+D0088,Infusion Pump,ER,139.05,4406,Password,60,JSON,Android,Low,Phishing
+D0032,Wearable,Ward,94.47,2096,Two-Factor,44,JSON,Windows,High,DoS Attack
+D0086,Wearable,Home,232.12,4605,Token,11,XML,Linux,Low,None
+D0014,Sensor,ICU,177,4073,Token,66,HL7,RTOS,High,Data Breach
+D0046,Sensor,ICU,292.04,4446,Token,47,JSON,RTOS,Low,DoS Attack
+D0100,Monitor,Home,39.33,3424,Password,73,XML,RTOS,Low,Malware Injection
+D0072,Infusion Pump,Clinic,487.21,3516,Two-Factor,85,HL7,RTOS,Critical,DoS Attack
+D0053,Infusion Pump,Clinic,493.11,3131,Password,88,FHIR,Windows,High,None
+D0080,Wearable,ICU,349.23,3828,Token,98,FHIR,RTOS,Critical,Data Breach
+D0096,Sensor,Home,268.28,679,Biometric,86,FHIR,Linux,Low,Phishing
+D0020,Infusion Pump,Home,155.11,319,Token,3,FHIR,RTOS,High,Phishing
+D0031,Implant,ER,406.99,2689,Token,76,FHIR,Android,High,Phishing
+D0021,Infusion Pump,Clinic,342.52,2043,Biometric,92,HL7,Linux,Medium,Phishing
+D0023,Wearable,Clinic,81.73,2941,Two-Factor,30,JSON,RTOS,Low,DoS Attack
+D0053,Infusion Pump,ER,455.51,3482,Token,90,FHIR,Windows,Medium,None
+D0004,Monitor,Ward,411.36,1330,Two-Factor,21,JSON,Windows,Medium,None
+D0023,Sensor,Clinic,474.93,2410,Biometric,28,JSON,RTOS,High,Phishing
+D0095,Wearable,ER,363,625,Biometric,90,JSON,Android,Medium,Malware Injection
+D0043,Wearable,Home,306.9,1357,Biometric,62,JSON,Windows,Low,Phishing
+D0053,Sensor,Ward,209.41,3242,Password,33,JSON,Linux,Critical,DoS Attack
+D0086,Sensor,ICU,466.4,3228,Two-Factor,85,HL7,Android,Medium,None
+D0095,Sensor,Home,433.1,2784,Password,35,JSON,Windows,Medium,Data Breach
+D0032,Wearable,Ward,23.09,2262,Biometric,52,HL7,Android,High,Phishing
+D0035,Sensor,ER,13.67,2402,Token,34,HL7,Windows,High,Phishing
+D0021,Sensor,Home,188.54,3618,Password,41,JSON,Windows,High,Malware Injection
+D0090,Wearable,Ward,405.37,1705,Token,51,HL7,Android,Critical,Malware Injection
+D0014,Wearable,ICU,493.64,1629,Password,47,FHIR,RTOS,High,None
+D0049,Monitor,Home,75.63,2253,Two-Factor,82,FHIR,RTOS,Low,DoS Attack
+D0005,Infusion Pump,Home,297.27,1440,Token,58,FHIR,Android,Low,Phishing
+D0061,Implant,Clinic,190.75,1792,Password,75,JSON,Windows,High,Data Breach
+D0029,Wearable,Ward,484.97,1975,Biometric,57,FHIR,Windows,High,Data Breach
+D0026,Implant,Ward,421.14,669,Biometric,23,XML,Windows,Critical,Phishing
+D0059,Monitor,Clinic,419.25,1324,Two-Factor,48,XML,Windows,Critical,None
+D0045,Infusion Pump,ER,234.61,1006,Two-Factor,22,XML,Windows,Low,None
+D0040,Infusion Pump,ER,207.7,1989,Password,17,FHIR,RTOS,Critical,Malware Injection
+D0030,Infusion Pump,Clinic,137.07,4003,Biometric,69,HL7,Windows,High,DoS Attack
+D0029,Monitor,Home,28.66,2431,Token,11,XML,Android,Critical,Phishing
+D0004,Sensor,ICU,432.43,1018,Password,94,HL7,Windows,High,Phishing
+D0085,Infusion Pump,ER,406.54,1366,Password,15,HL7,Windows,Low,Malware Injection
+D0025,Infusion Pump,ICU,499.86,1093,Biometric,91,JSON,RTOS,Medium,Phishing
+D0052,Monitor,Ward,498.32,331,Two-Factor,35,XML,Linux,Critical,DoS Attack
+D0043,Sensor,Ward,277.94,2894,Token,33,JSON,Linux,Low,Data Breach
+D0036,Infusion Pump,ER,384.61,1108,Two-Factor,84,JSON,Windows,Low,Data Breach
+D0009,Infusion Pump,Home,472.41,4343,Password,16,JSON,RTOS,Critical,DoS Attack
+D0099,Sensor,Ward,424.9,2582,Password,34,FHIR,Windows,Medium,Data Breach
+D0036,Wearable,ICU,124.05,3878,Biometric,66,JSON,Linux,High,None
+D0045,Wearable,Home,225.55,1058,Two-Factor,99,HL7,RTOS,Low,Phishing
+D0083,Infusion Pump,ER,65.02,1279,Password,40,XML,Android,Low,DoS Attack
+D0066,Implant,Ward,477.05,1085,Password,28,HL7,Android,Medium,None
+D0052,Sensor,ER,303.28,4635,Two-Factor,47,XML,RTOS,High,Malware Injection
+D0087,Sensor,Home,114.71,325,Biometric,39,FHIR,Android,Low,None
+D0069,Implant,Home,336.01,2790,Biometric,70,XML,RTOS,Medium,Malware Injection
+D0043,Sensor,Home,309.26,2339,Token,73,XML,Windows,Critical,Malware Injection
+D0004,Monitor,Clinic,179.4,1289,Token,20,XML,Windows,Medium,None
+D0015,Sensor,Clinic,57.22,175,Token,1,XML,Linux,Medium,Malware Injection
+D0034,Sensor,ICU,335.95,4115,Two-Factor,72,HL7,Windows,Low,None
+D0023,Sensor,Home,260.39,4362,Token,87,XML,Windows,High,Phishing
+D0075,Wearable,Home,386.27,3918,Token,63,JSON,Linux,Critical,Phishing
+D0034,Monitor,Ward,260.32,1258,Two-Factor,67,XML,RTOS,Medium,Malware Injection
+D0005,Sensor,ICU,426.16,3299,Token,4,JSON,Windows,Critical,Phishing
+D0014,Monitor,ICU,276.18,968,Biometric,58,FHIR,Windows,High,None
+D0077,Monitor,ER,280.69,3973,Password,25,JSON,Windows,Critical,DoS Attack
+D0056,Monitor,Home,438.39,4453,Biometric,47,HL7,Linux,Critical,DoS Attack
+D0045,Implant,Ward,202.04,2019,Biometric,38,JSON,RTOS,Low,DoS Attack
+D0094,Sensor,ER,67.44,2843,Password,15,HL7,Linux,High,None
+D0041,Wearable,Clinic,14.88,941,Biometric,63,JSON,Android,Medium,Malware Injection
+D0056,Wearable,Home,377.69,4520,Password,21,XML,Windows,Low,None
+D0078,Wearable,ICU,310.34,2083,Biometric,99,FHIR,Android,Low,Malware Injection
+D0066,Wearable,Home,352.19,1414,Two-Factor,57,HL7,RTOS,Medium,Malware Injection
+D0015,Sensor,Home,106.88,178,Two-Factor,53,HL7,Windows,High,Phishing
+D0050,Wearable,Clinic,68.62,1064,Token,46,XML,Android,Critical,Data Breach
+D0074,Monitor,Ward,7.77,1849,Two-Factor,14,XML,Android,High,Data Breach
+D0025,Implant,Ward,175.62,4662,Password,76,JSON,Android,High,Phishing
+D0033,Infusion Pump,Ward,295.16,1568,Token,17,HL7,Windows,Critical,Malware Injection
+D0006,Wearable,ER,196.43,4231,Biometric,39,JSON,Windows,Critical,Malware Injection
+D0091,Infusion Pump,Ward,219.02,1248,Two-Factor,9,XML,Windows,Critical,Phishing
+D0056,Infusion Pump,ER,452.13,3923,Token,99,HL7,Windows,High,DoS Attack
+D0001,Infusion Pump,Clinic,174.45,2524,Two-Factor,77,FHIR,Linux,Medium,DoS Attack
+D0067,Monitor,Home,257.24,3535,Token,79,FHIR,Android,High,None
+D0069,Wearable,ER,391.93,4099,Password,82,HL7,Linux,Medium,Phishing
+D0088,Sensor,Clinic,198.57,3769,Password,97,HL7,RTOS,High,Phishing
+D0093,Monitor,ER,311.23,352,Biometric,6,XML,Android,Medium,None
+D0095,Sensor,Clinic,431.25,4002,Token,91,HL7,Windows,Critical,DoS Attack
+D0095,Wearable,Ward,474.79,4733,Password,23,HL7,Windows,High,DoS Attack
+D0086,Monitor,Ward,73.96,1036,Biometric,59,FHIR,Windows,High,Data Breach
+D0026,Infusion Pump,Clinic,463.33,1913,Token,91,XML,Linux,Low,Data Breach
+D0047,Monitor,ICU,246.31,4490,Biometric,98,JSON,Windows,Medium,Data Breach
+D0056,Monitor,Clinic,129.49,4959,Password,46,HL7,Android,High,Malware Injection
+D0009,Wearable,ER,229.84,3122,Biometric,38,XML,Android,High,None
+D0086,Infusion Pump,Clinic,490.03,3174,Token,14,XML,RTOS,Critical,DoS Attack
+D0043,Infusion Pump,Home,246.56,1377,Two-Factor,72,FHIR,Android,Medium,Malware Injection
+D0080,Implant,ICU,164.71,2458,Password,62,HL7,Windows,Medium,Phishing
+D0041,Implant,Clinic,316.88,3723,Token,35,HL7,Android,High,None
+D0085,Sensor,ICU,120.45,3341,Token,19,XML,Android,Medium,Malware Injection
+D0016,Implant,ICU,38.39,4083,Biometric,30,HL7,Linux,Medium,Malware Injection
+D0093,Wearable,Clinic,64.88,753,Password,78,FHIR,Android,Medium,Phishing
+D0039,Monitor,Clinic,64.46,624,Two-Factor,84,FHIR,RTOS,Medium,Malware Injection
+D0065,Infusion Pump,Ward,76.38,3282,Two-Factor,25,FHIR,Android,Medium,Malware Injection
+D0040,Monitor,Clinic,69.84,4833,Biometric,40,HL7,Linux,Low,Data Breach
+D0086,Wearable,Clinic,320.62,2682,Password,88,HL7,Linux,Low,Phishing
+D0053,Monitor,Ward,91.35,3878,Two-Factor,14,FHIR,Android,High,Phishing
+D0042,Infusion Pump,Ward,173.16,3280,Password,26,JSON,Android,Medium,Phishing
+D0052,Implant,Home,448.45,538,Biometric,87,XML,Linux,Critical,None
+D0090,Sensor,Clinic,237.24,1397,Password,22,JSON,Windows,High,Phishing
+D0038,Infusion Pump,ER,333.95,3731,Password,48,HL7,Android,High,DoS Attack
+D0071,Infusion Pump,ICU,86.57,3223,Password,83,XML,Linux,Medium,None
+D0017,Infusion Pump,Ward,96.55,4639,Biometric,51,XML,Android,Medium,None
+D0025,Infusion Pump,Clinic,20.91,1717,Biometric,3,HL7,Linux,Low,DoS Attack
+D0054,Wearable,ER,84.88,1687,Biometric,42,JSON,Windows,High,Phishing
+D0086,Infusion Pump,ICU,139.66,4164,Two-Factor,19,JSON,RTOS,High,DoS Attack
+D0049,Monitor,Clinic,88.92,3603,Token,73,JSON,Android,Medium,Malware Injection
+D0087,Wearable,ER,44.81,1050,Password,28,JSON,Android,High,Data Breach
+D0096,Implant,ICU,60.76,900,Token,84,FHIR,RTOS,Critical,Data Breach
+D0023,Monitor,ER,230.66,1438,Password,45,XML,RTOS,Medium,Malware Injection
+D0079,Monitor,Ward,103.56,3762,Password,71,JSON,Android,High,Data Breach
+D0073,Monitor,Clinic,182.45,1417,Password,78,HL7,Windows,Low,Malware Injection
+D0039,Monitor,ER,251.96,871,Biometric,63,FHIR,Android,Low,Malware Injection
+D0052,Wearable,ER,345.35,504,Two-Factor,73,XML,RTOS,Critical,Data Breach
+D0071,Implant,Clinic,20.14,1674,Biometric,19,HL7,Linux,Critical,Malware Injection
+D0001,Implant,ICU,399.81,2822,Password,47,FHIR,Windows,Medium,Data Breach
+D0039,Infusion Pump,Clinic,314.14,3776,Token,14,XML,Android,Critical,Phishing
+D0037,Sensor,ER,41.34,3197,Password,38,HL7,Android,High,Data Breach
+D0027,Wearable,Home,436.85,4139,Password,53,XML,Linux,Medium,Data Breach
+D0056,Implant,ICU,460.48,4856,Two-Factor,61,FHIR,Linux,Low,Phishing
+D0075,Wearable,ER,31.01,2240,Password,36,JSON,Windows,High,None
+D0078,Wearable,Home,138.8,966,Biometric,40,FHIR,Windows,High,Data Breach
+D0084,Infusion Pump,ICU,403.2,4036,Two-Factor,81,HL7,Android,Critical,Malware Injection
+D0042,Implant,Ward,374.26,2925,Two-Factor,30,JSON,Android,High,DoS Attack
+D0060,Sensor,Clinic,92.67,1490,Two-Factor,9,XML,RTOS,Medium,Phishing
+D0057,Sensor,ICU,105.07,4450,Password,64,XML,Android,Critical,Data Breach
+D0057,Sensor,ICU,185.55,785,Two-Factor,33,XML,Linux,High,Phishing
+D0087,Monitor,ER,242.52,3618,Two-Factor,52,FHIR,Windows,Low,Phishing
+D0028,Implant,Home,309.32,3388,Biometric,89,XML,Android,Critical,Malware Injection
+D0066,Monitor,ICU,184.77,3065,Token,14,XML,Windows,Low,Malware Injection
+D0061,Monitor,Clinic,231.54,2939,Biometric,75,XML,Android,Medium,Data Breach
+D0095,Monitor,ICU,373.86,1011,Biometric,53,FHIR,Linux,Low,Data Breach
+D0022,Infusion Pump,ICU,18.82,3039,Token,99,HL7,RTOS,High,Phishing
+D0085,Infusion Pump,ER,126.59,3898,Token,59,JSON,RTOS,Low,Phishing
+D0011,Wearable,ICU,356.82,1076,Two-Factor,78,XML,Windows,Critical,Phishing
+D0037,Wearable,Home,447.66,3915,Biometric,94,FHIR,Linux,Medium,Malware Injection
+D0066,Implant,ER,256.08,2913,Password,41,XML,Linux,Critical,Phishing
+D0085,Implant,Ward,266.29,2551,Biometric,68,JSON,Linux,High,None
+D0082,Infusion Pump,Ward,54.03,1997,Token,68,HL7,Android,Low,Data Breach
+D0080,Wearable,ER,223.98,1227,Two-Factor,92,HL7,RTOS,High,Data Breach
+D0043,Wearable,Home,266.54,4810,Two-Factor,8,XML,Linux,Low,DoS Attack
+D0012,Monitor,ER,121.61,61,Two-Factor,2,JSON,Android,Medium,None
+D0097,Sensor,ER,134.99,4449,Password,86,XML,Windows,Medium,Phishing
+D0031,Sensor,ER,188.95,3414,Password,41,HL7,Android,High,Malware Injection
+D0087,Sensor,ER,10.53,3072,Token,55,FHIR,Android,Medium,DoS Attack
+D0040,Infusion Pump,ICU,161.38,3421,Two-Factor,16,FHIR,Linux,Low,Malware Injection
+D0029,Sensor,Clinic,106.12,2880,Biometric,93,FHIR,Windows,Low,Malware Injection
+D0026,Sensor,Ward,164.08,92,Two-Factor,62,JSON,RTOS,Critical,Phishing
+D0019,Monitor,Home,60.32,993,Biometric,48,JSON,Windows,Low,Phishing
+D0004,Implant,ICU,445.32,2440,Biometric,30,HL7,Windows,Critical,Phishing
+D0006,Infusion Pump,Ward,297,2595,Password,12,JSON,Windows,Medium,None
+D0032,Wearable,Clinic,339.71,2461,Two-Factor,35,HL7,Windows,Critical,None
+D0061,Monitor,ER,394.69,1054,Token,11,HL7,Linux,High,None
+D0079,Sensor,Clinic,249.47,70,Two-Factor,64,XML,Android,Low,DoS Attack
+D0099,Wearable,Ward,43.92,456,Two-Factor,50,FHIR,RTOS,High,Malware Injection
+D0010,Monitor,Ward,268.78,1064,Token,85,FHIR,RTOS,Critical,Phishing
+D0059,Infusion Pump,ICU,293.63,4481,Token,21,HL7,Android,Medium,Phishing
+D0054,Sensor,ICU,372.85,1888,Two-Factor,69,JSON,RTOS,Critical,Phishing
+D0081,Infusion Pump,Home,216.11,3238,Token,48,HL7,Windows,High,None
+D0074,Monitor,ER,64.23,764,Biometric,20,FHIR,Linux,Critical,None
+D0025,Wearable,Clinic,142.25,4196,Password,67,XML,Windows,High,None
+D0092,Implant,ER,181.86,3904,Token,44,FHIR,Windows,Low,Phishing
+D0090,Sensor,Clinic,323.14,4469,Biometric,33,HL7,Linux,High,Data Breach
+D0050,Infusion Pump,ER,285.6,4934,Password,73,HL7,RTOS,High,Malware Injection
+D0064,Wearable,Ward,178.37,190,Token,61,FHIR,Linux,High,None
+D0052,Wearable,Ward,493.26,4615,Password,9,FHIR,Android,High,Malware Injection
+D0032,Implant,ER,303.08,4932,Two-Factor,68,JSON,Android,Critical,Phishing
+D0019,Monitor,Home,118.99,1013,Token,35,XML,Android,Low,None
+D0084,Implant,Ward,51.34,422,Biometric,81,FHIR,Linux,Medium,DoS Attack
+D0089,Implant,Home,76.85,3685,Biometric,98,XML,Android,Critical,None
+D0001,Monitor,Ward,123.36,2591,Password,88,XML,Windows,Critical,Malware Injection
+D0097,Monitor,ICU,80.76,3660,Biometric,96,JSON,Windows,Critical,DoS Attack
+D0099,Monitor,ICU,93.69,1742,Biometric,65,HL7,Android,High,Phishing
+D0014,Wearable,ER,142.91,155,Token,8,XML,Android,Medium,Phishing
+D0100,Wearable,Clinic,87.1,1731,Password,45,XML,Android,Critical,Malware Injection
+D0055,Sensor,ICU,448.43,4147,Biometric,87,XML,Android,Critical,Phishing
+D0029,Sensor,Ward,40.58,4066,Two-Factor,47,XML,Linux,Medium,None
+D0023,Implant,Ward,262.49,2686,Token,40,HL7,Linux,Low,DoS Attack
+D0090,Implant,ICU,205.49,2187,Biometric,76,JSON,Windows,Medium,Phishing
+D0067,Sensor,ICU,491.2,3466,Biometric,54,XML,RTOS,Medium,Phishing
+D0060,Infusion Pump,Clinic,56.46,4495,Biometric,76,FHIR,Windows,High,Malware Injection
+D0007,Implant,ICU,199.23,3580,Token,46,HL7,Linux,Critical,Data Breach
+D0072,Infusion Pump,ER,484.75,1336,Token,47,JSON,Windows,High,DoS Attack
+D0032,Infusion Pump,Clinic,432.82,3229,Password,15,FHIR,Windows,Low,Data Breach
+D0016,Monitor,ICU,408.63,3704,Token,19,FHIR,Linux,Critical,Phishing
+D0059,Wearable,Ward,129.32,2409,Biometric,26,FHIR,RTOS,Low,DoS Attack
+D0018,Sensor,ICU,85.86,494,Biometric,52,XML,Linux,Low,Phishing
+D0060,Wearable,ER,334.49,85,Two-Factor,93,XML,Windows,Critical,Data Breach
+D0086,Sensor,ER,464.72,1525,Token,22,FHIR,Linux,High,None
+D0068,Wearable,Ward,278.6,4007,Biometric,21,JSON,RTOS,Critical,Data Breach
+D0072,Sensor,Clinic,286.02,1848,Two-Factor,51,XML,RTOS,Medium,None
+D0077,Wearable,Ward,140.35,1895,Password,38,JSON,Linux,Critical,DoS Attack
+D0041,Monitor,ICU,384.86,1458,Password,20,XML,Linux,Medium,None
+D0097,Infusion Pump,Ward,93.93,1758,Password,29,XML,Linux,Medium,Phishing
+D0057,Sensor,Clinic,162.18,2988,Biometric,51,XML,Android,Medium,Data Breach
+D0079,Infusion Pump,Home,213.01,1350,Biometric,4,JSON,Windows,Critical,DoS Attack
+D0093,Sensor,Ward,254.05,1293,Password,55,XML,Windows,High,Phishing
+D0065,Sensor,Clinic,121.58,4026,Two-Factor,71,JSON,RTOS,Critical,Phishing
+D0055,Monitor,Home,57.86,3147,Password,92,XML,Windows,Low,DoS Attack
+D0071,Wearable,Clinic,305.5,4666,Token,28,HL7,Android,High,Phishing
+D0058,Sensor,Clinic,144.67,59,Biometric,4,XML,RTOS,High,Data Breach
+D0021,Wearable,Home,290.83,2475,Biometric,22,FHIR,Linux,Critical,None
+D0096,Monitor,Ward,77.6,1710,Token,76,JSON,Linux,Critical,Data Breach
+D0061,Implant,Home,240.83,2681,Biometric,45,HL7,RTOS,Medium,DoS Attack
+D0058,Infusion Pump,Ward,266.53,4865,Token,67,JSON,RTOS,Low,Malware Injection
+D0034,Sensor,Clinic,26.39,1122,Password,86,XML,RTOS,Low,Phishing
+D0097,Monitor,Ward,168.63,3275,Password,66,FHIR,Android,Medium,Data Breach
+D0032,Wearable,ER,67.64,1366,Biometric,88,FHIR,Linux,High,Data Breach
+D0082,Sensor,Home,32.16,4195,Biometric,34,FHIR,Android,High,Data Breach
+D0036,Wearable,Home,494.99,3733,Password,91,XML,Linux,Critical,Data Breach
+D0099,Implant,ICU,161.52,3323,Token,55,XML,RTOS,Low,None
+D0100,Sensor,Clinic,405.03,195,Password,1,FHIR,Android,High,Phishing
+D0067,Infusion Pump,Clinic,127.69,3090,Token,72,XML,Windows,Critical,Malware Injection
+D0063,Sensor,Ward,340.91,1512,Two-Factor,87,XML,Linux,Medium,Phishing
+D0081,Infusion Pump,ER,380.23,4726,Password,38,HL7,RTOS,Critical,Phishing
+D0031,Wearable,Clinic,298.02,1634,Token,6,XML,RTOS,Medium,DoS Attack
+D0036,Sensor,ER,236.05,532,Token,86,HL7,Android,Low,Data Breach
+D0057,Monitor,ICU,206.21,3229,Token,25,FHIR,Windows,Low,Data Breach
+D0010,Monitor,Home,174.76,1299,Biometric,82,JSON,Windows,High,None
+D0092,Implant,ER,464.8,4818,Biometric,17,XML,Linux,Critical,Malware Injection
+D0037,Monitor,Clinic,415.39,680,Two-Factor,61,FHIR,Linux,Low,Malware Injection
+D0031,Implant,Home,482.53,711,Two-Factor,12,FHIR,Linux,High,DoS Attack
+D0035,Wearable,ER,62.59,3553,Token,6,XML,Android,Critical,DoS Attack
+D0043,Infusion Pump,ER,365.57,2902,Biometric,90,JSON,RTOS,Critical,DoS Attack
+D0041,Wearable,Ward,469.2,2516,Token,27,JSON,Android,High,Data Breach
+D0070,Infusion Pump,Home,91.03,1037,Biometric,8,XML,RTOS,Critical,Data Breach
+D0011,Infusion Pump,ER,33.71,1596,Biometric,83,FHIR,RTOS,Low,None
+D0018,Implant,Ward,370.69,699,Two-Factor,65,XML,RTOS,High,Malware Injection
+D0020,Monitor,Clinic,287.45,1018,Token,57,JSON,Windows,Low,Malware Injection
+D0030,Monitor,ER,420.99,2687,Token,93,XML,Android,High,DoS Attack
+D0050,Implant,Ward,70.32,1150,Biometric,99,FHIR,Android,Medium,Phishing
+D0089,Implant,Ward,397.74,490,Biometric,40,JSON,Android,Low,Malware Injection
+D0020,Wearable,Home,101.21,819,Password,14,JSON,Windows,Medium,None
+D0091,Implant,Ward,82.25,1393,Two-Factor,35,JSON,Windows,High,Data Breach
+D0028,Monitor,ER,82.55,4408,Password,48,FHIR,RTOS,Critical,Malware Injection
+D0009,Implant,ICU,407.38,3779,Biometric,84,XML,Windows,Medium,None
+D0054,Implant,Clinic,332.77,3956,Token,56,JSON,Linux,High,Data Breach
+D0053,Infusion Pump,ER,261.77,1627,Biometric,49,FHIR,Linux,Medium,Phishing
+D0043,Implant,ER,179.74,4058,Password,13,FHIR,Linux,Low,DoS Attack
+D0070,Wearable,Clinic,438.66,3401,Two-Factor,61,HL7,Android,High,DoS Attack
+D0060,Implant,Clinic,196.53,4845,Biometric,49,JSON,Linux,High,DoS Attack
+D0054,Sensor,Ward,408.39,2399,Token,46,FHIR,Windows,Critical,Malware Injection
+D0008,Sensor,ER,219.85,3652,Password,62,XML,Android,High,None
+D0027,Infusion Pump,Ward,188.78,1291,Biometric,8,FHIR,Android,Low,DoS Attack
+D0054,Infusion Pump,Home,231.61,1175,Token,43,FHIR,Linux,High,Data Breach
+D0050,Sensor,Ward,151.04,2651,Token,20,HL7,RTOS,High,None
+D0099,Infusion Pump,Home,373.93,1240,Biometric,97,JSON,RTOS,Low,None
+D0075,Infusion Pump,ICU,251.61,4181,Password,90,FHIR,Windows,Medium,Malware Injection
+D0090,Monitor,ER,116.49,4889,Token,39,XML,Linux,Medium,Malware Injection
+D0003,Monitor,Home,449.84,4498,Two-Factor,85,HL7,Windows,Low,Phishing
+D0098,Implant,ICU,192.25,122,Password,49,FHIR,RTOS,Medium,Phishing
+D0074,Sensor,Clinic,272,1964,Token,64,XML,RTOS,High,Malware Injection
+D0049,Wearable,Ward,453.28,2522,Biometric,62,JSON,Linux,High,Malware Injection
+D0062,Sensor,ICU,312.31,3096,Biometric,54,HL7,RTOS,High,None
+D0001,Sensor,Home,58.89,757,Password,9,FHIR,RTOS,High,None
+D0046,Monitor,ER,469.95,1854,Token,88,HL7,RTOS,High,Malware Injection
+D0039,Monitor,Clinic,314.04,3763,Token,37,XML,Linux,Low,None
+D0097,Infusion Pump,Clinic,167.79,2614,Password,49,JSON,Linux,High,Malware Injection
+D0050,Wearable,ICU,70.07,2525,Password,41,JSON,RTOS,Medium,None
+D0054,Monitor,ICU,397.12,3660,Password,17,JSON,RTOS,Low,Malware Injection
+D0069,Infusion Pump,Ward,310.23,4305,Two-Factor,88,JSON,Android,Medium,Data Breach
+D0096,Wearable,Clinic,266.96,2873,Two-Factor,21,FHIR,Linux,High,Malware Injection
+D0095,Monitor,Clinic,447,1785,Two-Factor,51,XML,Windows,High,Data Breach
+D0070,Sensor,Ward,394.4,1635,Biometric,59,HL7,Windows,Critical,DoS Attack
+D0078,Sensor,ER,76.26,116,Two-Factor,39,FHIR,RTOS,Critical,Data Breach
+D0029,Wearable,Ward,156.21,3111,Two-Factor,55,HL7,RTOS,High,DoS Attack
+D0063,Wearable,Home,124.62,2478,Two-Factor,41,JSON,Android,Medium,Phishing
+D0029,Monitor,Home,372.1,4203,Token,39,XML,Android,Low,None
+D0035,Monitor,ICU,17.25,391,Two-Factor,13,FHIR,Linux,Medium,Phishing
+D0056,Wearable,Ward,285.16,2824,Password,64,HL7,Windows,Medium,Malware Injection
+D0063,Wearable,Ward,381.35,2867,Two-Factor,11,HL7,Android,Medium,Data Breach
+D0004,Infusion Pump,ICU,438.44,2711,Biometric,19,FHIR,Windows,Medium,DoS Attack
+D0050,Infusion Pump,ER,171.37,1282,Biometric,11,HL7,Android,Low,DoS Attack
+D0044,Infusion Pump,Ward,410.72,3924,Two-Factor,77,HL7,RTOS,Critical,Data Breach
+D0086,Sensor,Clinic,55.76,2451,Password,46,FHIR,Android,Critical,Malware Injection
+D0087,Sensor,Ward,423.3,1544,Password,45,XML,Android,Low,Data Breach
+D0052,Infusion Pump,ER,64.18,4261,Token,1,FHIR,Linux,Low,Phishing
+D0093,Infusion Pump,Ward,198.95,711,Password,40,FHIR,RTOS,Medium,Phishing
+D0022,Wearable,Clinic,398.75,3933,Token,19,XML,RTOS,Low,Malware Injection
+D0060,Sensor,Home,75.38,3669,Token,76,HL7,Linux,Critical,Data Breach
+D0017,Infusion Pump,Home,115.01,1918,Password,72,FHIR,Windows,High,Phishing
+D0080,Implant,ER,361.27,2384,Password,72,HL7,RTOS,High,DoS Attack
+D0069,Monitor,ER,360.16,3424,Token,61,HL7,RTOS,High,DoS Attack
+D0004,Infusion Pump,Clinic,320.75,1066,Biometric,12,HL7,Linux,Medium,None
+D0051,Sensor,Home,347.13,4456,Two-Factor,61,FHIR,Windows,Critical,Data Breach
+D0076,Infusion Pump,Home,271.59,257,Biometric,33,XML,RTOS,High,Malware Injection
+D0073,Implant,Home,126.27,2715,Password,45,JSON,Linux,Medium,DoS Attack
+D0085,Wearable,Home,173.18,2543,Password,90,XML,RTOS,High,DoS Attack
+D0004,Sensor,Clinic,91.21,682,Token,92,FHIR,Android,Low,Phishing
+D0011,Wearable,ER,454.27,2152,Two-Factor,69,XML,Windows,Low,DoS Attack
+D0083,Monitor,ER,291.9,3009,Password,8,JSON,Android,Medium,Data Breach
+D0055,Wearable,ICU,200.73,3133,Two-Factor,25,XML,Windows,Medium,Data Breach
+D0018,Infusion Pump,ER,231.27,4802,Biometric,91,FHIR,Linux,Medium,None
+D0060,Implant,Home,473.67,1981,Two-Factor,46,HL7,RTOS,Medium,Phishing
+D0024,Wearable,Ward,77.1,3769,Biometric,87,JSON,RTOS,High,Data Breach
+D0007,Implant,Home,293.32,2612,Password,30,XML,Linux,Medium,Data Breach
+D0034,Sensor,Home,253.19,1729,Password,47,FHIR,RTOS,Medium,Phishing
+D0049,Sensor,ER,305.92,286,Token,87,JSON,Android,Medium,Phishing
+D0042,Infusion Pump,ICU,9.55,4493,Biometric,49,JSON,Linux,Low,Phishing
+D0028,Infusion Pump,Clinic,436.13,4775,Biometric,47,XML,Android,Critical,Phishing
+D0059,Infusion Pump,Ward,466.09,1590,Two-Factor,84,FHIR,Windows,Low,None
+D0042,Implant,Ward,282.78,3993,Token,82,FHIR,RTOS,Low,DoS Attack
+D0044,Monitor,ICU,348.48,413,Token,18,JSON,Android,Low,Malware Injection
+D0098,Monitor,Home,461.29,2418,Token,66,JSON,RTOS,Critical,Phishing
+D0049,Monitor,Clinic,353.77,335,Biometric,68,HL7,Windows,Critical,Data Breach
+D0036,Sensor,Clinic,76.69,198,Password,94,XML,RTOS,Low,Malware Injection
+D0097,Sensor,Clinic,288.36,4087,Password,33,HL7,Windows,Medium,None
+D0054,Monitor,ER,303.55,4601,Two-Factor,36,JSON,Linux,Low,Malware Injection
+D0033,Infusion Pump,Home,212.35,1816,Two-Factor,82,JSON,RTOS,Low,Malware Injection
+D0011,Wearable,Ward,368.35,4945,Biometric,19,FHIR,Linux,Low,DoS Attack
+D0061,Monitor,Ward,467.22,1062,Password,28,FHIR,Windows,Critical,DoS Attack
+D0003,Wearable,Home,462.82,2881,Token,40,HL7,Linux,Low,Phishing
+D0096,Monitor,Ward,225.69,2557,Password,84,JSON,Android,High,Data Breach
+D0070,Wearable,ER,57.06,1573,Two-Factor,97,XML,Linux,Low,Phishing
+D0007,Infusion Pump,Clinic,492.43,2835,Password,76,FHIR,Android,Low,Malware Injection
+D0045,Sensor,Ward,419.53,2606,Token,15,FHIR,Windows,High,Phishing
+D0029,Monitor,ER,62.77,3775,Two-Factor,41,JSON,Windows,Low,Malware Injection
+D0084,Monitor,Clinic,460.46,4626,Biometric,39,XML,RTOS,Low,Data Breach
+D0009,Infusion Pump,Home,435.01,1651,Password,2,HL7,Android,Low,None
+D0100,Implant,Home,259.66,2458,Password,63,XML,RTOS,Medium,Malware Injection
+D0084,Monitor,ER,295.84,390,Biometric,29,JSON,RTOS,Medium,None
+D0006,Wearable,ER,199.8,2867,Biometric,74,XML,Windows,Medium,DoS Attack
+D0097,Infusion Pump,ER,27.85,2546,Token,66,XML,Linux,High,Phishing
+D0004,Implant,Ward,167.93,4980,Password,51,JSON,Windows,Low,Phishing
+D0032,Monitor,Home,401.53,1775,Two-Factor,75,HL7,Windows,Low,None
+D0026,Monitor,Ward,2.81,1739,Password,77,XML,Linux,Medium,DoS Attack
+D0003,Sensor,Ward,167.08,3317,Token,10,JSON,Android,High,DoS Attack
+D0080,Implant,Clinic,199.39,4456,Two-Factor,14,XML,Android,High,DoS Attack
+D0020,Infusion Pump,ER,268.93,311,Two-Factor,82,JSON,Linux,High,Malware Injection
+D0031,Wearable,Ward,459.97,1492,Two-Factor,51,HL7,Linux,Medium,DoS Attack
+D0017,Monitor,Clinic,173.5,455,Token,73,FHIR,RTOS,Medium,None
+D0061,Infusion Pump,ICU,173.8,2240,Password,39,HL7,Linux,Low,None
+D0086,Sensor,Clinic,368.88,4487,Two-Factor,28,FHIR,Linux,Low,Data Breach
+D0015,Monitor,ICU,226.38,293,Biometric,3,FHIR,RTOS,Low,Phishing
+D0073,Implant,ICU,112.69,4635,Token,84,XML,Android,Medium,Phishing
+D0028,Infusion Pump,ICU,226.49,4157,Two-Factor,70,JSON,Linux,Medium,Data Breach
+D0060,Wearable,ICU,70.86,610,Token,27,JSON,Linux,High,None
+D0090,Sensor,ER,88.61,4187,Biometric,2,JSON,RTOS,Medium,None
+D0033,Infusion Pump,Ward,249.43,2775,Two-Factor,93,HL7,Linux,Low,None
+D0099,Monitor,Ward,209.75,643,Password,38,HL7,RTOS,Low,Phishing
+D0048,Wearable,ICU,457.47,1876,Token,3,HL7,Windows,Medium,DoS Attack
+D0022,Monitor,Ward,181.52,3279,Two-Factor,16,HL7,RTOS,Critical,Phishing
+D0078,Monitor,ICU,290.5,3337,Two-Factor,94,XML,Windows,High,Data Breach
+D0078,Implant,Ward,316.32,4123,Token,40,XML,Windows,Medium,DoS Attack
+D0096,Implant,Clinic,7.04,183,Biometric,2,FHIR,RTOS,Critical,Malware Injection
+D0092,Monitor,ER,331.94,3188,Token,81,FHIR,RTOS,Low,Malware Injection
+D0015,Sensor,Home,89.43,3969,Password,41,JSON,RTOS,Medium,None
+D0100,Implant,ICU,480.55,122,Biometric,12,HL7,Android,High,DoS Attack
+D0021,Implant,Clinic,74.76,4544,Password,35,XML,Linux,Critical,Phishing
+D0040,Implant,Clinic,207.6,4275,Password,65,FHIR,RTOS,Critical,Data Breach
+D0014,Implant,ER,43.13,3028,Token,55,JSON,Windows,Medium,None
+D0075,Wearable,ER,498.44,4411,Two-Factor,45,JSON,Windows,Medium,None
+D0004,Monitor,ICU,251.35,2035,Biometric,79,HL7,RTOS,Critical,DoS Attack
+D0040,Wearable,ICU,297.89,842,Password,90,HL7,Linux,Low,Data Breach
+D0074,Infusion Pump,Clinic,34,4309,Two-Factor,85,JSON,Linux,High,Malware Injection
+D0087,Infusion Pump,Clinic,375.11,144,Two-Factor,62,HL7,Linux,Low,None
+D0049,Infusion Pump,ER,105.35,1183,Two-Factor,49,HL7,Windows,Critical,None
+D0051,Wearable,ICU,449.08,4967,Biometric,95,FHIR,RTOS,Low,DoS Attack
+D0092,Monitor,ICU,102.97,287,Two-Factor,25,FHIR,RTOS,Medium,None
+D0026,Infusion Pump,Clinic,95.75,2996,Token,23,FHIR,RTOS,Critical,DoS Attack
+D0010,Implant,Home,18.76,2580,Password,24,XML,Windows,High,Data Breach
+D0076,Infusion Pump,Clinic,236.3,2010,Two-Factor,38,HL7,RTOS,High,Malware Injection
+D0089,Sensor,Home,282.64,1098,Password,28,FHIR,Windows,Low,Malware Injection
+D0081,Implant,ICU,33.32,2579,Biometric,21,FHIR,Windows,Low,None
+D0032,Implant,Clinic,387.88,3014,Password,54,JSON,Linux,High,None
+D0014,Implant,ER,226.92,1013,Two-Factor,18,FHIR,RTOS,Critical,DoS Attack
+D0090,Infusion Pump,Ward,262.43,586,Biometric,36,JSON,RTOS,Low,Data Breach
+D0099,Implant,ICU,220.66,4273,Biometric,99,HL7,Android,Critical,DoS Attack
+D0039,Sensor,ICU,200.68,3729,Biometric,45,JSON,Linux,High,Phishing
+D0088,Wearable,Clinic,280.04,4237,Biometric,73,FHIR,Windows,Critical,None
+D0077,Sensor,Ward,78.04,3774,Biometric,53,XML,Linux,High,Malware Injection
+D0016,Monitor,Ward,91.37,592,Password,30,XML,Android,Critical,Malware Injection
+D0073,Implant,Ward,430.96,895,Two-Factor,60,HL7,Linux,Medium,DoS Attack
+D0006,Sensor,Clinic,473.08,3653,Password,98,FHIR,Linux,Critical,DoS Attack
+D0045,Infusion Pump,Clinic,186.97,3086,Two-Factor,32,HL7,Android,High,None
+D0069,Monitor,Home,135.74,2544,Biometric,67,JSON,Linux,Critical,DoS Attack
+D0055,Sensor,Home,322.18,4535,Biometric,67,HL7,Linux,Medium,Malware Injection
+D0085,Implant,Home,204.66,2769,Token,28,XML,Android,Low,Malware Injection
+D0048,Infusion Pump,ER,13.18,1934,Token,44,HL7,Android,Critical,Malware Injection
+D0009,Implant,ICU,78.5,4188,Password,79,JSON,Windows,High,Phishing
+D0065,Monitor,Home,358.13,4399,Password,41,FHIR,Android,Medium,DoS Attack
+D0083,Sensor,ER,329.63,3251,Two-Factor,63,HL7,RTOS,Low,None
+D0044,Implant,ER,14.03,2760,Two-Factor,23,JSON,RTOS,Critical,Malware Injection
+D0002,Monitor,Clinic,111.38,2003,Token,75,XML,RTOS,Low,Phishing
+D0054,Infusion Pump,Ward,115.92,4787,Token,48,FHIR,Windows,Critical,DoS Attack
+D0063,Sensor,Ward,336.11,3900,Two-Factor,32,HL7,Linux,Critical,Data Breach
+D0014,Sensor,Home,10.35,739,Password,57,HL7,Android,Low,None
+D0056,Monitor,ICU,52.5,2000,Two-Factor,33,XML,Windows,Low,None
+D0047,Sensor,ICU,400.06,506,Password,24,HL7,Linux,Medium,None
+D0082,Infusion Pump,ICU,89.68,2180,Two-Factor,39,XML,Android,Critical,None
+D0059,Infusion Pump,ER,326.55,4026,Biometric,34,XML,Linux,Critical,Data Breach
+D0091,Sensor,ER,119.47,4294,Biometric,56,FHIR,Android,Low,DoS Attack
+D0020,Implant,ER,50.17,1229,Password,28,XML,RTOS,Medium,DoS Attack
+D0056,Implant,Clinic,121.96,4335,Password,37,XML,Android,Low,DoS Attack
+D0023,Infusion Pump,ER,361.27,3615,Password,7,XML,Android,High,None
+D0094,Implant,ICU,427.92,932,Token,68,HL7,Windows,Medium,Data Breach
+D0067,Monitor,ICU,415.19,449,Token,37,XML,Windows,High,Phishing
+D0084,Wearable,Ward,198.89,658,Two-Factor,56,XML,Windows,Medium,None
+D0035,Sensor,ICU,334.21,1688,Token,65,XML,RTOS,Critical,Data Breach
+D0079,Monitor,ER,102.89,2198,Two-Factor,65,XML,RTOS,Low,Malware Injection
+D0069,Infusion Pump,ER,146.93,1432,Two-Factor,47,HL7,Android,Medium,DoS Attack
+D0100,Wearable,Home,448.22,1453,Two-Factor,20,XML,Windows,Critical,None
+D0062,Infusion Pump,Clinic,6.99,869,Password,19,JSON,RTOS,Critical,None
+D0060,Wearable,ICU,43.21,3342,Biometric,29,JSON,RTOS,High,Data Breach
+D0056,Monitor,Clinic,104.34,869,Token,74,JSON,Android,High,DoS Attack
+D0094,Wearable,ICU,13.75,469,Two-Factor,60,FHIR,Android,Critical,Phishing
+D0076,Implant,Ward,91.13,4269,Biometric,18,JSON,Linux,High,Malware Injection
+D0035,Monitor,Ward,291.73,4567,Two-Factor,92,JSON,Linux,Critical,Data Breach
+D0042,Sensor,Clinic,211,3352,Password,35,FHIR,Android,Critical,Phishing
+D0032,Infusion Pump,ER,446.39,1558,Two-Factor,43,HL7,Linux,Critical,Phishing
+D0012,Implant,Home,408.81,817,Token,95,HL7,RTOS,High,Malware Injection
+D0036,Sensor,ICU,171.24,2094,Biometric,91,FHIR,Android,Medium,Malware Injection
+D0058,Wearable,ICU,130.08,2189,Password,11,HL7,Android,Critical,Malware Injection
+D0032,Implant,Home,190.16,3079,Two-Factor,49,FHIR,Windows,Low,Phishing
+D0097,Sensor,Clinic,295.35,1599,Token,38,XML,RTOS,Low,Data Breach
+D0060,Monitor,Clinic,134.4,1814,Token,64,HL7,RTOS,High,Phishing
+D0073,Wearable,ICU,312.26,2695,Password,69,FHIR,Windows,Critical,Data Breach
+D0079,Sensor,Ward,205,3766,Token,8,XML,Linux,Critical,Phishing
+D0086,Wearable,Home,276.25,4655,Token,34,XML,Android,Medium,Malware Injection
+D0049,Sensor,ICU,218.35,4531,Token,48,JSON,Linux,Medium,DoS Attack
+D0044,Infusion Pump,Ward,147.59,2343,Token,56,FHIR,RTOS,Low,None
+D0004,Monitor,Clinic,474.25,4887,Two-Factor,76,FHIR,Linux,Low,Phishing
+D0064,Implant,Ward,381.92,2758,Password,65,JSON,RTOS,Low,None
+D0042,Sensor,ER,70.49,950,Biometric,31,HL7,Android,Low,None
+D0024,Wearable,ICU,434.3,3134,Biometric,4,FHIR,Android,Critical,None
+D0063,Monitor,Home,243.97,2059,Token,50,XML,Android,Low,Phishing
+D0028,Implant,Ward,447.33,291,Two-Factor,69,FHIR,Windows,Medium,DoS Attack
+D0046,Wearable,Clinic,400.03,2435,Token,30,JSON,Windows,Critical,None
+D0034,Monitor,Ward,212.89,4318,Token,88,FHIR,Windows,High,Phishing
+D0044,Wearable,Clinic,11.72,721,Two-Factor,59,HL7,Android,Medium,Phishing
+D0036,Monitor,ER,134.7,213,Password,67,JSON,Android,High,Phishing
+D0077,Implant,Clinic,271.05,514,Biometric,75,JSON,Linux,Low,Phishing
+D0090,Implant,Home,316.92,3092,Two-Factor,45,XML,RTOS,Low,Phishing
+D0036,Wearable,ER,129.31,4642,Biometric,4,FHIR,Windows,Critical,Data Breach
+D0072,Monitor,Ward,70.11,4845,Two-Factor,26,JSON,Android,Critical,Data Breach
+D0002,Sensor,ICU,417.55,2492,Two-Factor,27,HL7,Android,Medium,None
+D0067,Implant,Clinic,492.21,4848,Token,46,HL7,RTOS,High,Data Breach
+D0025,Sensor,Home,263.08,2405,Password,64,HL7,Windows,Critical,Phishing
+D0011,Sensor,ICU,86.25,4328,Biometric,91,XML,Windows,Critical,Phishing
+D0031,Infusion Pump,ICU,136.52,4774,Password,51,HL7,Linux,High,Data Breach
+D0093,Wearable,ER,9.69,2607,Token,50,XML,Android,High,None
+D0053,Wearable,Ward,457.19,595,Two-Factor,6,HL7,Linux,Low,None
+D0063,Wearable,ICU,59.32,4769,Biometric,59,FHIR,Android,Low,Malware Injection
+D0072,Monitor,Home,288.47,3885,Password,15,HL7,RTOS,Critical,Data Breach
+D0098,Implant,Clinic,137.39,643,Biometric,30,HL7,Linux,Low,Phishing
+D0031,Implant,Clinic,277.31,4889,Biometric,42,XML,Android,Critical,Phishing
+D0089,Infusion Pump,Clinic,325.88,3854,Biometric,37,FHIR,Windows,Critical,Malware Injection
+D0061,Infusion Pump,ER,414.96,1509,Password,42,FHIR,RTOS,High,Data Breach
+D0083,Infusion Pump,Home,103.61,3543,Biometric,35,XML,Android,Critical,None
+D0092,Sensor,ICU,5.99,2651,Password,87,FHIR,Linux,Critical,DoS Attack
+D0063,Wearable,Home,68.87,2494,Two-Factor,6,HL7,Linux,Critical,Malware Injection
+D0058,Monitor,ER,450.06,2722,Password,68,HL7,Android,Low,None
+D0003,Implant,ER,437.01,4250,Token,18,FHIR,RTOS,Low,Phishing
+D0012,Monitor,Ward,298.91,66,Biometric,73,HL7,Android,Medium,Malware Injection
+D0038,Wearable,Home,300.46,3241,Token,29,FHIR,Linux,High,Malware Injection
+D0029,Wearable,Clinic,332.69,442,Token,77,XML,Linux,Medium,DoS Attack
+D0052,Implant,ER,88.1,474,Two-Factor,59,XML,Windows,Critical,None
+D0089,Sensor,ER,457.25,621,Two-Factor,47,XML,Windows,Critical,DoS Attack
+D0032,Infusion Pump,Ward,209.68,3681,Password,17,JSON,Linux,Medium,Malware Injection
+D0040,Sensor,Clinic,191.88,1170,Password,96,HL7,Windows,High,None
+D0085,Wearable,ER,259.7,291,Biometric,22,XML,Windows,Critical,Data Breach
+D0075,Wearable,ICU,23.96,3947,Token,68,FHIR,Android,Critical,Malware Injection
+D0048,Sensor,Clinic,83.56,4145,Two-Factor,69,FHIR,RTOS,Low,DoS Attack
+D0061,Infusion Pump,Home,369.15,2329,Two-Factor,37,XML,Android,Critical,DoS Attack
+D0071,Infusion Pump,Ward,41.86,838,Biometric,49,XML,Android,Critical,DoS Attack
+D0068,Wearable,ICU,301.77,764,Two-Factor,13,XML,Windows,Critical,DoS Attack
+D0045,Infusion Pump,ICU,123.05,4904,Token,34,FHIR,Windows,Medium,DoS Attack
+D0055,Infusion Pump,Home,194.95,2899,Token,86,JSON,RTOS,Low,Phishing
+D0096,Implant,Ward,144.7,825,Biometric,53,XML,RTOS,Critical,Malware Injection
+D0071,Implant,ER,178.16,4076,Token,87,FHIR,RTOS,High,Data Breach
+D0043,Monitor,Ward,359.66,2297,Password,51,FHIR,Android,Critical,Data Breach
+D0046,Sensor,ER,148.91,128,Token,3,XML,RTOS,Critical,None
+D0090,Wearable,Home,283.42,3976,Password,42,HL7,Linux,High,Phishing
+D0059,Infusion Pump,Home,238.29,905,Two-Factor,98,FHIR,Linux,High,Malware Injection
+D0035,Monitor,ICU,332,2198,Password,32,HL7,Android,High,DoS Attack
+D0040,Implant,ICU,468.45,1081,Biometric,51,HL7,Windows,Low,DoS Attack
+D0033,Infusion Pump,ICU,366.42,4990,Biometric,85,JSON,RTOS,Low,Data Breach
+D0030,Sensor,Home,107.86,3321,Biometric,46,FHIR,Linux,Low,Data Breach
+D0016,Implant,ER,16.08,3626,Biometric,21,JSON,RTOS,Medium,Phishing
+D0093,Wearable,Home,131.5,4232,Biometric,44,XML,Linux,High,Malware Injection
+D0025,Infusion Pump,Home,297.74,3506,Token,11,JSON,Linux,High,Malware Injection
+D0041,Monitor,ICU,26.19,3556,Two-Factor,68,XML,RTOS,Low,None
+D0016,Wearable,Ward,248.43,457,Password,1,HL7,Linux,High,DoS Attack
+D0096,Infusion Pump,ICU,298.62,2761,Password,92,FHIR,RTOS,Critical,Malware Injection
+D0069,Infusion Pump,Ward,167.45,3138,Two-Factor,63,JSON,Linux,Low,Malware Injection
+D0098,Infusion Pump,ER,385.57,1718,Biometric,24,FHIR,Windows,Critical,Phishing
+D0089,Infusion Pump,ER,53.75,197,Biometric,99,HL7,Android,High,Phishing
+D0024,Infusion Pump,Clinic,38.03,4377,Password,13,HL7,Android,High,None
+D0025,Wearable,Clinic,364.23,3947,Biometric,98,HL7,RTOS,Critical,DoS Attack
+D0028,Sensor,Clinic,248,2000,Token,11,HL7,Android,High,None
+D0095,Sensor,ER,344.36,415,Token,51,HL7,Android,Low,Phishing
+D0062,Wearable,ICU,217.7,1724,Token,17,HL7,Android,Medium,DoS Attack
+D0036,Sensor,ICU,123.58,4581,Two-Factor,99,JSON,Android,Medium,Phishing
+D0093,Monitor,ICU,409.64,4544,Two-Factor,82,FHIR,Windows,Medium,Phishing
+D0076,Monitor,Home,399.81,2596,Token,86,JSON,Windows,High,None
+D0098,Wearable,Clinic,347.5,612,Two-Factor,24,HL7,Android,Low,Data Breach
+D0068,Monitor,ICU,136.44,3612,Token,19,XML,Windows,Low,Data Breach
+D0077,Wearable,Clinic,295.32,2539,Biometric,37,XML,Windows,High,None
+D0037,Monitor,Clinic,180.81,822,Two-Factor,85,HL7,Android,Low,Phishing
+D0013,Implant,Home,46.25,2087,Token,8,HL7,RTOS,High,Phishing
+D0025,Wearable,ER,458.7,3473,Two-Factor,28,HL7,Android,Medium,Phishing
+D0038,Infusion Pump,ICU,68.84,2617,Password,5,FHIR,Windows,Low,Data Breach
+D0030,Monitor,Home,475.14,1623,Password,17,FHIR,RTOS,High,DoS Attack
+D0047,Implant,ER,223.28,3744,Token,36,JSON,Windows,Low,Malware Injection
+D0082,Implant,ICU,187.58,4157,Two-Factor,96,HL7,Android,Medium,Phishing
+D0015,Monitor,Home,475.38,1391,Password,92,HL7,RTOS,Low,Phishing
+D0004,Wearable,Clinic,366.13,3713,Biometric,81,JSON,Android,Low,None
+D0095,Infusion Pump,Home,299.53,265,Biometric,95,FHIR,Windows,Low,None
+D0036,Implant,Ward,78.43,388,Two-Factor,8,JSON,Windows,Medium,Phishing
+D0032,Monitor,ER,78.42,4112,Biometric,25,HL7,RTOS,Critical,DoS Attack
+D0029,Wearable,ER,29.51,2758,Biometric,73,HL7,Android,Critical,Malware Injection
+D0018,Wearable,Ward,433.15,3202,Token,66,HL7,Android,Medium,Phishing
+D0095,Infusion Pump,Ward,300.76,1800,Token,79,HL7,Linux,Low,None
+D0014,Monitor,ICU,354.18,2471,Token,50,HL7,Linux,Medium,Malware Injection
+D0087,Implant,ER,10.78,759,Two-Factor,67,HL7,Windows,Critical,DoS Attack
+D0095,Sensor,ICU,484.97,3776,Biometric,49,XML,RTOS,Critical,Phishing
+D0070,Wearable,Home,416.31,3692,Password,36,XML,Windows,Critical,None
+D0012,Wearable,Ward,106.56,4043,Biometric,68,XML,RTOS,Medium,Phishing
+D0076,Infusion Pump,ICU,91.32,538,Two-Factor,78,JSON,RTOS,Critical,DoS Attack
+D0055,Monitor,Ward,92.11,96,Token,41,FHIR,RTOS,Critical,None
+D0005,Sensor,ICU,152.47,3409,Two-Factor,89,HL7,RTOS,Critical,Malware Injection
+D0004,Sensor,Home,262.62,4923,Token,62,XML,Android,Critical,Phishing
+D0012,Sensor,Home,216.26,4856,Two-Factor,10,JSON,RTOS,High,Malware Injection
+D0028,Monitor,Clinic,145.97,450,Password,21,FHIR,Android,Medium,Data Breach
+D0030,Implant,ER,306.12,4040,Token,36,HL7,RTOS,Medium,DoS Attack
+D0065,Wearable,Clinic,70.18,3207,Token,12,HL7,Android,Critical,Phishing
+D0078,Monitor,ER,146.43,4395,Biometric,91,FHIR,Android,Low,None
+D0004,Sensor,Home,183.5,440,Two-Factor,2,FHIR,Windows,Critical,DoS Attack
+D0072,Wearable,ICU,228.31,3903,Biometric,13,FHIR,Windows,Medium,Data Breach
+D0026,Wearable,Ward,392.7,4480,Two-Factor,53,JSON,Linux,High,None
+D0092,Sensor,Home,100.24,678,Password,32,XML,Windows,Critical,DoS Attack
+D0084,Sensor,Home,257.36,4282,Biometric,95,HL7,Windows,High,DoS Attack
+D0090,Wearable,ICU,296.41,2980,Token,16,XML,RTOS,Low,Phishing
+D0070,Infusion Pump,Home,23.7,1571,Password,32,FHIR,Linux,Low,Data Breach
+D0054,Wearable,Home,303.97,876,Two-Factor,32,HL7,Windows,Critical,Phishing
+D0029,Implant,ICU,85.68,4872,Token,98,HL7,Windows,High,Malware Injection
+D0058,Implant,Home,32.99,1550,Two-Factor,11,XML,Android,Low,None
+D0076,Infusion Pump,ER,474.47,3344,Token,10,XML,Linux,Critical,Data Breach
+D0036,Monitor,ER,482.83,2469,Two-Factor,15,HL7,Linux,Low,DoS Attack
+D0001,Wearable,ER,404.29,984,Token,17,JSON,Linux,Medium,DoS Attack
+D0098,Implant,ER,152.65,3092,Two-Factor,40,FHIR,Android,High,Malware Injection
+D0021,Wearable,Home,49.29,4547,Biometric,18,XML,Linux,Critical,DoS Attack
+D0090,Infusion Pump,Ward,342.27,1516,Token,55,HL7,Linux,Low,None
+D0055,Sensor,ER,220.36,3611,Token,73,XML,Android,Low,Phishing
+D0044,Infusion Pump,ER,61.46,664,Biometric,25,HL7,Linux,Medium,Data Breach
+D0036,Infusion Pump,Home,247.84,1232,Two-Factor,59,JSON,Linux,Critical,None
+D0020,Infusion Pump,Clinic,17.68,3273,Token,78,XML,RTOS,Low,Malware Injection
+D0028,Implant,Home,454.71,2717,Biometric,89,HL7,Windows,High,None
+D0098,Infusion Pump,ICU,129.76,180,Two-Factor,22,XML,Linux,Low,Malware Injection
+D0044,Sensor,ER,331.43,3033,Token,30,HL7,Android,High,None
+D0014,Sensor,ICU,156.2,4328,Token,84,FHIR,RTOS,Low,DoS Attack
+D0012,Sensor,ER,260.27,4509,Two-Factor,85,HL7,Windows,Critical,DoS Attack
+D0049,Monitor,Clinic,273.58,88,Biometric,44,HL7,Windows,Critical,Malware Injection
+D0013,Infusion Pump,Ward,92.83,4009,Token,32,HL7,RTOS,Critical,None
+D0046,Sensor,Clinic,484.81,3637,Two-Factor,51,HL7,Android,High,None
+D0045,Monitor,Home,387.68,970,Token,46,FHIR,Windows,Critical,Phishing
+D0078,Infusion Pump,Home,469.78,2819,Two-Factor,21,JSON,Windows,High,Phishing
+D0034,Infusion Pump,ICU,447.47,4161,Token,99,FHIR,Windows,High,Data Breach
+D0006,Wearable,ICU,299.15,542,Password,32,JSON,Linux,High,DoS Attack
+D0094,Infusion Pump,Home,460.98,1181,Biometric,94,JSON,Linux,Medium,Malware Injection
+D0059,Wearable,Home,44.7,3571,Biometric,39,FHIR,RTOS,Low,DoS Attack
+D0069,Implant,Home,98.39,360,Password,12,XML,RTOS,High,None
+D0016,Implant,ER,23.09,788,Two-Factor,47,JSON,Android,High,DoS Attack
+D0049,Monitor,Clinic,163,3291,Biometric,18,FHIR,Android,Low,Phishing
+D0011,Wearable,ER,194.64,595,Two-Factor,21,HL7,RTOS,Critical,None
+D0071,Implant,Ward,136.04,2511,Token,13,FHIR,Android,Medium,DoS Attack
+D0038,Implant,ER,414.45,4396,Password,21,JSON,Windows,Low,Data Breach
+D0081,Implant,Home,178.7,4904,Two-Factor,8,XML,Windows,High,Phishing
+D0080,Infusion Pump,ER,140.83,1854,Two-Factor,46,XML,Android,Low,Phishing
+D0047,Wearable,ICU,271.58,3262,Biometric,7,XML,Android,High,DoS Attack
+D0074,Implant,Home,70.89,3860,Token,23,HL7,RTOS,Critical,None
+D0025,Wearable,Clinic,401.2,863,Biometric,96,FHIR,RTOS,Low,None
+D0091,Sensor,ER,37.74,4174,Token,75,FHIR,Android,Medium,Phishing
+D0009,Sensor,Home,493.45,2082,Biometric,86,XML,Windows,Low,None
+D0006,Infusion Pump,ICU,386.24,4622,Two-Factor,22,HL7,Linux,High,Data Breach
+D0085,Sensor,ICU,99.76,4463,Two-Factor,89,XML,Android,High,Malware Injection
+D0030,Monitor,ER,3.26,294,Password,22,JSON,RTOS,Medium,None
+D0099,Wearable,Home,407.82,4893,Two-Factor,92,FHIR,RTOS,High,Data Breach
+D0038,Implant,Clinic,353.58,4842,Two-Factor,29,HL7,Android,High,None
+D0011,Monitor,Ward,364.64,321,Two-Factor,13,XML,RTOS,High,Phishing
+D0030,Monitor,ICU,385.75,3561,Two-Factor,82,HL7,Windows,Low,Data Breach
+D0013,Sensor,Ward,37.49,1821,Password,2,JSON,RTOS,Low,Phishing
+D0049,Wearable,Clinic,179.55,1312,Token,29,JSON,Linux,Medium,DoS Attack
+D0036,Implant,ER,58.38,2474,Password,85,FHIR,Linux,Medium,None
+D0059,Monitor,ICU,431.62,4411,Password,79,HL7,Windows,Critical,None
+D0082,Infusion Pump,Ward,311.84,970,Biometric,52,XML,RTOS,High,Phishing
+D0047,Implant,ICU,165.78,3480,Token,27,XML,RTOS,Medium,None
+D0021,Sensor,Ward,32.25,4485,Biometric,50,XML,Android,High,Malware Injection
+D0048,Wearable,Home,155.84,4534,Password,95,FHIR,Linux,Medium,None
+D0046,Infusion Pump,Home,162.93,2674,Two-Factor,79,JSON,Android,Critical,Data Breach
+D0027,Implant,ER,364.94,3810,Token,23,XML,Android,Medium,DoS Attack
+D0086,Implant,Clinic,318.96,2100,Two-Factor,88,FHIR,RTOS,Low,Phishing
+D0035,Monitor,ICU,443.66,3550,Password,44,FHIR,Linux,High,Data Breach
+D0090,Implant,Clinic,236.37,1215,Password,77,FHIR,Android,Low,Data Breach
+D0088,Wearable,Ward,60.24,425,Password,22,FHIR,RTOS,Medium,Data Breach
+D0083,Wearable,ER,356.77,2083,Token,43,FHIR,Windows,Medium,DoS Attack
+D0010,Implant,Home,380.51,195,Biometric,37,FHIR,Linux,Critical,Phishing
+D0078,Monitor,Home,280.86,4438,Biometric,61,JSON,RTOS,Critical,Phishing
+D0082,Infusion Pump,ER,385.6,481,Two-Factor,97,JSON,Windows,Critical,DoS Attack
+D0022,Infusion Pump,ICU,247.15,754,Token,56,XML,Android,Medium,Malware Injection
+D0069,Monitor,Clinic,261.61,2682,Two-Factor,3,HL7,Android,Critical,Data Breach
+D0094,Sensor,Ward,214.06,4544,Two-Factor,63,JSON,Android,Medium,Phishing
+D0032,Wearable,Clinic,13.2,1013,Biometric,19,HL7,Windows,Medium,DoS Attack
+D0021,Sensor,Home,54.39,2284,Token,23,XML,Windows,High,DoS Attack
+D0060,Monitor,ER,16.2,2091,Password,29,JSON,Android,Low,Data Breach
+D0049,Sensor,Home,318.39,1878,Two-Factor,30,JSON,Android,High,DoS Attack
+D0035,Monitor,Home,157.52,2158,Password,39,XML,Windows,Low,None
+D0082,Infusion Pump,Ward,254.53,4118,Token,25,XML,RTOS,Low,Data Breach
+D0089,Infusion Pump,ICU,453.83,988,Two-Factor,8,HL7,Linux,Medium,Phishing
+D0072,Sensor,ICU,125.02,4855,Password,58,HL7,Android,Critical,Data Breach
+D0029,Sensor,Ward,205.49,856,Password,16,XML,Windows,Critical,Malware Injection
+D0088,Wearable,ER,377.9,1513,Biometric,72,JSON,RTOS,Critical,Data Breach
+D0042,Infusion Pump,Clinic,114.78,3465,Token,1,FHIR,RTOS,High,Data Breach
+D0099,Wearable,ER,38.95,60,Token,5,HL7,RTOS,Critical,Malware Injection
+D0100,Sensor,Clinic,145.23,1918,Token,3,XML,Android,Medium,Data Breach
+D0008,Monitor,ICU,81.03,4917,Two-Factor,65,JSON,Windows,Critical,DoS Attack
+D0030,Infusion Pump,Home,464.88,934,Biometric,4,JSON,Linux,Critical,Phishing
+D0005,Monitor,Home,404.16,3614,Two-Factor,99,HL7,Windows,Critical,Phishing
+D0041,Wearable,ER,316.89,1439,Token,96,HL7,Windows,High,None
+D0052,Wearable,Ward,435.79,3451,Two-Factor,64,FHIR,RTOS,Medium,Phishing
+D0035,Implant,Clinic,401.93,4371,Password,98,HL7,Linux,Critical,Phishing
+D0009,Infusion Pump,Home,93.69,874,Two-Factor,89,FHIR,Android,Low,Malware Injection
+D0028,Infusion Pump,ER,446.33,2315,Two-Factor,10,XML,Android,High,Data Breach
+D0073,Wearable,Ward,269.9,986,Token,21,HL7,RTOS,Critical,Data Breach
+D0092,Monitor,ICU,403.82,2850,Password,46,FHIR,Android,Critical,DoS Attack
+D0041,Infusion Pump,Ward,448.1,2603,Token,91,HL7,Windows,High,Data Breach
+D0028,Wearable,ICU,159.34,3895,Password,27,XML,RTOS,Low,Malware Injection
+D0084,Implant,ER,55.47,1846,Password,66,XML,Linux,Low,DoS Attack
+D0064,Sensor,Ward,114.35,103,Password,41,FHIR,Windows,High,DoS Attack
+D0051,Infusion Pump,ER,213.84,776,Token,13,JSON,Linux,Critical,None
+D0083,Sensor,ICU,409.1,2786,Password,9,XML,Linux,High,Data Breach
+D0059,Monitor,Home,430.43,3220,Biometric,36,XML,Windows,High,Malware Injection
+D0019,Implant,Home,3.97,1963,Biometric,86,XML,Linux,High,Phishing
+D0034,Infusion Pump,ICU,255.62,1646,Biometric,90,XML,RTOS,High,Malware Injection
+D0018,Sensor,Clinic,209,1964,Biometric,58,JSON,RTOS,Low,Malware Injection
+D0032,Sensor,Clinic,111.44,2516,Token,54,XML,Windows,High,Malware Injection
+D0096,Wearable,Home,60.37,2787,Two-Factor,12,JSON,Android,Critical,DoS Attack
+D0072,Sensor,Home,169.14,899,Two-Factor,81,HL7,Linux,Critical,None
+D0069,Monitor,Ward,471.48,2159,Biometric,78,JSON,Windows,Medium,DoS Attack
+D0034,Sensor,Ward,161.94,52,Two-Factor,14,FHIR,Linux,Medium,Malware Injection
+D0096,Monitor,Home,259.64,4305,Biometric,34,HL7,Windows,High,Phishing
+D0075,Monitor,Clinic,351.66,4119,Biometric,53,JSON,Linux,Medium,DoS Attack
+D0055,Wearable,Ward,182.13,4926,Two-Factor,20,JSON,Android,High,Malware Injection
+D0075,Implant,ICU,485.91,942,Two-Factor,75,JSON,Windows,Low,Phishing
+D0052,Monitor,Ward,481.24,2080,Password,16,JSON,RTOS,Low,Data Breach
+D0047,Sensor,Ward,126.27,3210,Biometric,95,JSON,Android,Low,Data Breach
+D0029,Sensor,Ward,248.88,2426,Two-Factor,70,JSON,RTOS,Low,Malware Injection
+D0018,Monitor,ER,150.79,4725,Two-Factor,56,FHIR,Android,Critical,None
+D0066,Sensor,ICU,142.78,1983,Two-Factor,83,FHIR,RTOS,Low,None
+D0064,Infusion Pump,Home,18.93,1430,Password,58,FHIR,Android,Low,Malware Injection
+D0012,Wearable,Clinic,304.98,3731,Biometric,4,JSON,Linux,Critical,None
+D0097,Sensor,Clinic,251.59,1340,Biometric,4,HL7,RTOS,High,None
+D0007,Wearable,Home,26.21,1690,Token,20,FHIR,Linux,Medium,None
+D0015,Monitor,ER,139.68,2732,Password,10,XML,Windows,High,DoS Attack
+D0020,Monitor,Clinic,454.18,1037,Password,24,XML,Linux,High,Phishing
+D0081,Monitor,Ward,120.16,1268,Biometric,99,JSON,RTOS,Medium,Malware Injection
+D0021,Wearable,Clinic,72.87,1405,Token,26,HL7,Android,Low,Data Breach
+D0088,Sensor,ICU,244.98,4315,Token,37,FHIR,Linux,Low,None
+D0055,Infusion Pump,ICU,492.83,4666,Biometric,85,JSON,Android,Low,Malware Injection
+D0077,Wearable,Home,121.41,4185,Two-Factor,54,HL7,Windows,Low,DoS Attack
+D0009,Infusion Pump,ER,336.23,1610,Password,21,XML,Windows,Medium,DoS Attack
+D0050,Sensor,ER,380.93,1468,Token,74,FHIR,RTOS,Low,None
+D0049,Sensor,Clinic,119.2,1004,Two-Factor,38,JSON,Android,Low,Phishing
+D0077,Wearable,ER,364.24,1033,Token,46,JSON,Linux,Low,Data Breach
+D0060,Implant,ER,184.21,1024,Two-Factor,4,HL7,Linux,Medium,Phishing
+D0068,Infusion Pump,Clinic,316.34,4183,Two-Factor,60,JSON,Windows,Critical,Data Breach
+D0033,Monitor,ICU,316.95,4022,Password,57,JSON,Android,Medium,Data Breach
+D0071,Infusion Pump,Ward,268.12,963,Token,45,FHIR,Android,Low,Malware Injection
+D0002,Sensor,Home,45.6,4599,Token,20,XML,Windows,Medium,Data Breach
+D0088,Sensor,ICU,417.73,86,Two-Factor,17,XML,Linux,High,Data Breach
+D0093,Wearable,ER,160.73,3437,Biometric,71,HL7,Windows,High,DoS Attack
+D0015,Implant,ER,93.67,1761,Token,4,XML,Android,Critical,Phishing
+D0088,Monitor,Clinic,20.87,3070,Password,93,HL7,Linux,Low,Phishing
+D0069,Infusion Pump,Home,295.65,845,Biometric,14,FHIR,Windows,Critical,DoS Attack
+D0097,Implant,Ward,338.94,4086,Token,3,HL7,Android,High,None
+D0035,Monitor,Clinic,8.79,4738,Password,88,XML,Android,Critical,Malware Injection
+D0099,Sensor,Clinic,256.29,3161,Biometric,80,JSON,RTOS,High,Phishing
+D0083,Sensor,Ward,113.63,1374,Token,58,FHIR,RTOS,High,None
+D0044,Wearable,Ward,322.76,367,Password,55,XML,Windows,Medium,DoS Attack
+D0015,Wearable,ER,87.6,2446,Biometric,4,FHIR,Linux,Low,Malware Injection
+D0038,Infusion Pump,Clinic,345.62,2212,Token,24,HL7,Linux,High,DoS Attack
+D0056,Implant,ICU,193.67,2795,Biometric,34,XML,RTOS,Low,None
+D0021,Implant,ICU,468.4,1641,Two-Factor,30,JSON,Android,Critical,Phishing
+D0059,Monitor,Clinic,69.19,3161,Two-Factor,82,JSON,RTOS,Critical,Phishing
+D0001,Infusion Pump,Ward,170.86,3980,Biometric,19,JSON,Windows,High,Data Breach
+D0093,Wearable,Home,57.18,2046,Two-Factor,31,JSON,RTOS,Low,DoS Attack
+D0093,Infusion Pump,Ward,462.38,1362,Two-Factor,60,FHIR,Linux,High,Data Breach
+D0034,Sensor,Ward,438.73,1335,Biometric,60,XML,Windows,High,DoS Attack
+D0065,Wearable,Home,129.34,4361,Two-Factor,19,JSON,Linux,Medium,Phishing
+D0098,Implant,Ward,330.16,2433,Biometric,49,JSON,Windows,Critical,DoS Attack
+D0023,Wearable,Home,408.7,3289,Biometric,63,JSON,Android,Low,DoS Attack
+D0065,Sensor,Clinic,277.82,2189,Two-Factor,83,HL7,RTOS,Critical,Malware Injection
+D0014,Wearable,Home,265.06,1754,Token,22,XML,Linux,Medium,None
+D0081,Implant,ICU,121.31,412,Biometric,24,FHIR,Windows,Critical,Malware Injection
+D0039,Sensor,Home,47,2654,Biometric,76,HL7,RTOS,Medium,Malware Injection
+D0082,Monitor,Ward,448.66,1766,Token,30,HL7,Linux,Critical,Data Breach
+D0065,Infusion Pump,Clinic,450.26,4501,Two-Factor,58,FHIR,Android,Low,DoS Attack
+D0078,Monitor,Home,316.73,4336,Password,31,JSON,Windows,Medium,None
+D0026,Sensor,Ward,169.85,3788,Token,64,JSON,Linux,Critical,Phishing
+D0020,Sensor,Home,174.93,2519,Password,19,XML,Linux,Medium,DoS Attack
+D0048,Sensor,Clinic,363.11,4845,Two-Factor,48,JSON,Android,Low,DoS Attack
+D0098,Implant,Clinic,448.61,606,Biometric,45,HL7,Windows,Critical,Malware Injection
+D0021,Sensor,ICU,443.6,875,Biometric,94,HL7,RTOS,High,None
+D0070,Infusion Pump,Clinic,390.05,2858,Two-Factor,55,HL7,Linux,Low,Data Breach
+D0100,Implant,Ward,321.19,4571,Two-Factor,55,FHIR,Windows,Low,Phishing
+D0068,Sensor,Clinic,42.53,2769,Two-Factor,97,JSON,Windows,Low,Phishing
+D0001,Implant,Clinic,81.23,3558,Two-Factor,18,JSON,Android,Low,Malware Injection
+D0077,Infusion Pump,Ward,449.33,3791,Two-Factor,63,JSON,Linux,High,Phishing
+D0042,Infusion Pump,Ward,303.41,1624,Two-Factor,92,JSON,RTOS,Critical,DoS Attack
+D0063,Implant,Clinic,5.09,4048,Two-Factor,47,XML,Linux,Low,DoS Attack
+D0003,Wearable,Clinic,51.19,2179,Biometric,75,XML,Linux,Critical,Malware Injection
+D0015,Monitor,Home,331.92,2453,Password,57,HL7,RTOS,Medium,Data Breach
+D0047,Sensor,Clinic,3.03,3379,Password,45,HL7,Windows,Low,DoS Attack
+D0040,Monitor,ICU,80.82,638,Biometric,33,FHIR,Linux,Low,Data Breach
+D0031,Infusion Pump,ICU,274.59,2062,Token,17,HL7,Windows,Critical,Data Breach
+D0008,Monitor,ICU,346.1,1597,Password,70,JSON,Android,High,Phishing
+D0031,Wearable,ICU,326.15,344,Token,4,HL7,Windows,Medium,DoS Attack
+D0073,Monitor,Clinic,112.52,2035,Biometric,20,HL7,RTOS,High,Phishing
+D0011,Monitor,Home,356.23,3167,Token,47,XML,RTOS,Critical,Malware Injection
+D0011,Infusion Pump,Ward,119.01,1740,Biometric,91,JSON,Android,Low,DoS Attack
+D0094,Infusion Pump,Clinic,163.04,1186,Two-Factor,15,FHIR,Windows,Critical,Malware Injection
+D0063,Sensor,ER,373.37,2114,Two-Factor,70,FHIR,Linux,Critical,Phishing
+D0009,Implant,Clinic,324.99,4505,Password,47,FHIR,Android,Critical,Phishing
+D0098,Sensor,ICU,424.69,4845,Password,78,HL7,RTOS,Critical,Phishing
+D0069,Infusion Pump,ER,328.98,4593,Token,75,FHIR,Windows,Low,DoS Attack
+D0099,Sensor,Clinic,284.37,4820,Token,9,FHIR,RTOS,Medium,Phishing
+D0017,Monitor,Home,47.29,1057,Password,90,FHIR,Linux,Low,Malware Injection
+D0017,Monitor,Home,184.17,2564,Two-Factor,16,XML,Android,Critical,Data Breach
+D0085,Infusion Pump,ER,132.97,3576,Biometric,69,JSON,Android,Critical,DoS Attack
+D0061,Infusion Pump,Ward,122.37,4731,Two-Factor,61,XML,RTOS,Low,None
+D0071,Sensor,ER,486.52,1297,Password,10,JSON,Android,High,Malware Injection
+D0022,Sensor,Home,196.85,3952,Biometric,50,XML,Windows,High,DoS Attack
+D0034,Monitor,ER,446.08,1485,Token,3,JSON,Windows,High,Phishing
+D0068,Implant,ICU,315.75,621,Password,77,FHIR,RTOS,Critical,None
+D0078,Implant,ICU,397.51,2432,Two-Factor,94,FHIR,RTOS,Low,None
+D0055,Infusion Pump,Ward,251.57,1295,Token,70,FHIR,Android,Low,DoS Attack
+D0028,Sensor,ER,288.66,2134,Token,81,XML,RTOS,High,Phishing
+D0070,Implant,ER,246.51,327,Password,51,FHIR,Windows,High,Malware Injection
+D0097,Sensor,ER,98.02,1937,Two-Factor,19,HL7,Linux,Low,Malware Injection
+D0094,Wearable,ER,361.36,4629,Password,42,JSON,Windows,Critical,Data Breach
+D0089,Monitor,Ward,140.75,1315,Biometric,35,XML,Android,High,Phishing
+D0026,Sensor,Home,12.65,4876,Biometric,46,FHIR,RTOS,Medium,Data Breach
+D0092,Sensor,Clinic,322.91,1090,Token,26,FHIR,RTOS,Medium,Malware Injection
+D0040,Sensor,Ward,88.97,967,Two-Factor,69,JSON,RTOS,Low,Phishing
+D0052,Implant,Home,470.26,935,Biometric,93,FHIR,Android,Critical,Data Breach
+D0086,Sensor,Home,476.99,2802,Biometric,64,FHIR,Linux,Medium,DoS Attack
+D0084,Wearable,Home,457.47,71,Biometric,37,JSON,Android,High,DoS Attack
+D0048,Implant,ER,185.39,4619,Biometric,84,JSON,Windows,Critical,None
+D0057,Infusion Pump,Ward,8.22,3241,Password,49,HL7,Linux,Low,Malware Injection
+D0067,Infusion Pump,Home,464.2,2403,Token,21,HL7,RTOS,High,Malware Injection
+D0058,Monitor,Clinic,214.38,4849,Token,74,JSON,Windows,Critical,Data Breach
+D0016,Wearable,Clinic,483.34,736,Biometric,64,XML,RTOS,Low,Data Breach
+D0032,Sensor,ICU,481.83,334,Token,5,HL7,Linux,Critical,None
+D0029,Wearable,Home,426.58,4861,Token,70,JSON,Android,Medium,Data Breach
+D0009,Infusion Pump,Ward,147.58,3797,Token,90,FHIR,Windows,Medium,None
+D0044,Sensor,ER,192.86,812,Token,4,XML,Android,Low,Phishing
+D0003,Wearable,ICU,425.64,2478,Password,39,FHIR,Windows,Medium,DoS Attack
+D0076,Implant,Home,158.8,2557,Biometric,35,HL7,RTOS,Low,Phishing
+D0071,Sensor,ER,85.16,78,Two-Factor,1,FHIR,RTOS,Medium,Phishing
+D0030,Implant,Ward,278.62,956,Password,24,XML,Android,Critical,Data Breach
+D0076,Wearable,Ward,468.11,3154,Token,57,JSON,RTOS,Critical,DoS Attack
+D0029,Sensor,ICU,348.17,4049,Biometric,70,JSON,Linux,Low,Data Breach
+D0001,Monitor,ICU,285.25,3044,Biometric,41,XML,Linux,High,None
+D0010,Monitor,Home,49.04,2556,Biometric,54,FHIR,Linux,Critical,DoS Attack
+D0091,Infusion Pump,ER,307.7,4715,Biometric,46,FHIR,Linux,Critical,DoS Attack
+D0081,Sensor,Clinic,495.03,3659,Token,60,XML,Windows,Low,Data Breach
+D0008,Wearable,ER,70.47,3603,Biometric,60,JSON,Windows,Low,Malware Injection
+D0030,Monitor,Ward,259.41,1503,Two-Factor,57,FHIR,Linux,High,Phishing
+D0009,Infusion Pump,Ward,438.75,4883,Two-Factor,31,HL7,Windows,Low,DoS Attack
+D0005,Sensor,Home,370.51,3406,Biometric,84,XML,Linux,High,Data Breach
+D0043,Monitor,Clinic,348.66,565,Token,24,HL7,Android,Low,Phishing
+D0010,Sensor,Home,351.39,88,Two-Factor,89,HL7,Windows,Critical,Phishing
+D0066,Infusion Pump,Ward,180.07,3392,Two-Factor,36,JSON,Linux,Low,None
+D0031,Wearable,Ward,147.15,936,Two-Factor,85,XML,Linux,Medium,Data Breach
+D0036,Infusion Pump,ER,404.78,2894,Password,30,FHIR,Android,Critical,Malware Injection
+D0086,Wearable,Clinic,405.15,2254,Password,24,FHIR,Android,Medium,Malware Injection
+D0063,Implant,ER,433.6,1148,Two-Factor,30,XML,RTOS,Medium,None
+D0028,Monitor,ER,456.66,1873,Token,86,JSON,Linux,Low,None
+D0070,Implant,Home,255.92,3251,Token,92,FHIR,RTOS,Low,Data Breach
+D0017,Wearable,ER,251.01,3205,Two-Factor,7,FHIR,Windows,Medium,Malware Injection
+D0093,Sensor,ICU,399.25,3143,Two-Factor,35,FHIR,Linux,Critical,Phishing
+D0074,Wearable,ICU,325.16,3580,Token,55,JSON,Linux,Low,Data Breach
+D0074,Wearable,ER,351.13,3828,Password,92,FHIR,Windows,Critical,DoS Attack
+D0061,Sensor,Clinic,398,2946,Password,14,FHIR,Android,Low,Data Breach
+D0032,Implant,ER,445.06,3503,Two-Factor,10,HL7,Linux,Medium,Malware Injection
+D0061,Monitor,Ward,169.33,3561,Token,80,JSON,Android,Medium,Phishing
+D0053,Wearable,Ward,188.1,1038,Password,16,FHIR,Linux,Low,None
+D0025,Wearable,Clinic,47.44,4166,Two-Factor,54,JSON,RTOS,Medium,Phishing
+D0013,Monitor,Home,289.35,4076,Biometric,95,JSON,Android,Low,None
+D0013,Wearable,ICU,18.45,4229,Two-Factor,89,FHIR,RTOS,High,DoS Attack
+D0085,Monitor,ICU,233.07,1732,Biometric,77,FHIR,Linux,Low,Data Breach
+D0056,Monitor,Home,271.55,4715,Two-Factor,70,JSON,RTOS,Critical,Malware Injection
+D0046,Monitor,ER,143.63,4013,Token,44,JSON,Linux,Medium,DoS Attack
+D0055,Sensor,Clinic,295.62,983,Token,73,JSON,Linux,Low,Data Breach
+D0053,Implant,ER,15.73,3648,Token,45,HL7,RTOS,Low,None
+D0060,Implant,Home,19.16,3283,Token,56,XML,Linux,Low,Malware Injection
+D0094,Infusion Pump,Clinic,411.39,2030,Biometric,84,FHIR,Windows,Critical,Malware Injection
+D0007,Sensor,ICU,180.42,1905,Two-Factor,82,HL7,Linux,Medium,None
+D0087,Infusion Pump,ICU,63.97,3106,Token,57,HL7,Linux,Low,Phishing
+D0084,Implant,ER,261.36,842,Password,21,JSON,Windows,Medium,Phishing
+D0083,Implant,Ward,385.11,841,Password,68,XML,Android,Critical,Phishing
+D0013,Implant,Home,108.3,1859,Password,50,FHIR,Windows,High,Malware Injection
+D0008,Wearable,Home,311.63,2305,Two-Factor,33,HL7,Windows,Critical,Data Breach
+D0052,Infusion Pump,ER,43.13,3660,Password,91,FHIR,Windows,High,Data Breach
+D0094,Sensor,Home,26.32,1657,Password,7,HL7,Windows,Low,Data Breach
+D0044,Infusion Pump,ICU,265.91,1034,Biometric,70,FHIR,Android,Medium,DoS Attack
+D0014,Implant,ER,270.55,3726,Two-Factor,15,JSON,Linux,High,DoS Attack
+D0032,Sensor,ICU,318.9,3430,Two-Factor,82,JSON,RTOS,Medium,Phishing
+D0025,Infusion Pump,Clinic,363.18,569,Password,32,XML,Android,Low,Phishing
+D0025,Implant,Clinic,487.94,640,Two-Factor,75,JSON,Android,Medium,Data Breach
+D0069,Implant,Ward,258.39,1100,Biometric,20,HL7,Linux,High,Phishing
+D0058,Sensor,Home,161.82,3683,Biometric,88,HL7,Windows,Low,Data Breach
+D0018,Monitor,Clinic,397.7,4494,Token,15,HL7,Windows,Low,None
+D0055,Sensor,Home,135.78,1009,Biometric,48,HL7,Android,High,Data Breach
+D0024,Monitor,ICU,219.77,742,Token,71,JSON,RTOS,Medium,DoS Attack
+D0036,Wearable,ER,39.69,3949,Password,21,JSON,Windows,Critical,Data Breach
+D0060,Sensor,Clinic,13.16,4523,Token,42,XML,Android,Medium,Phishing
+D0032,Monitor,ER,481.34,2996,Token,26,FHIR,RTOS,High,Data Breach
+D0010,Infusion Pump,Clinic,418.07,576,Password,14,XML,RTOS,Medium,Phishing
+D0057,Implant,Home,348.14,3274,Token,57,FHIR,RTOS,Critical,Data Breach
+D0071,Wearable,Clinic,204.77,2303,Biometric,37,JSON,RTOS,Medium,Malware Injection
+D0013,Sensor,Clinic,87.06,3394,Password,58,HL7,Android,Low,DoS Attack
+D0007,Monitor,ICU,78.64,4015,Two-Factor,21,XML,Android,Medium,DoS Attack
+D0084,Infusion Pump,Ward,125.5,1925,Token,82,XML,RTOS,Low,Data Breach
+D0070,Monitor,ICU,274.84,1813,Biometric,69,JSON,Windows,Critical,None
+D0002,Sensor,ER,357.44,570,Two-Factor,3,FHIR,Windows,Medium,Phishing
+D0012,Monitor,Home,330.27,1066,Password,87,XML,Android,Low,Data Breach
+D0097,Sensor,Home,140.33,166,Password,90,FHIR,RTOS,Critical,DoS Attack
+D0031,Monitor,Clinic,477.46,2483,Password,37,XML,RTOS,Low,None
+D0022,Implant,Home,369.08,633,Biometric,88,HL7,Android,Low,Phishing
+D0053,Sensor,Ward,277.4,444,Two-Factor,49,JSON,Android,Low,Malware Injection
+D0063,Sensor,Ward,306.05,3838,Password,19,FHIR,Android,Medium,Malware Injection
+D0062,Wearable,Clinic,210.09,2818,Biometric,89,JSON,Linux,Low,Phishing
+D0028,Implant,Clinic,124.24,4217,Biometric,85,JSON,Linux,High,Data Breach
+D0052,Sensor,ER,178.31,3910,Two-Factor,12,FHIR,RTOS,Critical,DoS Attack
+D0008,Infusion Pump,Clinic,379.04,323,Password,61,FHIR,Linux,Critical,Phishing
+D0022,Monitor,ICU,7.69,2063,Password,41,XML,Windows,Medium,Data Breach
+D0049,Infusion Pump,ICU,58.48,4483,Token,33,FHIR,RTOS,Medium,Phishing
+D0001,Monitor,ICU,23.48,1439,Password,50,JSON,Linux,Medium,Phishing
+D0050,Monitor,Ward,20.84,3616,Two-Factor,68,JSON,RTOS,High,None
+D0034,Wearable,Home,427.8,4752,Biometric,71,FHIR,Windows,Critical,DoS Attack
+D0059,Sensor,ER,351.98,215,Two-Factor,86,FHIR,Windows,Critical,Malware Injection
+D0037,Monitor,Clinic,237.35,1617,Password,33,XML,RTOS,Medium,Malware Injection
+D0055,Wearable,ER,49.37,778,Biometric,81,XML,Linux,Medium,None
+D0090,Infusion Pump,Ward,246.06,2093,Two-Factor,24,XML,RTOS,Low,Malware Injection
+D0094,Wearable,Clinic,237,4247,Password,61,JSON,Windows,Medium,Malware Injection
+D0072,Infusion Pump,Clinic,87.01,3546,Password,61,FHIR,Linux,Critical,DoS Attack
+D0085,Sensor,Ward,217.21,828,Password,98,HL7,Linux,Low,Data Breach
+D0092,Monitor,Home,199.55,263,Token,28,FHIR,Android,High,Phishing
+D0063,Implant,Clinic,308.12,3812,Token,58,FHIR,RTOS,High,DoS Attack
+D0020,Infusion Pump,Home,317.73,1626,Token,43,XML,Windows,Critical,None
+D0025,Monitor,Ward,23.13,2498,Biometric,41,HL7,Windows,Low,None
+D0038,Implant,ER,187.62,2986,Two-Factor,39,FHIR,RTOS,Medium,Malware Injection
+D0028,Implant,Clinic,313.12,3167,Biometric,86,HL7,RTOS,Medium,Malware Injection
+D0008,Infusion Pump,Home,251.82,641,Biometric,49,HL7,Windows,Low,DoS Attack
+D0075,Monitor,Clinic,428.32,2770,Password,17,FHIR,Windows,Low,None
+D0095,Implant,Home,329.52,763,Password,98,XML,RTOS,High,None
+D0070,Wearable,Clinic,81.89,985,Biometric,70,XML,RTOS,Medium,Phishing
+D0008,Wearable,Clinic,35.75,4387,Two-Factor,70,FHIR,Linux,Critical,DoS Attack
+D0096,Monitor,Clinic,321.39,51,Token,98,HL7,Android,Medium,Phishing
+D0041,Sensor,ER,13.74,2898,Biometric,65,HL7,Windows,High,DoS Attack
+D0008,Wearable,Clinic,293.09,4094,Biometric,74,XML,Linux,Low,Data Breach
+D0007,Infusion Pump,Home,470.15,1999,Two-Factor,85,XML,RTOS,Medium,None
+D0075,Monitor,ER,287.95,967,Two-Factor,5,XML,Android,Low,Malware Injection
+D0062,Implant,ICU,194.39,3224,Biometric,2,HL7,Windows,Medium,None
+D0065,Wearable,Home,321.82,2291,Password,22,HL7,Android,Critical,Data Breach
+D0068,Monitor,Home,229.4,139,Password,57,XML,Linux,Critical,DoS Attack
+D0021,Monitor,ICU,273.04,1759,Biometric,66,XML,RTOS,Medium,Data Breach
+D0008,Sensor,ER,470.76,2219,Password,74,HL7,Linux,Medium,None
+D0066,Implant,Clinic,193.36,4288,Two-Factor,98,JSON,Android,Low,Phishing
+D0011,Implant,Home,480.61,3091,Token,16,HL7,Linux,Low,DoS Attack
+D0024,Implant,ICU,452.72,155,Two-Factor,51,FHIR,Linux,High,Phishing
+D0009,Infusion Pump,Clinic,98.3,936,Token,39,FHIR,RTOS,High,Data Breach
+D0077,Monitor,ER,35.15,477,Biometric,86,HL7,RTOS,Medium,Malware Injection
+D0009,Infusion Pump,Home,50.84,1945,Biometric,76,FHIR,Android,Critical,DoS Attack
+D0087,Infusion Pump,Clinic,9.6,366,Token,88,JSON,Android,High,None
+D0031,Monitor,Clinic,47.67,684,Password,40,JSON,Linux,High,Phishing
+D0052,Implant,Ward,341.66,1975,Biometric,38,JSON,Windows,Critical,Data Breach
+D0016,Monitor,ICU,36.06,2106,Token,60,FHIR,Linux,Low,DoS Attack
+D0073,Sensor,Clinic,159.83,3194,Password,59,XML,Android,Low,Malware Injection
+D0032,Monitor,ER,422.52,2320,Token,10,JSON,Linux,Low,DoS Attack
+D0075,Monitor,Ward,12.12,1489,Biometric,99,JSON,RTOS,Medium,Malware Injection
+D0077,Wearable,Clinic,407.33,602,Biometric,64,XML,Linux,Medium,Data Breach
+D0006,Sensor,Clinic,141.29,765,Two-Factor,63,HL7,RTOS,Low,Phishing
+D0080,Wearable,ER,59.52,3961,Token,49,XML,Windows,Critical,DoS Attack
+D0011,Implant,Ward,348.52,1763,Password,64,HL7,RTOS,Low,DoS Attack
+D0054,Implant,Ward,314.66,3439,Biometric,32,HL7,Windows,Low,Phishing
+D0085,Sensor,ICU,438.8,1157,Two-Factor,7,XML,Windows,Medium,DoS Attack
+D0075,Infusion Pump,Clinic,367.67,4256,Two-Factor,21,JSON,Linux,Critical,DoS Attack
+D0073,Monitor,ICU,401.84,300,Password,20,HL7,Android,High,None
+D0067,Wearable,Ward,141.38,2480,Biometric,26,XML,Android,Critical,DoS Attack
+D0041,Sensor,ICU,89.13,2104,Two-Factor,68,JSON,Linux,Medium,None
+D0034,Wearable,ER,375.43,508,Password,86,HL7,Windows,High,DoS Attack
+D0027,Monitor,Home,403.51,257,Password,15,FHIR,Android,Medium,Phishing
+D0086,Infusion Pump,ER,495.26,949,Token,85,JSON,RTOS,Low,Data Breach
+D0092,Wearable,Ward,206.6,3511,Token,79,XML,Android,High,DoS Attack
+D0041,Sensor,ER,186.32,3435,Biometric,86,FHIR,Windows,Medium,Phishing
+D0031,Monitor,Ward,388.32,71,Two-Factor,92,XML,Windows,Low,Data Breach
+D0034,Monitor,ER,170.73,459,Two-Factor,14,HL7,RTOS,Medium,None
+D0051,Infusion Pump,Clinic,465.41,944,Token,27,JSON,Linux,Critical,Phishing
+D0017,Sensor,Clinic,429.28,564,Biometric,40,FHIR,Android,Medium,Malware Injection
+D0086,Monitor,ER,214.78,4954,Two-Factor,58,FHIR,Linux,Critical,Data Breach
+D0083,Wearable,ICU,375.56,4159,Password,28,FHIR,Android,Medium,Data Breach
+D0039,Implant,Ward,377.39,2184,Password,26,HL7,RTOS,Low,Malware Injection
+D0059,Sensor,Clinic,52.01,3645,Password,63,JSON,Linux,Critical,Data Breach
+D0041,Wearable,Ward,451.33,3006,Password,66,JSON,Android,Critical,Data Breach
+D0097,Infusion Pump,Clinic,252.87,1610,Token,25,HL7,Android,Low,Malware Injection
+D0010,Infusion Pump,Home,413.32,1316,Biometric,3,XML,Windows,Critical,Phishing
+D0002,Monitor,ER,160.36,2219,Password,72,FHIR,Windows,Medium,DoS Attack
+D0059,Infusion Pump,Clinic,447.81,3688,Password,44,XML,Android,Medium,Data Breach
+D0080,Implant,ER,194.91,799,Two-Factor,97,HL7,Windows,Critical,Phishing
+D0073,Wearable,Home,5.91,3477,Token,42,XML,Android,Medium,Phishing
+D0013,Sensor,Ward,452.74,4830,Two-Factor,99,XML,Android,Critical,Malware Injection
+D0010,Monitor,ER,46.1,1977,Two-Factor,6,HL7,Windows,High,Phishing
+D0069,Sensor,Clinic,160,3854,Two-Factor,39,FHIR,Windows,Medium,Malware Injection
+D0028,Wearable,Home,475.06,3752,Password,52,XML,Windows,Critical,Phishing
+D0065,Implant,Clinic,475.33,2406,Biometric,23,JSON,Linux,Medium,DoS Attack
+D0034,Wearable,Home,286.93,4840,Token,89,XML,RTOS,High,None
+D0017,Wearable,Home,316.1,2385,Password,50,XML,Android,High,Phishing
+D0045,Monitor,Clinic,224.5,356,Token,43,JSON,RTOS,Medium,Phishing
+D0009,Sensor,ER,146.96,3715,Password,19,FHIR,Linux,High,Phishing
+D0032,Wearable,Ward,164.67,2039,Biometric,69,JSON,Linux,Medium,Malware Injection
+D0048,Wearable,Ward,336.42,711,Biometric,51,FHIR,Android,Low,Data Breach
+D0037,Implant,Home,376.31,4694,Token,11,HL7,Android,Low,Malware Injection
+D0021,Infusion Pump,Clinic,395.89,361,Two-Factor,12,HL7,RTOS,High,DoS Attack
+D0057,Implant,Home,394.91,2970,Password,74,XML,RTOS,Medium,Malware Injection
+D0070,Sensor,Ward,46.06,1132,Token,8,XML,Windows,Low,Data Breach
+D0091,Sensor,Home,247.46,3021,Two-Factor,24,HL7,RTOS,Critical,DoS Attack
+D0039,Monitor,Home,29.25,804,Biometric,92,JSON,RTOS,Critical,Data Breach
+D0079,Infusion Pump,Ward,274.99,4180,Password,41,HL7,Linux,Critical,Data Breach
+D0084,Sensor,ER,221.04,4590,Biometric,36,FHIR,RTOS,Medium,None
+D0068,Infusion Pump,Home,443.91,402,Password,85,XML,Windows,High,DoS Attack
+D0002,Implant,ER,175.78,952,Two-Factor,72,JSON,RTOS,Medium,None
+D0086,Sensor,Home,58.97,3938,Password,55,XML,Android,High,None
+D0071,Wearable,Clinic,71.92,208,Two-Factor,9,HL7,Windows,Medium,Data Breach
+D0039,Sensor,Home,380.87,2027,Password,47,JSON,Android,Medium,None
+D0085,Infusion Pump,Home,309.3,1006,Token,15,HL7,Linux,Medium,Malware Injection
+D0014,Sensor,ICU,51.01,2121,Biometric,48,FHIR,Windows,Low,None
+D0018,Monitor,Clinic,42.51,453,Password,82,HL7,Windows,Critical,None
+D0034,Wearable,Clinic,350.63,4661,Password,42,JSON,RTOS,Critical,Data Breach
+D0015,Monitor,ER,36.85,2829,Biometric,60,HL7,Windows,Medium,Phishing
+D0014,Implant,ER,411.02,1437,Password,84,XML,Linux,Critical,Malware Injection
+D0096,Sensor,Home,353.27,3503,Biometric,70,XML,Linux,Critical,Data Breach
+D0071,Sensor,Ward,41.13,1005,Two-Factor,12,JSON,Linux,High,Phishing
+D0020,Implant,Home,42.88,1762,Token,2,XML,Windows,Low,Malware Injection
+D0035,Monitor,ICU,493.33,4753,Token,7,FHIR,Windows,Critical,DoS Attack
+D0037,Wearable,Home,187.45,1323,Biometric,80,FHIR,RTOS,Medium,Malware Injection
+D0078,Monitor,ICU,185.64,3861,Token,3,JSON,Linux,Medium,DoS Attack
+D0027,Infusion Pump,Home,406.49,2675,Biometric,3,HL7,RTOS,High,Malware Injection
+D0092,Monitor,ER,473.65,2432,Token,27,XML,Linux,Critical,Phishing
+D0044,Wearable,Home,493.01,1491,Password,40,XML,RTOS,Medium,DoS Attack
+D0027,Sensor,ER,376.81,3029,Password,33,HL7,Android,Medium,None
+D0088,Monitor,Ward,188.44,1847,Token,92,HL7,Android,Low,Malware Injection
+D0082,Implant,Ward,42.21,4440,Two-Factor,1,HL7,Linux,Critical,DoS Attack
+D0034,Wearable,Clinic,388.68,4059,Token,8,HL7,RTOS,Low,Data Breach
+D0065,Sensor,Home,279.42,4900,Password,32,XML,Windows,Low,Malware Injection
+D0063,Wearable,Clinic,212.4,1444,Token,48,FHIR,Windows,Critical,Malware Injection
+D0033,Implant,Home,453.22,4331,Password,4,JSON,Windows,Low,Phishing
+D0007,Infusion Pump,Ward,56.04,1319,Two-Factor,94,JSON,RTOS,Critical,Phishing
+D0012,Wearable,ICU,246.57,4782,Two-Factor,70,HL7,Android,Critical,Phishing
+D0082,Wearable,Clinic,6.17,3764,Token,19,FHIR,Windows,Critical,DoS Attack
+D0055,Monitor,Clinic,234.6,579,Password,32,XML,Linux,Low,None
+D0036,Implant,Ward,28.62,3673,Two-Factor,9,XML,Android,Critical,Malware Injection
+D0006,Implant,Ward,59.85,3008,Biometric,12,JSON,Linux,Critical,DoS Attack
+D0001,Infusion Pump,ICU,59.2,2964,Token,11,HL7,RTOS,Medium,Malware Injection
+D0043,Implant,Clinic,324.78,4939,Biometric,46,FHIR,Windows,Low,None
+D0099,Wearable,Ward,373.15,3641,Token,16,JSON,Linux,Low,Phishing
+D0017,Infusion Pump,Ward,291.89,2197,Password,1,FHIR,RTOS,Critical,DoS Attack
+D0082,Implant,ICU,481.11,4623,Password,63,HL7,Windows,Medium,None
+D0034,Infusion Pump,ICU,187.75,3419,Biometric,21,HL7,RTOS,Medium,Data Breach
+D0021,Implant,ER,143.21,989,Password,30,JSON,Linux,High,Data Breach
+D0095,Implant,Home,434.37,575,Password,13,HL7,Android,High,Malware Injection
+D0057,Monitor,ER,112.19,51,Password,34,FHIR,Linux,Medium,DoS Attack
+D0071,Implant,ICU,481.63,424,Biometric,4,FHIR,Linux,Low,DoS Attack
+D0091,Infusion Pump,Ward,6.57,2390,Password,28,JSON,Android,Low,Malware Injection
+D0055,Wearable,ICU,484.95,4055,Two-Factor,95,HL7,RTOS,Critical,Malware Injection
+D0072,Monitor,Clinic,22.06,3102,Token,59,XML,RTOS,High,None
+D0002,Implant,Ward,445.63,4698,Two-Factor,27,HL7,Linux,Medium,None
+D0015,Implant,ER,264.09,2415,Biometric,69,JSON,Linux,Critical,Phishing
+D0010,Infusion Pump,ER,496.49,1575,Biometric,25,JSON,RTOS,Low,Malware Injection
+D0089,Monitor,ER,37.36,4526,Password,3,XML,Android,Critical,Phishing
+D0020,Implant,Ward,277.15,1696,Two-Factor,97,JSON,Windows,Critical,DoS Attack
+D0070,Wearable,Home,484.67,63,Biometric,68,JSON,Android,Medium,Data Breach
+D0005,Wearable,Home,261.79,4649,Token,25,XML,Linux,Critical,Data Breach
+D0048,Implant,Home,314.88,2328,Biometric,20,XML,RTOS,Medium,Phishing
+D0075,Wearable,ICU,348.03,3205,Two-Factor,34,FHIR,Android,High,Malware Injection
+D0071,Monitor,ICU,227.54,179,Token,26,JSON,Linux,Critical,Malware Injection
+D0019,Implant,Clinic,313.97,3864,Token,5,XML,Windows,Low,Data Breach
+D0056,Infusion Pump,Ward,292.36,4983,Password,99,FHIR,Windows,Low,Data Breach
+D0017,Monitor,Clinic,450.63,3266,Token,61,JSON,Android,Critical,Phishing
+D0006,Wearable,ICU,23.2,2988,Password,92,XML,Linux,High,Phishing
+D0040,Implant,Ward,140.84,3978,Password,93,JSON,Linux,Low,DoS Attack
+D0047,Monitor,ER,475.23,2090,Biometric,9,FHIR,Windows,High,Data Breach
+D0006,Wearable,Ward,445.19,77,Biometric,50,HL7,RTOS,Critical,Malware Injection
+D0046,Implant,ICU,228.1,2163,Password,6,JSON,RTOS,High,DoS Attack
+D0027,Sensor,ER,310.26,1302,Two-Factor,83,JSON,Android,Medium,Phishing
+D0088,Infusion Pump,ER,139.05,4406,Password,60,JSON,Android,Low,Phishing
+D0032,Wearable,Ward,94.47,2096,Two-Factor,44,JSON,Windows,High,DoS Attack
+D0086,Wearable,Home,232.12,4605,Token,11,XML,Linux,Low,None
+D0014,Sensor,ICU,177,4073,Token,66,HL7,RTOS,High,Data Breach
+D0046,Sensor,ICU,292.04,4446,Token,47,JSON,RTOS,Low,DoS Attack
+D0100,Monitor,Home,39.33,3424,Password,73,XML,RTOS,Low,Malware Injection
+D0072,Infusion Pump,Clinic,487.21,3516,Two-Factor,85,HL7,RTOS,Critical,DoS Attack
+D0053,Infusion Pump,Clinic,493.11,3131,Password,88,FHIR,Windows,High,None
+D0080,Wearable,ICU,349.23,3828,Token,98,FHIR,RTOS,Critical,Data Breach
+D0096,Sensor,Home,268.28,679,Biometric,86,FHIR,Linux,Low,Phishing
+D0020,Infusion Pump,Home,155.11,319,Token,3,FHIR,RTOS,High,Phishing
+D0031,Implant,ER,406.99,2689,Token,76,FHIR,Android,High,Phishing
+D0021,Infusion Pump,Clinic,342.52,2043,Biometric,92,HL7,Linux,Medium,Phishing
+D0023,Wearable,Clinic,81.73,2941,Two-Factor,30,JSON,RTOS,Low,DoS Attack
+D0053,Infusion Pump,ER,455.51,3482,Token,90,FHIR,Windows,Medium,None
+D0004,Monitor,Ward,411.36,1330,Two-Factor,21,JSON,Windows,Medium,None
+D0023,Sensor,Clinic,474.93,2410,Biometric,28,JSON,RTOS,High,Phishing
+D0095,Wearable,ER,363,625,Biometric,90,JSON,Android,Medium,Malware Injection
+D0043,Wearable,Home,306.9,1357,Biometric,62,JSON,Windows,Low,Phishing
+D0053,Sensor,Ward,209.41,3242,Password,33,JSON,Linux,Critical,DoS Attack
+D0086,Sensor,ICU,466.4,3228,Two-Factor,85,HL7,Android,Medium,None
+D0095,Sensor,Home,433.1,2784,Password,35,JSON,Windows,Medium,Data Breach
+D0032,Wearable,Ward,23.09,2262,Biometric,52,HL7,Android,High,Phishing
+D0035,Sensor,ER,13.67,2402,Token,34,HL7,Windows,High,Phishing
+D0021,Sensor,Home,188.54,3618,Password,41,JSON,Windows,High,Malware Injection
+D0090,Wearable,Ward,405.37,1705,Token,51,HL7,Android,Critical,Malware Injection
+D0014,Wearable,ICU,493.64,1629,Password,47,FHIR,RTOS,High,None
+D0049,Monitor,Home,75.63,2253,Two-Factor,82,FHIR,RTOS,Low,DoS Attack
+D0005,Infusion Pump,Home,297.27,1440,Token,58,FHIR,Android,Low,Phishing
+D0061,Implant,Clinic,190.75,1792,Password,75,JSON,Windows,High,Data Breach
+D0029,Wearable,Ward,484.97,1975,Biometric,57,FHIR,Windows,High,Data Breach
+D0026,Implant,Ward,421.14,669,Biometric,23,XML,Windows,Critical,Phishing
+D0059,Monitor,Clinic,419.25,1324,Two-Factor,48,XML,Windows,Critical,None
+D0045,Infusion Pump,ER,234.61,1006,Two-Factor,22,XML,Windows,Low,None
+D0040,Infusion Pump,ER,207.7,1989,Password,17,FHIR,RTOS,Critical,Malware Injection
+D0030,Infusion Pump,Clinic,137.07,4003,Biometric,69,HL7,Windows,High,DoS Attack
+D0029,Monitor,Home,28.66,2431,Token,11,XML,Android,Critical,Phishing
+D0004,Sensor,ICU,432.43,1018,Password,94,HL7,Windows,High,Phishing
+D0085,Infusion Pump,ER,406.54,1366,Password,15,HL7,Windows,Low,Malware Injection
+D0025,Infusion Pump,ICU,499.86,1093,Biometric,91,JSON,RTOS,Medium,Phishing
+D0052,Monitor,Ward,498.32,331,Two-Factor,35,XML,Linux,Critical,DoS Attack
+D0043,Sensor,Ward,277.94,2894,Token,33,JSON,Linux,Low,Data Breach
+D0036,Infusion Pump,ER,384.61,1108,Two-Factor,84,JSON,Windows,Low,Data Breach
+D0009,Infusion Pump,Home,472.41,4343,Password,16,JSON,RTOS,Critical,DoS Attack
+D0099,Sensor,Ward,424.9,2582,Password,34,FHIR,Windows,Medium,Data Breach
+D0036,Wearable,ICU,124.05,3878,Biometric,66,JSON,Linux,High,None
+D0045,Wearable,Home,225.55,1058,Two-Factor,99,HL7,RTOS,Low,Phishing
+D0083,Infusion Pump,ER,65.02,1279,Password,40,XML,Android,Low,DoS Attack
+D0066,Implant,Ward,477.05,1085,Password,28,HL7,Android,Medium,None
+D0052,Sensor,ER,303.28,4635,Two-Factor,47,XML,RTOS,High,Malware Injection
+D0087,Sensor,Home,114.71,325,Biometric,39,FHIR,Android,Low,None
+D0069,Implant,Home,336.01,2790,Biometric,70,XML,RTOS,Medium,Malware Injection
+D0043,Sensor,Home,309.26,2339,Token,73,XML,Windows,Critical,Malware Injection
+D0004,Monitor,Clinic,179.4,1289,Token,20,XML,Windows,Medium,None
+D0015,Sensor,Clinic,57.22,175,Token,1,XML,Linux,Medium,Malware Injection
+D0034,Sensor,ICU,335.95,4115,Two-Factor,72,HL7,Windows,Low,None
+D0023,Sensor,Home,260.39,4362,Token,87,XML,Windows,High,Phishing
+D0075,Wearable,Home,386.27,3918,Token,63,JSON,Linux,Critical,Phishing
+D0034,Monitor,Ward,260.32,1258,Two-Factor,67,XML,RTOS,Medium,Malware Injection
+D0005,Sensor,ICU,426.16,3299,Token,4,JSON,Windows,Critical,Phishing
+D0014,Monitor,ICU,276.18,968,Biometric,58,FHIR,Windows,High,None
+D0077,Monitor,ER,280.69,3973,Password,25,JSON,Windows,Critical,DoS Attack
+D0056,Monitor,Home,438.39,4453,Biometric,47,HL7,Linux,Critical,DoS Attack
+D0045,Implant,Ward,202.04,2019,Biometric,38,JSON,RTOS,Low,DoS Attack
+D0094,Sensor,ER,67.44,2843,Password,15,HL7,Linux,High,None
+D0041,Wearable,Clinic,14.88,941,Biometric,63,JSON,Android,Medium,Malware Injection
+D0056,Wearable,Home,377.69,4520,Password,21,XML,Windows,Low,None
+D0078,Wearable,ICU,310.34,2083,Biometric,99,FHIR,Android,Low,Malware Injection
+D0066,Wearable,Home,352.19,1414,Two-Factor,57,HL7,RTOS,Medium,Malware Injection
+D0015,Sensor,Home,106.88,178,Two-Factor,53,HL7,Windows,High,Phishing
+D0050,Wearable,Clinic,68.62,1064,Token,46,XML,Android,Critical,Data Breach
+D0074,Monitor,Ward,7.77,1849,Two-Factor,14,XML,Android,High,Data Breach
+D0025,Implant,Ward,175.62,4662,Password,76,JSON,Android,High,Phishing
+D0033,Infusion Pump,Ward,295.16,1568,Token,17,HL7,Windows,Critical,Malware Injection
+D0006,Wearable,ER,196.43,4231,Biometric,39,JSON,Windows,Critical,Malware Injection
+D0091,Infusion Pump,Ward,219.02,1248,Two-Factor,9,XML,Windows,Critical,Phishing
+D0056,Infusion Pump,ER,452.13,3923,Token,99,HL7,Windows,High,DoS Attack
+D0001,Infusion Pump,Clinic,174.45,2524,Two-Factor,77,FHIR,Linux,Medium,DoS Attack
+D0067,Monitor,Home,257.24,3535,Token,79,FHIR,Android,High,None
+D0069,Wearable,ER,391.93,4099,Password,82,HL7,Linux,Medium,Phishing
+D0088,Sensor,Clinic,198.57,3769,Password,97,HL7,RTOS,High,Phishing
+D0093,Monitor,ER,311.23,352,Biometric,6,XML,Android,Medium,None
+D0095,Sensor,Clinic,431.25,4002,Token,91,HL7,Windows,Critical,DoS Attack
+D0095,Wearable,Ward,474.79,4733,Password,23,HL7,Windows,High,DoS Attack
+D0086,Monitor,Ward,73.96,1036,Biometric,59,FHIR,Windows,High,Data Breach
+D0026,Infusion Pump,Clinic,463.33,1913,Token,91,XML,Linux,Low,Data Breach
+D0047,Monitor,ICU,246.31,4490,Biometric,98,JSON,Windows,Medium,Data Breach
+D0056,Monitor,Clinic,129.49,4959,Password,46,HL7,Android,High,Malware Injection
+D0009,Wearable,ER,229.84,3122,Biometric,38,XML,Android,High,None
+D0086,Infusion Pump,Clinic,490.03,3174,Token,14,XML,RTOS,Critical,DoS Attack
+D0043,Infusion Pump,Home,246.56,1377,Two-Factor,72,FHIR,Android,Medium,Malware Injection
+D0080,Implant,ICU,164.71,2458,Password,62,HL7,Windows,Medium,Phishing
+D0041,Implant,Clinic,316.88,3723,Token,35,HL7,Android,High,None
+D0085,Sensor,ICU,120.45,3341,Token,19,XML,Android,Medium,Malware Injection
+D0016,Implant,ICU,38.39,4083,Biometric,30,HL7,Linux,Medium,Malware Injection
+D0093,Wearable,Clinic,64.88,753,Password,78,FHIR,Android,Medium,Phishing
+D0039,Monitor,Clinic,64.46,624,Two-Factor,84,FHIR,RTOS,Medium,Malware Injection
+D0065,Infusion Pump,Ward,76.38,3282,Two-Factor,25,FHIR,Android,Medium,Malware Injection
+D0040,Monitor,Clinic,69.84,4833,Biometric,40,HL7,Linux,Low,Data Breach
+D0086,Wearable,Clinic,320.62,2682,Password,88,HL7,Linux,Low,Phishing
+D0053,Monitor,Ward,91.35,3878,Two-Factor,14,FHIR,Android,High,Phishing
+D0042,Infusion Pump,Ward,173.16,3280,Password,26,JSON,Android,Medium,Phishing
+D0052,Implant,Home,448.45,538,Biometric,87,XML,Linux,Critical,None
+D0090,Sensor,Clinic,237.24,1397,Password,22,JSON,Windows,High,Phishing
+D0038,Infusion Pump,ER,333.95,3731,Password,48,HL7,Android,High,DoS Attack
+D0071,Infusion Pump,ICU,86.57,3223,Password,83,XML,Linux,Medium,None
+D0017,Infusion Pump,Ward,96.55,4639,Biometric,51,XML,Android,Medium,None
+D0025,Infusion Pump,Clinic,20.91,1717,Biometric,3,HL7,Linux,Low,DoS Attack
+D0054,Wearable,ER,84.88,1687,Biometric,42,JSON,Windows,High,Phishing
+D0086,Infusion Pump,ICU,139.66,4164,Two-Factor,19,JSON,RTOS,High,DoS Attack
+D0049,Monitor,Clinic,88.92,3603,Token,73,JSON,Android,Medium,Malware Injection
+D0087,Wearable,ER,44.81,1050,Password,28,JSON,Android,High,Data Breach
+D0096,Implant,ICU,60.76,900,Token,84,FHIR,RTOS,Critical,Data Breach
+D0023,Monitor,ER,230.66,1438,Password,45,XML,RTOS,Medium,Malware Injection
+D0079,Monitor,Ward,103.56,3762,Password,71,JSON,Android,High,Data Breach
+D0073,Monitor,Clinic,182.45,1417,Password,78,HL7,Windows,Low,Malware Injection
+D0039,Monitor,ER,251.96,871,Biometric,63,FHIR,Android,Low,Malware Injection
+D0052,Wearable,ER,345.35,504,Two-Factor,73,XML,RTOS,Critical,Data Breach
+D0071,Implant,Clinic,20.14,1674,Biometric,19,HL7,Linux,Critical,Malware Injection
+D0001,Implant,ICU,399.81,2822,Password,47,FHIR,Windows,Medium,Data Breach
+D0039,Infusion Pump,Clinic,314.14,3776,Token,14,XML,Android,Critical,Phishing
+D0037,Sensor,ER,41.34,3197,Password,38,HL7,Android,High,Data Breach
+D0027,Wearable,Home,436.85,4139,Password,53,XML,Linux,Medium,Data Breach
+D0056,Implant,ICU,460.48,4856,Two-Factor,61,FHIR,Linux,Low,Phishing
+D0075,Wearable,ER,31.01,2240,Password,36,JSON,Windows,High,None
+D0078,Wearable,Home,138.8,966,Biometric,40,FHIR,Windows,High,Data Breach
+D0084,Infusion Pump,ICU,403.2,4036,Two-Factor,81,HL7,Android,Critical,Malware Injection
+D0042,Implant,Ward,374.26,2925,Two-Factor,30,JSON,Android,High,DoS Attack
+D0060,Sensor,Clinic,92.67,1490,Two-Factor,9,XML,RTOS,Medium,Phishing
+D0057,Sensor,ICU,105.07,4450,Password,64,XML,Android,Critical,Data Breach
+D0057,Sensor,ICU,185.55,785,Two-Factor,33,XML,Linux,High,Phishing
+D0087,Monitor,ER,242.52,3618,Two-Factor,52,FHIR,Windows,Low,Phishing
+D0028,Implant,Home,309.32,3388,Biometric,89,XML,Android,Critical,Malware Injection
+D0066,Monitor,ICU,184.77,3065,Token,14,XML,Windows,Low,Malware Injection
+D0061,Monitor,Clinic,231.54,2939,Biometric,75,XML,Android,Medium,Data Breach
+D0095,Monitor,ICU,373.86,1011,Biometric,53,FHIR,Linux,Low,Data Breach
+D0022,Infusion Pump,ICU,18.82,3039,Token,99,HL7,RTOS,High,Phishing
+D0085,Infusion Pump,ER,126.59,3898,Token,59,JSON,RTOS,Low,Phishing
+D0011,Wearable,ICU,356.82,1076,Two-Factor,78,XML,Windows,Critical,Phishing
+D0037,Wearable,Home,447.66,3915,Biometric,94,FHIR,Linux,Medium,Malware Injection
+D0066,Implant,ER,256.08,2913,Password,41,XML,Linux,Critical,Phishing
+D0085,Implant,Ward,266.29,2551,Biometric,68,JSON,Linux,High,None
+D0082,Infusion Pump,Ward,54.03,1997,Token,68,HL7,Android,Low,Data Breach
+D0080,Wearable,ER,223.98,1227,Two-Factor,92,HL7,RTOS,High,Data Breach
+D0043,Wearable,Home,266.54,4810,Two-Factor,8,XML,Linux,Low,DoS Attack
+D0012,Monitor,ER,121.61,61,Two-Factor,2,JSON,Android,Medium,None
+D0097,Sensor,ER,134.99,4449,Password,86,XML,Windows,Medium,Phishing
+D0031,Sensor,ER,188.95,3414,Password,41,HL7,Android,High,Malware Injection
+D0087,Sensor,ER,10.53,3072,Token,55,FHIR,Android,Medium,DoS Attack
+D0040,Infusion Pump,ICU,161.38,3421,Two-Factor,16,FHIR,Linux,Low,Malware Injection
+D0029,Sensor,Clinic,106.12,2880,Biometric,93,FHIR,Windows,Low,Malware Injection
+D0026,Sensor,Ward,164.08,92,Two-Factor,62,JSON,RTOS,Critical,Phishing
+D0019,Monitor,Home,60.32,993,Biometric,48,JSON,Windows,Low,Phishing
+D0004,Implant,ICU,445.32,2440,Biometric,30,HL7,Windows,Critical,Phishing
+D0006,Infusion Pump,Ward,297,2595,Password,12,JSON,Windows,Medium,None
+D0032,Wearable,Clinic,339.71,2461,Two-Factor,35,HL7,Windows,Critical,None
+D0061,Monitor,ER,394.69,1054,Token,11,HL7,Linux,High,None
+D0079,Sensor,Clinic,249.47,70,Two-Factor,64,XML,Android,Low,DoS Attack
+D0099,Wearable,Ward,43.92,456,Two-Factor,50,FHIR,RTOS,High,Malware Injection
+D0010,Monitor,Ward,268.78,1064,Token,85,FHIR,RTOS,Critical,Phishing
+D0059,Infusion Pump,ICU,293.63,4481,Token,21,HL7,Android,Medium,Phishing
+D0054,Sensor,ICU,372.85,1888,Two-Factor,69,JSON,RTOS,Critical,Phishing
+D0081,Infusion Pump,Home,216.11,3238,Token,48,HL7,Windows,High,None
+D0074,Monitor,ER,64.23,764,Biometric,20,FHIR,Linux,Critical,None
+D0025,Wearable,Clinic,142.25,4196,Password,67,XML,Windows,High,None
+D0092,Implant,ER,181.86,3904,Token,44,FHIR,Windows,Low,Phishing
+D0090,Sensor,Clinic,323.14,4469,Biometric,33,HL7,Linux,High,Data Breach
+D0050,Infusion Pump,ER,285.6,4934,Password,73,HL7,RTOS,High,Malware Injection
+D0064,Wearable,Ward,178.37,190,Token,61,FHIR,Linux,High,None
+D0052,Wearable,Ward,493.26,4615,Password,9,FHIR,Android,High,Malware Injection
+D0032,Implant,ER,303.08,4932,Two-Factor,68,JSON,Android,Critical,Phishing
+D0019,Monitor,Home,118.99,1013,Token,35,XML,Android,Low,None
+D0084,Implant,Ward,51.34,422,Biometric,81,FHIR,Linux,Medium,DoS Attack
+D0089,Implant,Home,76.85,3685,Biometric,98,XML,Android,Critical,None
+D0001,Monitor,Ward,123.36,2591,Password,88,XML,Windows,Critical,Malware Injection
+D0097,Monitor,ICU,80.76,3660,Biometric,96,JSON,Windows,Critical,DoS Attack
+D0099,Monitor,ICU,93.69,1742,Biometric,65,HL7,Android,High,Phishing
+D0014,Wearable,ER,142.91,155,Token,8,XML,Android,Medium,Phishing
+D0100,Wearable,Clinic,87.1,1731,Password,45,XML,Android,Critical,Malware Injection
+D0055,Sensor,ICU,448.43,4147,Biometric,87,XML,Android,Critical,Phishing
+D0029,Sensor,Ward,40.58,4066,Two-Factor,47,XML,Linux,Medium,None
+D0023,Implant,Ward,262.49,2686,Token,40,HL7,Linux,Low,DoS Attack
+D0090,Implant,ICU,205.49,2187,Biometric,76,JSON,Windows,Medium,Phishing
+D0067,Sensor,ICU,491.2,3466,Biometric,54,XML,RTOS,Medium,Phishing
+D0060,Infusion Pump,Clinic,56.46,4495,Biometric,76,FHIR,Windows,High,Malware Injection
+D0007,Implant,ICU,199.23,3580,Token,46,HL7,Linux,Critical,Data Breach
+D0072,Infusion Pump,ER,484.75,1336,Token,47,JSON,Windows,High,DoS Attack
+D0032,Infusion Pump,Clinic,432.82,3229,Password,15,FHIR,Windows,Low,Data Breach
+D0016,Monitor,ICU,408.63,3704,Token,19,FHIR,Linux,Critical,Phishing
+D0059,Wearable,Ward,129.32,2409,Biometric,26,FHIR,RTOS,Low,DoS Attack
+D0018,Sensor,ICU,85.86,494,Biometric,52,XML,Linux,Low,Phishing
+D0060,Wearable,ER,334.49,85,Two-Factor,93,XML,Windows,Critical,Data Breach
+D0086,Sensor,ER,464.72,1525,Token,22,FHIR,Linux,High,None
+D0068,Wearable,Ward,278.6,4007,Biometric,21,JSON,RTOS,Critical,Data Breach
+D0072,Sensor,Clinic,286.02,1848,Two-Factor,51,XML,RTOS,Medium,None
+D0077,Wearable,Ward,140.35,1895,Password,38,JSON,Linux,Critical,DoS Attack
+D0041,Monitor,ICU,384.86,1458,Password,20,XML,Linux,Medium,None
+D0097,Infusion Pump,Ward,93.93,1758,Password,29,XML,Linux,Medium,Phishing
+D0057,Sensor,Clinic,162.18,2988,Biometric,51,XML,Android,Medium,Data Breach
+D0079,Infusion Pump,Home,213.01,1350,Biometric,4,JSON,Windows,Critical,DoS Attack
+D0093,Sensor,Ward,254.05,1293,Password,55,XML,Windows,High,Phishing
+D0065,Sensor,Clinic,121.58,4026,Two-Factor,71,JSON,RTOS,Critical,Phishing
+D0055,Monitor,Home,57.86,3147,Password,92,XML,Windows,Low,DoS Attack
+D0071,Wearable,Clinic,305.5,4666,Token,28,HL7,Android,High,Phishing
+D0058,Sensor,Clinic,144.67,59,Biometric,4,XML,RTOS,High,Data Breach
+D0021,Wearable,Home,290.83,2475,Biometric,22,FHIR,Linux,Critical,None
+D0096,Monitor,Ward,77.6,1710,Token,76,JSON,Linux,Critical,Data Breach
+D0061,Implant,Home,240.83,2681,Biometric,45,HL7,RTOS,Medium,DoS Attack
+D0058,Infusion Pump,Ward,266.53,4865,Token,67,JSON,RTOS,Low,Malware Injection
+D0034,Sensor,Clinic,26.39,1122,Password,86,XML,RTOS,Low,Phishing
+D0097,Monitor,Ward,168.63,3275,Password,66,FHIR,Android,Medium,Data Breach
+D0032,Wearable,ER,67.64,1366,Biometric,88,FHIR,Linux,High,Data Breach
+D0082,Sensor,Home,32.16,4195,Biometric,34,FHIR,Android,High,Data Breach
+D0036,Wearable,Home,494.99,3733,Password,91,XML,Linux,Critical,Data Breach
+D0099,Implant,ICU,161.52,3323,Token,55,XML,RTOS,Low,None
+D0100,Sensor,Clinic,405.03,195,Password,1,FHIR,Android,High,Phishing
+D0067,Infusion Pump,Clinic,127.69,3090,Token,72,XML,Windows,Critical,Malware Injection
+D0063,Sensor,Ward,340.91,1512,Two-Factor,87,XML,Linux,Medium,Phishing
+D0081,Infusion Pump,ER,380.23,4726,Password,38,HL7,RTOS,Critical,Phishing
+D0031,Wearable,Clinic,298.02,1634,Token,6,XML,RTOS,Medium,DoS Attack
+D0036,Sensor,ER,236.05,532,Token,86,HL7,Android,Low,Data Breach
+D0057,Monitor,ICU,206.21,3229,Token,25,FHIR,Windows,Low,Data Breach
+D0010,Monitor,Home,174.76,1299,Biometric,82,JSON,Windows,High,None
+D0092,Implant,ER,464.8,4818,Biometric,17,XML,Linux,Critical,Malware Injection
+D0037,Monitor,Clinic,415.39,680,Two-Factor,61,FHIR,Linux,Low,Malware Injection
+D0031,Implant,Home,482.53,711,Two-Factor,12,FHIR,Linux,High,DoS Attack
+D0035,Wearable,ER,62.59,3553,Token,6,XML,Android,Critical,DoS Attack
+D0043,Infusion Pump,ER,365.57,2902,Biometric,90,JSON,RTOS,Critical,DoS Attack
+D0041,Wearable,Ward,469.2,2516,Token,27,JSON,Android,High,Data Breach
+D0070,Infusion Pump,Home,91.03,1037,Biometric,8,XML,RTOS,Critical,Data Breach
+D0011,Infusion Pump,ER,33.71,1596,Biometric,83,FHIR,RTOS,Low,None
+D0018,Implant,Ward,370.69,699,Two-Factor,65,XML,RTOS,High,Malware Injection
+D0020,Monitor,Clinic,287.45,1018,Token,57,JSON,Windows,Low,Malware Injection
+D0030,Monitor,ER,420.99,2687,Token,93,XML,Android,High,DoS Attack
+D0050,Implant,Ward,70.32,1150,Biometric,99,FHIR,Android,Medium,Phishing
+D0089,Implant,Ward,397.74,490,Biometric,40,JSON,Android,Low,Malware Injection
+D0020,Wearable,Home,101.21,819,Password,14,JSON,Windows,Medium,None
+D0091,Implant,Ward,82.25,1393,Two-Factor,35,JSON,Windows,High,Data Breach
+D0028,Monitor,ER,82.55,4408,Password,48,FHIR,RTOS,Critical,Malware Injection
+D0009,Implant,ICU,407.38,3779,Biometric,84,XML,Windows,Medium,None
+D0054,Implant,Clinic,332.77,3956,Token,56,JSON,Linux,High,Data Breach
+D0053,Infusion Pump,ER,261.77,1627,Biometric,49,FHIR,Linux,Medium,Phishing
+D0043,Implant,ER,179.74,4058,Password,13,FHIR,Linux,Low,DoS Attack
+D0070,Wearable,Clinic,438.66,3401,Two-Factor,61,HL7,Android,High,DoS Attack
+D0060,Implant,Clinic,196.53,4845,Biometric,49,JSON,Linux,High,DoS Attack
+D0054,Sensor,Ward,408.39,2399,Token,46,FHIR,Windows,Critical,Malware Injection
+D0008,Sensor,ER,219.85,3652,Password,62,XML,Android,High,None
+D0027,Infusion Pump,Ward,188.78,1291,Biometric,8,FHIR,Android,Low,DoS Attack
+D0054,Infusion Pump,Home,231.61,1175,Token,43,FHIR,Linux,High,Data Breach
+D0050,Sensor,Ward,151.04,2651,Token,20,HL7,RTOS,High,None
+D0099,Infusion Pump,Home,373.93,1240,Biometric,97,JSON,RTOS,Low,None
+D0075,Infusion Pump,ICU,251.61,4181,Password,90,FHIR,Windows,Medium,Malware Injection
+D0090,Monitor,ER,116.49,4889,Token,39,XML,Linux,Medium,Malware Injection
+D0003,Monitor,Home,449.84,4498,Two-Factor,85,HL7,Windows,Low,Phishing
+D0098,Implant,ICU,192.25,122,Password,49,FHIR,RTOS,Medium,Phishing
+D0074,Sensor,Clinic,272,1964,Token,64,XML,RTOS,High,Malware Injection
+D0049,Wearable,Ward,453.28,2522,Biometric,62,JSON,Linux,High,Malware Injection
+D0062,Sensor,ICU,312.31,3096,Biometric,54,HL7,RTOS,High,None
+D0001,Sensor,Home,58.89,757,Password,9,FHIR,RTOS,High,None
+D0046,Monitor,ER,469.95,1854,Token,88,HL7,RTOS,High,Malware Injection
+D0039,Monitor,Clinic,314.04,3763,Token,37,XML,Linux,Low,None
+D0097,Infusion Pump,Clinic,167.79,2614,Password,49,JSON,Linux,High,Malware Injection
+D0050,Wearable,ICU,70.07,2525,Password,41,JSON,RTOS,Medium,None
+D0054,Monitor,ICU,397.12,3660,Password,17,JSON,RTOS,Low,Malware Injection
+D0069,Infusion Pump,Ward,310.23,4305,Two-Factor,88,JSON,Android,Medium,Data Breach
+D0096,Wearable,Clinic,266.96,2873,Two-Factor,21,FHIR,Linux,High,Malware Injection
+D0095,Monitor,Clinic,447,1785,Two-Factor,51,XML,Windows,High,Data Breach
+D0070,Sensor,Ward,394.4,1635,Biometric,59,HL7,Windows,Critical,DoS Attack
+D0078,Sensor,ER,76.26,116,Two-Factor,39,FHIR,RTOS,Critical,Data Breach
+D0029,Wearable,Ward,156.21,3111,Two-Factor,55,HL7,RTOS,High,DoS Attack
+D0063,Wearable,Home,124.62,2478,Two-Factor,41,JSON,Android,Medium,Phishing
+D0029,Monitor,Home,372.1,4203,Token,39,XML,Android,Low,None
+D0035,Monitor,ICU,17.25,391,Two-Factor,13,FHIR,Linux,Medium,Phishing
+D0056,Wearable,Ward,285.16,2824,Password,64,HL7,Windows,Medium,Malware Injection
+D0063,Wearable,Ward,381.35,2867,Two-Factor,11,HL7,Android,Medium,Data Breach
+D0004,Infusion Pump,ICU,438.44,2711,Biometric,19,FHIR,Windows,Medium,DoS Attack
+D0050,Infusion Pump,ER,171.37,1282,Biometric,11,HL7,Android,Low,DoS Attack
+D0044,Infusion Pump,Ward,410.72,3924,Two-Factor,77,HL7,RTOS,Critical,Data Breach
+D0086,Sensor,Clinic,55.76,2451,Password,46,FHIR,Android,Critical,Malware Injection
+D0087,Sensor,Ward,423.3,1544,Password,45,XML,Android,Low,Data Breach
+D0052,Infusion Pump,ER,64.18,4261,Token,1,FHIR,Linux,Low,Phishing
+D0093,Infusion Pump,Ward,198.95,711,Password,40,FHIR,RTOS,Medium,Phishing
+D0022,Wearable,Clinic,398.75,3933,Token,19,XML,RTOS,Low,Malware Injection
+D0060,Sensor,Home,75.38,3669,Token,76,HL7,Linux,Critical,Data Breach
+D0017,Infusion Pump,Home,115.01,1918,Password,72,FHIR,Windows,High,Phishing
+D0080,Implant,ER,361.27,2384,Password,72,HL7,RTOS,High,DoS Attack
+D0069,Monitor,ER,360.16,3424,Token,61,HL7,RTOS,High,DoS Attack
+D0004,Infusion Pump,Clinic,320.75,1066,Biometric,12,HL7,Linux,Medium,None
+D0051,Sensor,Home,347.13,4456,Two-Factor,61,FHIR,Windows,Critical,Data Breach
+D0076,Infusion Pump,Home,271.59,257,Biometric,33,XML,RTOS,High,Malware Injection
+D0073,Implant,Home,126.27,2715,Password,45,JSON,Linux,Medium,DoS Attack
+D0085,Wearable,Home,173.18,2543,Password,90,XML,RTOS,High,DoS Attack
+D0004,Sensor,Clinic,91.21,682,Token,92,FHIR,Android,Low,Phishing
+D0011,Wearable,ER,454.27,2152,Two-Factor,69,XML,Windows,Low,DoS Attack
+D0083,Monitor,ER,291.9,3009,Password,8,JSON,Android,Medium,Data Breach
+D0055,Wearable,ICU,200.73,3133,Two-Factor,25,XML,Windows,Medium,Data Breach
+D0018,Infusion Pump,ER,231.27,4802,Biometric,91,FHIR,Linux,Medium,None
+D0060,Implant,Home,473.67,1981,Two-Factor,46,HL7,RTOS,Medium,Phishing
+D0024,Wearable,Ward,77.1,3769,Biometric,87,JSON,RTOS,High,Data Breach
+D0007,Implant,Home,293.32,2612,Password,30,XML,Linux,Medium,Data Breach
+D0034,Sensor,Home,253.19,1729,Password,47,FHIR,RTOS,Medium,Phishing
+D0049,Sensor,ER,305.92,286,Token,87,JSON,Android,Medium,Phishing
+D0042,Infusion Pump,ICU,9.55,4493,Biometric,49,JSON,Linux,Low,Phishing
+D0028,Infusion Pump,Clinic,436.13,4775,Biometric,47,XML,Android,Critical,Phishing
+D0059,Infusion Pump,Ward,466.09,1590,Two-Factor,84,FHIR,Windows,Low,None
+D0042,Implant,Ward,282.78,3993,Token,82,FHIR,RTOS,Low,DoS Attack
+D0044,Monitor,ICU,348.48,413,Token,18,JSON,Android,Low,Malware Injection
+D0098,Monitor,Home,461.29,2418,Token,66,JSON,RTOS,Critical,Phishing
+D0049,Monitor,Clinic,353.77,335,Biometric,68,HL7,Windows,Critical,Data Breach
+D0036,Sensor,Clinic,76.69,198,Password,94,XML,RTOS,Low,Malware Injection
+D0097,Sensor,Clinic,288.36,4087,Password,33,HL7,Windows,Medium,None
+D0054,Monitor,ER,303.55,4601,Two-Factor,36,JSON,Linux,Low,Malware Injection
+D0033,Infusion Pump,Home,212.35,1816,Two-Factor,82,JSON,RTOS,Low,Malware Injection
+D0011,Wearable,Ward,368.35,4945,Biometric,19,FHIR,Linux,Low,DoS Attack
+D0061,Monitor,Ward,467.22,1062,Password,28,FHIR,Windows,Critical,DoS Attack
+D0003,Wearable,Home,462.82,2881,Token,40,HL7,Linux,Low,Phishing
+D0096,Monitor,Ward,225.69,2557,Password,84,JSON,Android,High,Data Breach
+D0070,Wearable,ER,57.06,1573,Two-Factor,97,XML,Linux,Low,Phishing
+D0007,Infusion Pump,Clinic,492.43,2835,Password,76,FHIR,Android,Low,Malware Injection
+D0045,Sensor,Ward,419.53,2606,Token,15,FHIR,Windows,High,Phishing
+D0029,Monitor,ER,62.77,3775,Two-Factor,41,JSON,Windows,Low,Malware Injection
+D0084,Monitor,Clinic,460.46,4626,Biometric,39,XML,RTOS,Low,Data Breach
+D0009,Infusion Pump,Home,435.01,1651,Password,2,HL7,Android,Low,None
+D0100,Implant,Home,259.66,2458,Password,63,XML,RTOS,Medium,Malware Injection
+D0084,Monitor,ER,295.84,390,Biometric,29,JSON,RTOS,Medium,None
+D0006,Wearable,ER,199.8,2867,Biometric,74,XML,Windows,Medium,DoS Attack
+D0097,Infusion Pump,ER,27.85,2546,Token,66,XML,Linux,High,Phishing
+D0004,Implant,Ward,167.93,4980,Password,51,JSON,Windows,Low,Phishing
+D0032,Monitor,Home,401.53,1775,Two-Factor,75,HL7,Windows,Low,None
+D0026,Monitor,Ward,2.81,1739,Password,77,XML,Linux,Medium,DoS Attack
+D0003,Sensor,Ward,167.08,3317,Token,10,JSON,Android,High,DoS Attack
+D0080,Implant,Clinic,199.39,4456,Two-Factor,14,XML,Android,High,DoS Attack
+D0020,Infusion Pump,ER,268.93,311,Two-Factor,82,JSON,Linux,High,Malware Injection
+D0031,Wearable,Ward,459.97,1492,Two-Factor,51,HL7,Linux,Medium,DoS Attack
+D0017,Monitor,Clinic,173.5,455,Token,73,FHIR,RTOS,Medium,None
+D0061,Infusion Pump,ICU,173.8,2240,Password,39,HL7,Linux,Low,None
+D0086,Sensor,Clinic,368.88,4487,Two-Factor,28,FHIR,Linux,Low,Data Breach
+D0015,Monitor,ICU,226.38,293,Biometric,3,FHIR,RTOS,Low,Phishing
+D0073,Implant,ICU,112.69,4635,Token,84,XML,Android,Medium,Phishing
+D0028,Infusion Pump,ICU,226.49,4157,Two-Factor,70,JSON,Linux,Medium,Data Breach
+D0060,Wearable,ICU,70.86,610,Token,27,JSON,Linux,High,None
+D0090,Sensor,ER,88.61,4187,Biometric,2,JSON,RTOS,Medium,None
+D0033,Infusion Pump,Ward,249.43,2775,Two-Factor,93,HL7,Linux,Low,None
+D0099,Monitor,Ward,209.75,643,Password,38,HL7,RTOS,Low,Phishing
+D0048,Wearable,ICU,457.47,1876,Token,3,HL7,Windows,Medium,DoS Attack
+D0022,Monitor,Ward,181.52,3279,Two-Factor,16,HL7,RTOS,Critical,Phishing
+D0078,Monitor,ICU,290.5,3337,Two-Factor,94,XML,Windows,High,Data Breach
+D0078,Implant,Ward,316.32,4123,Token,40,XML,Windows,Medium,DoS Attack
+D0096,Implant,Clinic,7.04,183,Biometric,2,FHIR,RTOS,Critical,Malware Injection
+D0092,Monitor,ER,331.94,3188,Token,81,FHIR,RTOS,Low,Malware Injection
+D0015,Sensor,Home,89.43,3969,Password,41,JSON,RTOS,Medium,None
+D0100,Implant,ICU,480.55,122,Biometric,12,HL7,Android,High,DoS Attack
+D0021,Implant,Clinic,74.76,4544,Password,35,XML,Linux,Critical,Phishing
+D0040,Implant,Clinic,207.6,4275,Password,65,FHIR,RTOS,Critical,Data Breach
+D0014,Implant,ER,43.13,3028,Token,55,JSON,Windows,Medium,None
+D0075,Wearable,ER,498.44,4411,Two-Factor,45,JSON,Windows,Medium,None
+D0004,Monitor,ICU,251.35,2035,Biometric,79,HL7,RTOS,Critical,DoS Attack
+D0040,Wearable,ICU,297.89,842,Password,90,HL7,Linux,Low,Data Breach
+D0074,Infusion Pump,Clinic,34,4309,Two-Factor,85,JSON,Linux,High,Malware Injection
+D0087,Infusion Pump,Clinic,375.11,144,Two-Factor,62,HL7,Linux,Low,None
+D0049,Infusion Pump,ER,105.35,1183,Two-Factor,49,HL7,Windows,Critical,None
+D0051,Wearable,ICU,449.08,4967,Biometric,95,FHIR,RTOS,Low,DoS Attack
+D0092,Monitor,ICU,102.97,287,Two-Factor,25,FHIR,RTOS,Medium,None
+D0026,Infusion Pump,Clinic,95.75,2996,Token,23,FHIR,RTOS,Critical,DoS Attack
+D0010,Implant,Home,18.76,2580,Password,24,XML,Windows,High,Data Breach
+D0076,Infusion Pump,Clinic,236.3,2010,Two-Factor,38,HL7,RTOS,High,Malware Injection
+D0089,Sensor,Home,282.64,1098,Password,28,FHIR,Windows,Low,Malware Injection
+D0081,Implant,ICU,33.32,2579,Biometric,21,FHIR,Windows,Low,None
+D0032,Implant,Clinic,387.88,3014,Password,54,JSON,Linux,High,None
+D0014,Implant,ER,226.92,1013,Two-Factor,18,FHIR,RTOS,Critical,DoS Attack
+D0090,Infusion Pump,Ward,262.43,586,Biometric,36,JSON,RTOS,Low,Data Breach
+D0099,Implant,ICU,220.66,4273,Biometric,99,HL7,Android,Critical,DoS Attack
+D0039,Sensor,ICU,200.68,3729,Biometric,45,JSON,Linux,High,Phishing
+D0088,Wearable,Clinic,280.04,4237,Biometric,73,FHIR,Windows,Critical,None
+D0077,Sensor,Ward,78.04,3774,Biometric,53,XML,Linux,High,Malware Injection
+D0016,Monitor,Ward,91.37,592,Password,30,XML,Android,Critical,Malware Injection
+D0073,Implant,Ward,430.96,895,Two-Factor,60,HL7,Linux,Medium,DoS Attack
+D0006,Sensor,Clinic,473.08,3653,Password,98,FHIR,Linux,Critical,DoS Attack
+D0045,Infusion Pump,Clinic,186.97,3086,Two-Factor,32,HL7,Android,High,None
+D0069,Monitor,Home,135.74,2544,Biometric,67,JSON,Linux,Critical,DoS Attack
+D0055,Sensor,Home,322.18,4535,Biometric,67,HL7,Linux,Medium,Malware Injection
+D0085,Implant,Home,204.66,2769,Token,28,XML,Android,Low,Malware Injection
+D0048,Infusion Pump,ER,13.18,1934,Token,44,HL7,Android,Critical,Malware Injection
+D0009,Implant,ICU,78.5,4188,Password,79,JSON,Windows,High,Phishing
+D0065,Monitor,Home,358.13,4399,Password,41,FHIR,Android,Medium,DoS Attack
+D0083,Sensor,ER,329.63,3251,Two-Factor,63,HL7,RTOS,Low,None
+D0044,Implant,ER,14.03,2760,Two-Factor,23,JSON,RTOS,Critical,Malware Injection
+D0002,Monitor,Clinic,111.38,2003,Token,75,XML,RTOS,Low,Phishing
+D0054,Infusion Pump,Ward,115.92,4787,Token,48,FHIR,Windows,Critical,DoS Attack
+D0063,Sensor,Ward,336.11,3900,Two-Factor,32,HL7,Linux,Critical,Data Breach
+D0014,Sensor,Home,10.35,739,Password,57,HL7,Android,Low,None
+D0056,Monitor,ICU,52.5,2000,Two-Factor,33,XML,Windows,Low,None
+D0047,Sensor,ICU,400.06,506,Password,24,HL7,Linux,Medium,None
+D0082,Infusion Pump,ICU,89.68,2180,Two-Factor,39,XML,Android,Critical,None
+D0059,Infusion Pump,ER,326.55,4026,Biometric,34,XML,Linux,Critical,Data Breach
+D0091,Sensor,ER,119.47,4294,Biometric,56,FHIR,Android,Low,DoS Attack
+D0020,Implant,ER,50.17,1229,Password,28,XML,RTOS,Medium,DoS Attack
+D0056,Implant,Clinic,121.96,4335,Password,37,XML,Android,Low,DoS Attack
+D0023,Infusion Pump,ER,361.27,3615,Password,7,XML,Android,High,None
+D0094,Implant,ICU,427.92,932,Token,68,HL7,Windows,Medium,Data Breach
+D0067,Monitor,ICU,415.19,449,Token,37,XML,Windows,High,Phishing
+D0084,Wearable,Ward,198.89,658,Two-Factor,56,XML,Windows,Medium,None
+D0035,Sensor,ICU,334.21,1688,Token,65,XML,RTOS,Critical,Data Breach
+D0079,Monitor,ER,102.89,2198,Two-Factor,65,XML,RTOS,Low,Malware Injection
+D0069,Infusion Pump,ER,146.93,1432,Two-Factor,47,HL7,Android,Medium,DoS Attack
+D0100,Wearable,Home,448.22,1453,Two-Factor,20,XML,Windows,Critical,None
+D0062,Infusion Pump,Clinic,6.99,869,Password,19,JSON,RTOS,Critical,None
+D0060,Wearable,ICU,43.21,3342,Biometric,29,JSON,RTOS,High,Data Breach
+D0056,Monitor,Clinic,104.34,869,Token,74,JSON,Android,High,DoS Attack
+D0094,Wearable,ICU,13.75,469,Two-Factor,60,FHIR,Android,Critical,Phishing
+D0076,Implant,Ward,91.13,4269,Biometric,18,JSON,Linux,High,Malware Injection
+D0035,Monitor,Ward,291.73,4567,Two-Factor,92,JSON,Linux,Critical,Data Breach
+D0042,Sensor,Clinic,211,3352,Password,35,FHIR,Android,Critical,Phishing
+D0032,Infusion Pump,ER,446.39,1558,Two-Factor,43,HL7,Linux,Critical,Phishing
+D0012,Implant,Home,408.81,817,Token,95,HL7,RTOS,High,Malware Injection
+D0036,Sensor,ICU,171.24,2094,Biometric,91,FHIR,Android,Medium,Malware Injection
+D0058,Wearable,ICU,130.08,2189,Password,11,HL7,Android,Critical,Malware Injection
+D0032,Implant,Home,190.16,3079,Two-Factor,49,FHIR,Windows,Low,Phishing
+D0097,Sensor,Clinic,295.35,1599,Token,38,XML,RTOS,Low,Data Breach
+D0060,Monitor,Clinic,134.4,1814,Token,64,HL7,RTOS,High,Phishing
+D0073,Wearable,ICU,312.26,2695,Password,69,FHIR,Windows,Critical,Data Breach
+D0079,Sensor,Ward,205,3766,Token,8,XML,Linux,Critical,Phishing
+D0086,Wearable,Home,276.25,4655,Token,34,XML,Android,Medium,Malware Injection
+D0049,Sensor,ICU,218.35,4531,Token,48,JSON,Linux,Medium,DoS Attack
+D0044,Infusion Pump,Ward,147.59,2343,Token,56,FHIR,RTOS,Low,None
+D0004,Monitor,Clinic,474.25,4887,Two-Factor,76,FHIR,Linux,Low,Phishing
+D0064,Implant,Ward,381.92,2758,Password,65,JSON,RTOS,Low,None
+D0042,Sensor,ER,70.49,950,Biometric,31,HL7,Android,Low,None
+D0024,Wearable,ICU,434.3,3134,Biometric,4,FHIR,Android,Critical,None
+D0063,Monitor,Home,243.97,2059,Token,50,XML,Android,Low,Phishing
+D0028,Implant,Ward,447.33,291,Two-Factor,69,FHIR,Windows,Medium,DoS Attack
+D0046,Wearable,Clinic,400.03,2435,Token,30,JSON,Windows,Critical,None
+D0034,Monitor,Ward,212.89,4318,Token,88,FHIR,Windows,High,Phishing
+D0044,Wearable,Clinic,11.72,721,Two-Factor,59,HL7,Android,Medium,Phishing
+D0036,Monitor,ER,134.7,213,Password,67,JSON,Android,High,Phishing
+D0077,Implant,Clinic,271.05,514,Biometric,75,JSON,Linux,Low,Phishing
+D0090,Implant,Home,316.92,3092,Two-Factor,45,XML,RTOS,Low,Phishing
+D0036,Wearable,ER,129.31,4642,Biometric,4,FHIR,Windows,Critical,Data Breach
+D0072,Monitor,Ward,70.11,4845,Two-Factor,26,JSON,Android,Critical,Data Breach
+D0002,Sensor,ICU,417.55,2492,Two-Factor,27,HL7,Android,Medium,None
+D0067,Implant,Clinic,492.21,4848,Token,46,HL7,RTOS,High,Data Breach
+D0025,Sensor,Home,263.08,2405,Password,64,HL7,Windows,Critical,Phishing
+D0011,Sensor,ICU,86.25,4328,Biometric,91,XML,Windows,Critical,Phishing
+D0031,Infusion Pump,ICU,136.52,4774,Password,51,HL7,Linux,High,Data Breach
+D0093,Wearable,ER,9.69,2607,Token,50,XML,Android,High,None
+D0053,Wearable,Ward,457.19,595,Two-Factor,6,HL7,Linux,Low,None
+D0063,Wearable,ICU,59.32,4769,Biometric,59,FHIR,Android,Low,Malware Injection
+D0072,Monitor,Home,288.47,3885,Password,15,HL7,RTOS,Critical,Data Breach
+D0098,Implant,Clinic,137.39,643,Biometric,30,HL7,Linux,Low,Phishing
+D0031,Implant,Clinic,277.31,4889,Biometric,42,XML,Android,Critical,Phishing
+D0089,Infusion Pump,Clinic,325.88,3854,Biometric,37,FHIR,Windows,Critical,Malware Injection
+D0061,Infusion Pump,ER,414.96,1509,Password,42,FHIR,RTOS,High,Data Breach
+D0083,Infusion Pump,Home,103.61,3543,Biometric,35,XML,Android,Critical,None
+D0092,Sensor,ICU,5.99,2651,Password,87,FHIR,Linux,Critical,DoS Attack
+D0063,Wearable,Home,68.87,2494,Two-Factor,6,HL7,Linux,Critical,Malware Injection
+D0058,Monitor,ER,450.06,2722,Password,68,HL7,Android,Low,None
+D0003,Implant,ER,437.01,4250,Token,18,FHIR,RTOS,Low,Phishing
+D0012,Monitor,Ward,298.91,66,Biometric,73,HL7,Android,Medium,Malware Injection
+D0038,Wearable,Home,300.46,3241,Token,29,FHIR,Linux,High,Malware Injection
+D0029,Wearable,Clinic,332.69,442,Token,77,XML,Linux,Medium,DoS Attack
+D0052,Implant,ER,88.1,474,Two-Factor,59,XML,Windows,Critical,None
+D0089,Sensor,ER,457.25,621,Two-Factor,47,XML,Windows,Critical,DoS Attack
+D0032,Infusion Pump,Ward,209.68,3681,Password,17,JSON,Linux,Medium,Malware Injection
+D0040,Sensor,Clinic,191.88,1170,Password,96,HL7,Windows,High,None
+D0085,Wearable,ER,259.7,291,Biometric,22,XML,Windows,Critical,Data Breach
+D0075,Wearable,ICU,23.96,3947,Token,68,FHIR,Android,Critical,Malware Injection
+D0048,Sensor,Clinic,83.56,4145,Two-Factor,69,FHIR,RTOS,Low,DoS Attack
+D0061,Infusion Pump,Home,369.15,2329,Two-Factor,37,XML,Android,Critical,DoS Attack
+D0071,Infusion Pump,Ward,41.86,838,Biometric,49,XML,Android,Critical,DoS Attack
+D0068,Wearable,ICU,301.77,764,Two-Factor,13,XML,Windows,Critical,DoS Attack
+D0045,Infusion Pump,ICU,123.05,4904,Token,34,FHIR,Windows,Medium,DoS Attack
+D0055,Infusion Pump,Home,194.95,2899,Token,86,JSON,RTOS,Low,Phishing
+D0096,Implant,Ward,144.7,825,Biometric,53,XML,RTOS,Critical,Malware Injection
+D0071,Implant,ER,178.16,4076,Token,87,FHIR,RTOS,High,Data Breach
+D0043,Monitor,Ward,359.66,2297,Password,51,FHIR,Android,Critical,Data Breach
+D0046,Sensor,ER,148.91,128,Token,3,XML,RTOS,Critical,None
+D0090,Wearable,Home,283.42,3976,Password,42,HL7,Linux,High,Phishing
+D0059,Infusion Pump,Home,238.29,905,Two-Factor,98,FHIR,Linux,High,Malware Injection
+D0035,Monitor,ICU,332,2198,Password,32,HL7,Android,High,DoS Attack
+D0040,Implant,ICU,468.45,1081,Biometric,51,HL7,Windows,Low,DoS Attack
+D0033,Infusion Pump,ICU,366.42,4990,Biometric,85,JSON,RTOS,Low,Data Breach
+D0030,Sensor,Home,107.86,3321,Biometric,46,FHIR,Linux,Low,Data Breach
+D0016,Implant,ER,16.08,3626,Biometric,21,JSON,RTOS,Medium,Phishing
+D0093,Wearable,Home,131.5,4232,Biometric,44,XML,Linux,High,Malware Injection
+D0025,Infusion Pump,Home,297.74,3506,Token,11,JSON,Linux,High,Malware Injection
+D0041,Monitor,ICU,26.19,3556,Two-Factor,68,XML,RTOS,Low,None
+D0016,Wearable,Ward,248.43,457,Password,1,HL7,Linux,High,DoS Attack
+D0096,Infusion Pump,ICU,298.62,2761,Password,92,FHIR,RTOS,Critical,Malware Injection
+D0069,Infusion Pump,Ward,167.45,3138,Two-Factor,63,JSON,Linux,Low,Malware Injection
+D0098,Infusion Pump,ER,385.57,1718,Biometric,24,FHIR,Windows,Critical,Phishing
+D0089,Infusion Pump,ER,53.75,197,Biometric,99,HL7,Android,High,Phishing
+D0024,Infusion Pump,Clinic,38.03,4377,Password,13,HL7,Android,High,None
+D0025,Wearable,Clinic,364.23,3947,Biometric,98,HL7,RTOS,Critical,DoS Attack
+D0028,Sensor,Clinic,248,2000,Token,11,HL7,Android,High,None
+D0095,Sensor,ER,344.36,415,Token,51,HL7,Android,Low,Phishing
+D0062,Wearable,ICU,217.7,1724,Token,17,HL7,Android,Medium,DoS Attack
+D0036,Sensor,ICU,123.58,4581,Two-Factor,99,JSON,Android,Medium,Phishing
+D0093,Monitor,ICU,409.64,4544,Two-Factor,82,FHIR,Windows,Medium,Phishing
+D0076,Monitor,Home,399.81,2596,Token,86,JSON,Windows,High,None
+D0098,Wearable,Clinic,347.5,612,Two-Factor,24,HL7,Android,Low,Data Breach
+D0068,Monitor,ICU,136.44,3612,Token,19,XML,Windows,Low,Data Breach
+D0077,Wearable,Clinic,295.32,2539,Biometric,37,XML,Windows,High,None
+D0037,Monitor,Clinic,180.81,822,Two-Factor,85,HL7,Android,Low,Phishing
+D0013,Implant,Home,46.25,2087,Token,8,HL7,RTOS,High,Phishing
+D0025,Wearable,ER,458.7,3473,Two-Factor,28,HL7,Android,Medium,Phishing
+D0038,Infusion Pump,ICU,68.84,2617,Password,5,FHIR,Windows,Low,Data Breach
+D0030,Monitor,Home,475.14,1623,Password,17,FHIR,RTOS,High,DoS Attack
+D0047,Implant,ER,223.28,3744,Token,36,JSON,Windows,Low,Malware Injection
